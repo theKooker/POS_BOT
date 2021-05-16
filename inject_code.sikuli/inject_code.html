@@ -1,0 +1,392 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>inject_code.sikuli</h2> <a href="inject_code.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">#!/usr/bin/env python</span>
+<span class="cmt"># -*- coding: utf-8 -*-</span>
+<span class="kw">from</span> sikuli <span class="kw">import</span> *
+<span class="kw">import</span> imp,sys,json
+<span class="kw">from</span> javax.swing <span class="kw">import</span> JFrame,JLabel
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\http_code.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\modifiable_data.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\needed_functions_for_injecting.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\result.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\alert.sikuli"</span>)
+<span class="kw">import</span> modifiable_data
+<span class="kw">import</span> thread
+<span class="kw">from</span> datetime <span class="kw">import</span> date,datetime
+today=date.today()
+<span class="kw">import</span> logging
+logging.basicConfig(format=modifiable_data.extra_infos[<span class="str">"log_format"</span>],filename=modifiable_data.extra_infos[<span class="str">"error_file"</span>]+<span class="str">" "</span>+str(today)+<span class="str">"-log.log"</span>,filemode=<span class="str">"a"</span>,level=modifiable_data.extra_infos[<span class="str">"log_level"</span>])
+<span class="kw">from</span> needed_functions_for_injecting <span class="kw">import</span> getindex,search_it,item_existed
+<span class="kw">from</span> result <span class="kw">import</span> show_result
+setBundlePath(modifiable_data.extra_infos[<span class="str">"images_path"</span>])
+<span class="kw">def</span> injecting(data_json_order,number_orders,l,time_state):
+    <span class="kw">try</span>:
+        <span class="kw">from</span> timeit <span class="kw">import</span> default_timer <span class="kw">as</span> timer
+<span class="cmt">##============================================================================</span>
+<span class="cmt">##=============================================================================            </span>
+        summe_COD=<span class="dig">0</span>
+        summe_PAID=<span class="dig">0</span>
+        path=modifiable_data.extra_infos[<span class="str">"file_path"</span>]
+        l_k=[]
+        n=<span class="dig">0</span>
+        time_b=<span class="dig">0</span>
+        number_orders_checkedout=<span class="dig">0</span>
+        logging.info(str(number_orders))
+        <span class="kw">for</span> i <span class="kw">in</span> range (<span class="dig">0</span>,number_orders):
+            <span class="kw">if</span> l[i].isSelected():
+                l_k.append(l[i])
+                n=n+<span class="dig">1</span>
+        <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,n):
+            <span class="kw">if</span> l_k[i].isSelected():
+                index=getindex(l,l_k[i].getText(),data_json_order)
+                l_name_order=[]
+                m=<span class="dig">0</span>
+                <span class="kw">import</span> alert
+                thread.start_new_thread(alert.alert_pop,())
+            <span class="cmt">##====================================================</span>
+                order_description=json.loads(data_json_order[index][<span class="str">'source_json'</span>])
+                order_id=data_json_order[index][<span class="str">'order_id'</span>]
+                received_time=data_json_order[index][<span class="str">'received_time'</span>]
+                date=received_time[:received_time.index(<span class="str">" "</span>)]
+                date=datetime.strptime(date,<span class="str">"%Y-%m-%d"</span>).strftime(<span class="str">"%d-%m-%Y"</span>)
+                time=received_time[received_time.index(<span class="str">" "</span>)+<span class="dig">1</span>:]
+                <span class="kw">if</span> time_state==<span class="str">"YES"</span>:
+                    stream = os.popen(<span class="str">'date '</span>+date)
+                    output = stream.read()
+                    stream = os.popen(<span class="str">'time '</span>+time)
+                    output = stream.read()
+                <span class="kw">from</span> timeit <span class="kw">import</span> default_timer <span class="kw">as</span> timer
+                begin=timer()
+                logging.info(<span class="str">"ORDER IR"</span>+order_id)
+                total_amount=data_json_order[index][<span class="str">'total_amount'</span>]
+                short_code=data_json_order[index][<span class="str">'short_code'</span>]
+                payment_type=data_json_order[index][<span class="str">'payment_type'</span>]
+            <span class="cmt">##===================================================</span>
+                <span class="kw">for</span> j <span class="kw">in</span> range(<span class="dig">0</span>,len(order_description)):
+                    nam=order_description[j][<span class="str">"name"</span>].rstrip()
+                    sidedishes=order_description[j][<span class="str">"sideDishes"</span>]
+            <span class="cmt">##====================================================  </span>
+                    <span class="kw">import</span> re
+                    sparmenu_check=re.search(<span class="str">"Sparmen"</span>,nam)
+                    familienmenu_check=re.search(<span class="str">"Familienmen"</span>,nam)
+                    chipsmenu_check=re.search(<span class="str">"F.*nf.T.*ten"</span>,nam)
+            <span class="cmt">##=================================================== </span>
+                    <span class="cmt">#WE CAN ADD HERE STHG IF YOU ARE SURE OF IT :)       </span>
+                    <span class="cmt">#WE CAN ADD HERE STHG IF YOU ARE SURE OF IT :) </span>
+            <span class="cmt">##===================================================</span>
+                    <span class="kw">if</span> (sparmenu_check) <span class="kw">or</span>(familienmenu_check)<span class="kw">or</span> (chipsmenu_check)<span class="kw">or</span>(nam==<span class="str">"Cookie"</span>)<span class="kw">or</span>(nam==<span class="str">"Laugen-Snack"</span>)<span class="kw">or</span>(nam==<span class="str">"Kids Pak"</span>):
+                        nb=int(order_description[j][<span class="str">"count"</span>])
+                        check_var=True
+                    <span class="kw">else</span>:
+                        check_var=False
+
+                    <span class="kw">if</span> check_var==True:<span class="cmt">#the case when we have a Menu</span>
+                        <span class="kw">for</span> cpt <span class="kw">in</span> range(<span class="dig">0</span>,nb):
+                            <span class="kw">if</span> familienmenu_check:
+                                m=m+<span class="dig">1</span>
+                                l_name_order.append(<span class="str">"30cm|1"</span>)
+                            <span class="kw">else</span>:
+                                <span class="kw">if</span> (nam.<span class="skw">find</span>(<span class="str">"30"</span>)!=-<span class="dig">1</span>)<span class="kw">or</span>(nam.<span class="skw">find</span>(<span class="str">"15"</span>)!=-<span class="dig">1</span>):
+                                    m=m+<span class="dig">1</span>
+                                    l_name_order.append(nam[nam.index(<span class="str">"-"</span>)+<span class="dig">1</span>:].rstrip()+<span class="str">"|1"</span>)
+                            <span class="cmt">#PROCESS OF THE SIDEDISHES                        </span>
+                            <span class="kw">for</span> k <span class="kw">in</span> range(<span class="dig">0</span>,len(sidedishes)):
+                                coun_number=sidedishes[k][<span class="str">"count"</span>]
+                                <span class="kw">if</span> (nam==<span class="str">"Laugen-Snack"</span>):
+                                    m=m+<span class="dig">1</span>
+                                    l_name_order.append(<span class="str">"Snack"</span>+sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|"</span>+str(coun_number))
+                                <span class="kw">if</span> (nam==<span class="str">"Kids Pak"</span>):
+                                    m=m+<span class="dig">1</span>
+                                    l_name_order.append(<span class="str">"Kids' Pak"</span>+sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|"</span>+str(coun_number))
+                                <span class="kw">if</span> (str(sidedishes[k][<span class="str">"price"</span>])!=<span class="str">"0"</span>):
+                                    m=m+<span class="dig">1</span>
+                                    l_name_order.append(sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|"</span>+str(coun_number))
+                                <span class="kw">if</span> (check_var==True)<span class="kw">and</span>(str(sidedishes[k][<span class="str">"price"</span>])==<span class="str">"0"</span>)<span class="kw">and</span>(item_existed(sidedishes[k][<span class="str">"name"</span>],path)):
+                                    <span class="kw">if</span> (familienmenu_check) <span class="kw">and</span> (sidedishes[k][<span class="str">"name"</span>].<span class="skw">find</span>(<span class="str">"Sub"</span>)!=-<span class="dig">1</span>)<span class="kw">and</span>(l_name_order[m-<span class="dig">1</span>]!=<span class="str">"30cm|1"</span>):
+                                        m=m+<span class="dig">1</span>
+                                        l_name_order.append(<span class="str">"30cm|1"</span>)
+                                        m=m+<span class="dig">1</span>
+                                        l_name_order.append(sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|1"</span>)
+                                    <span class="kw">else</span>:
+                                        m=m+<span class="dig">1</span>
+                                        l_name_order.append(sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|"</span>+str(coun_number))
+                    <span class="cmt">##========================================================================================================</span>
+                    <span class="kw">else</span>:<span class="cmt">##the case when we dont have a Menu</span>
+                        coun_number=order_description[j][<span class="str">"count"</span>]
+                        <span class="kw">if</span>(nam.<span class="skw">find</span>(<span class="str">"["</span>)==-<span class="dig">1</span>):
+                            <span class="kw">for</span> cpt <span class="kw">in</span> range(<span class="dig">0</span>,int(coun_number)):
+                                m=m+<span class="dig">1</span>
+                                l_name_order.append(nam+<span class="str">"|1"</span>)
+                        <span class="kw">else</span>:
+                            <span class="kw">for</span> cpt <span class="kw">in</span> range(<span class="dig">0</span>,int(coun_number)):
+                                m=m+<span class="dig">1</span>
+                                l_name_order.append(nam[nam.index(<span class="str">"["</span>)+<span class="dig">1</span>:nam.index(<span class="str">"]"</span>)]+<span class="str">"|1"</span>)
+                                m=m+<span class="dig">1</span>
+                                l_name_order.append(nam[:nam.index(<span class="str">"["</span>)]+<span class="str">"|1"</span>)
+                    <span class="cmt">#PROCESS OF THE SIDEDISHES</span>
+                        <span class="kw">if</span> len(sidedishes)!=<span class="dig">0</span>:
+                            <span class="kw">for</span> k <span class="kw">in</span> range(<span class="dig">0</span>,len(sidedishes)):
+                                coun_number=sidedishes[k][<span class="str">"count"</span>]
+                                <span class="kw">if</span> (str(sidedishes[k][<span class="str">"price"</span>])!=<span class="str">"0"</span>):
+                                    m=m+<span class="dig">1</span>
+                                    l_name_order.append(sidedishes[k][<span class="str">"name"</span>].encode(<span class="str">'utf-8'</span>).rstrip()+<span class="str">"|"</span>+str(coun_number))
+                <span class="cmt">#reformating the items of the list </span>
+                feature_list=[]
+                <span class="kw">for</span> j <span class="kw">in</span> range(<span class="dig">0</span>,m):
+                    feature_list.append(l_name_order[j])
+                    ch=<span class="str">""</span>
+                    term=l_name_order[j]
+                    <span class="kw">for</span> k <span class="kw">in</span> range(<span class="dig">0</span>,len(term)):
+                        <span class="kw">if</span> term[k]!=<span class="str">" "</span>:
+                            ch=ch+term[k].lower().rstrip()
+                    l_name_order[j]=ch
+                <span class="cmt">#PRINTING THE LIST</span>
+                <span class="kw">for</span> item <span class="kw">in</span> l_name_order:
+                    logging.debug(item)
+                <span class="cmt">#PROCESSInG THE CLICKS</span>
+                J=-<span class="dig">1</span>
+                <span class="kw">for</span> aktuel_item <span class="kw">in</span> l_name_order:
+                    J=J+<span class="dig">1</span>
+                    <span class="kw">try</span>:
+                        logging.debug(<span class="str">"YOUR ITEM IS "</span>+aktuel_item)<span class="cmt">#.encode("utf-8")</span>
+                        <span class="kw">if</span> item_existed(aktuel_item,path):
+                            search_it(path,aktuel_item)
+                        <span class="kw">else</span>:
+                            thread.exit
+                            <span class="kw">import</span> alert
+                            thread.start_new_thread(alert.help_pop,())
+                            popError(<span class="str">"Wir haben wahrscheinlich die Bilder fuer die Produkt "</span>+feature_list[J][:feature_list[J].index(<span class="str">"|"</span>)]+<span class="str">" nicht gefunden.\nBitte wahlen Sie die Bilder aus.\nAuf Ok"</span>)
+                            tr=True
+                            path_string=<span class="str">""</span>
+                            <span class="kw">while</span>(tr==True):
+                                region=selectRegion(<span class="str">"wahlen Sie Bilder aus"</span>)
+
+                                path_string=path_string+str(region.getX())+<span class="str">","</span>+str(region.getY())+<span class="str">","</span>+str(region.getW())+<span class="str">","</span>+str(region.getH())+<span class="str">","</span>+<span class="str">"|"</span>
+                                <span class="skw">click</span>(region)
+                                answer=popAsk(<span class="str">"sind Sie fertig ?"</span>)
+                                <span class="kw">if</span> <span class="kw">not</span> answer:
+                                        tr=True
+                                <span class="kw">else</span>:
+                                        tr=False
+                            file=open(path,<span class="str">"a"</span>)
+                            file.write(<span class="str">"\n"</span>)
+                            file.write(aktuel_item[:aktuel_item.index(<span class="str">"|"</span>)].replace(<span class="str">","</span>,<span class="str">"."</span>)+<span class="str">";"</span>+path_string)
+                            file.close()
+                            thread.exit
+                    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                        er=str(e)
+                        logging.error(er)
+                        popError(<span class="str">"ERROR FOR LOOP"</span>)
+
+
+                        <span class="cmt">#import http_code</span>
+                        <span class="cmt">#imp.reload(http_code)</span>
+                        <span class="cmt">#http_code.put_request(order_id,"error")</span>
+                        <span class="cmt">#from timeit import default_timer as timer</span>
+                        <span class="cmt">#end=timer()</span>
+                        <span class="cmt">#time_b=round((time_b)/60,2)</span>
+                        <span class="cmt">#show_result(number_orders_checkedout,summe_COD,summe_PAID,time_b)</span>
+                        <span class="cmt">#return False</span>
+        <span class="cmt">##=================================================================================================</span>
+                <span class="cmt">##This part is for processing the checkout and showing the result in a popup</span>
+                <span class="kw">try</span>:
+                    <span class="skw">find</span>(<img src="gesamt.png" />)
+                    <span class="skw">click</span>(<img src="gesamt.png" />)
+                    <span class="skw">wait</span>(<img src="ja.png" />)
+                    <span class="skw">click</span>(<img src="ja.png" />)
+                    <span class="skw">wait</span>(<img src="ok.png" />)
+                    <span class="skw">click</span>(<img src="ok.png" />)
+                <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                    er=str(e)
+                    logging.error(er)
+                    popError(<span class="str">"IMAGE NOT FOUND"</span>)
+                <span class="kw">if</span> (data_json_order[index][<span class="str">"payment_type"</span>]==<span class="str">"Paid"</span>):<span class="cmt">##the case when we have a PAID order</span>
+                    <span class="kw">try</span>:
+                        <span class="skw">wait</span>(<img src="hauskonto.png" />,<span class="dig">2</span>)
+                        <span class="skw">click</span>(<img src="hauskonto.png" />)
+                        Settings.WaitScanRate
+                        <span class="skw">wait</span>(<img src="lieferando.png" />,<span class="dig">2</span>)
+                        <span class="skw">click</span>(<img src="lieferando.png" />)
+                    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                        er=str(e)
+                        logging.error(er)
+                        popError(<span class="str">"IMAGE NOT FOUND"</span>)
+                    Settings.WaitScanRate
+                    <span class="kw">if</span>(exists(<img src="geldabwurf.png" />)):
+                        <span class="skw">click</span>(<img src="nein.png" />)
+                    betrag_string=<span class="str">""</span>
+                    number_clicks=<span class="dig">0</span>
+                    <span class="kw">while</span> (number_clicks&lt;modifiable_data.extra_infos[<span class="str">"times_click"</span>])<span class="kw">and</span>(betrag_string==<span class="str">""</span>):
+                        <span class="kw">try</span>:
+                            <span class="kw">if</span>(exists(<img src="up.png" />))<span class="kw">and</span>(<span class="kw">not</span>(exists(<img src="del_lieferando.png" />))):
+                                <span class="skw">click</span>(<img src="down.png" />)
+                            Settings.WaitScanRate
+                            <span class="skw">wait</span>(<img src="del_lieferando.png" />)
+                            <span class="skw">click</span>(<img src="del_lieferando.png" />)
+                            <span class="skw">type</span>(<span class="str">"c"</span>,KEY_CTRL)
+                            betrag_string=Env.getClipboard()
+                            number_clicks=number_clicks+<span class="dig">1</span>
+                            time.<span class="skw">sleep</span>(<span class="dig">1</span>)
+                        <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                            er=str(e)
+                            logging.error(er)
+                    <span class="kw">if</span> betrag_string==<span class="str">""</span>:
+                       logging.error(<span class="str">"betrag_string ist leer"</span>)
+                       popError(<span class="str">"Wir haben wahrscheinlich ein Problem gefunden\nBitte gehen auf die Startseite"</span>)
+                       <span class="kw">import</span> http_code
+                       imp.reload(http_code)
+                       http_code.put_request(order_id,<span class="str">"error"</span>)
+                       <span class="kw">from</span> timeit <span class="kw">import</span> default_timer <span class="kw">as</span> timer
+                       end=timer()
+                       time_b=round((time_b)/<span class="dig">60</span>,<span class="dig">2</span>)
+                       show_result(number_orders_checkedout,summe_COD,summe_PAID,time_b)
+                       <span class="kw">return</span> False
+                    <span class="kw">import</span> re
+                    string_b=re.search(<span class="str">r"\d+.\d\d"</span>, betrag_string).group(<span class="dig">0</span>)
+                    string_b=string_b.replace(<span class="str">"."</span>,<span class="str">""</span>)
+                    string_b=string_b.replace(<span class="str">","</span>,<span class="str">"."</span>)
+                    betrag_PAID=float(string_b)
+                    betrag=betrag_PAID
+                    summe_PAID=data_json_order[index][<span class="str">"total_amount"</span>]-betrag_PAID+summe_PAID
+                <span class="kw">else</span>:<span class="cmt">#the case when we have a COD order</span>
+                    <span class="kw">try</span>:
+                        <span class="skw">wait</span>(<img src="hauskonto.png" />)
+                        <span class="skw">click</span>(<img src="hauskonto.png" />)
+                        Settings.WaitScanRate
+
+                        <span class="kw">if</span> (exists(<img src="dellieferbar.png" />)):
+                            <span class="skw">click</span>(<img src="dellieferbar.png" />)
+                        Settings.WaitScanRate
+                    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                        er=str(e)
+                        logging.error(er)
+                        popError(<span class="str">"IMAGE NOT FOUND"</span>)
+                    <span class="kw">if</span>(exists(<img src="geldabwurf.png" />)):
+                        <span class="skw">click</span>(<img src="nein.png" />)
+                    Settings.WaitScanRate
+                    betrag_string=<span class="str">""</span>
+                    number_clicks=<span class="dig">0</span>
+                    <span class="kw">while</span> (number_clicks&lt;modifiable_data.extra_infos[<span class="str">"times_click"</span>])<span class="kw">and</span>(betrag_string==<span class="str">""</span>):
+                        <span class="kw">try</span>:
+                            <span class="kw">if</span>(exists(<img src="up.png" />))<span class="kw">and</span>(<span class="kw">not</span>(exists(<img src="delbar2.png" />)) <span class="kw">or</span> <span class="kw">not</span>(exists(<img src="delbar.png" />))):
+                                <span class="skw">click</span>(<img src="down.png" />)
+                            Settings.WaitScanRate
+                            <span class="skw">wait</span>(<img src="delbar2.png" />,<span class="dig">5</span>)
+                            <span class="skw">click</span>(<img src="delbar2.png" />)
+                            <span class="skw">type</span>(<span class="str">"c"</span>,KEY_CTRL)
+                            betrag_string=Env.getClipboard()
+                            number_clicks=number_clicks+<span class="dig">1</span>
+                            time.<span class="skw">sleep</span>(<span class="dig">1</span>)
+                        <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                            er=str(e)
+                            logging.error(er)
+                    <span class="kw">if</span> betrag_string==<span class="str">""</span>:
+                       logging.error(<span class="str">"betrag_string ist leer"</span>)
+                       popError(<span class="str">"Wir haben wahrscheinlich ein Problem gefunden\nBitte gehen auf die Startseite"</span>)
+                       <span class="kw">import</span> http_code
+                       imp.reload(http_code)
+                       http_code.put_request(order_id,<span class="str">"error"</span>)
+                       <span class="kw">from</span> timeit <span class="kw">import</span> default_timer <span class="kw">as</span> timer
+                       end=timer()
+                       time_b=round((time_b)/<span class="dig">60</span>,<span class="dig">2</span>)
+                       show_result(number_orders_checkedout,summe_COD,summe_PAID,time_b)
+                       <span class="kw">return</span> False
+                    <span class="kw">import</span> re
+                    string_b=re.search(<span class="str">r"\d+.\d\d"</span>, betrag_string).group(<span class="dig">0</span>)
+                    string_b=string_b.replace(<span class="str">"."</span>,<span class="str">""</span>)
+                    string_b=string_b.replace(<span class="str">","</span>,<span class="str">"."</span>)
+                    betrag_COD=float(string_b)
+                    betrag=betrag_COD
+                    summe_COD=data_json_order[index][<span class="str">"total_amount"</span>]-betrag_COD+summe_COD
+                <span class="kw">import</span> http_code
+                imp.reload(http_code)
+                http_code.put_request(order_id,<span class="str">"transferred_auto"</span>)
+                number_orders_checkedout=number_orders_checkedout+<span class="dig">1</span>
+                logging.info(<span class="str">"#"</span>+str(short_code)+<span class="str">";DATENBANK "</span>+str(total_amount)+<span class="str">";KASSE "</span>+str(betrag)+<span class="str">"; "</span>+payment_type)
+                <span class="kw">from</span> timeit <span class="kw">import</span> default_timer <span class="kw">as</span> timer
+                end=timer()
+                time_b=time_b+(end-begin)
+                <span class="kw">print</span>(<span class="str">"TIME_B = "</span>+str(time_b))
+        logging.info(<span class="str">"Total Diff: "</span>+str(summe_COD)+<span class="str">";COD"</span>)
+        logging.info(<span class="str">"Total Diff: "</span>+str(summe_PAID)+<span class="str">";PAID"</span>)
+        logging.info(<span class="str">"#######ORDER COMPLETED##########"</span>)
+        time_b=round((time_b)/<span class="dig">60</span>,<span class="dig">2</span>)
+        <span class="kw">print</span>(time_b)
+        show_result(number_orders_checkedout,summe_COD,summe_PAID,time_b)
+    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+        er=str(e)
+        logging.error(er)
+        <span class="kw">return</span> False
+</pre>
+</body>
+</html>

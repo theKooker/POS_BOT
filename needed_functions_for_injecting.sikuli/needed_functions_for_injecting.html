@@ -1,0 +1,223 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>needed_functions_for_injecting.sikuli</h2> <a href="needed_functions_for_injecting.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">#!/usr/bin/env python</span>
+<span class="cmt"># -*- coding: utf-8 -*-</span>
+<span class="kw">from</span> sikuli <span class="kw">import</span> *
+<span class="kw">import</span> re
+<span class="kw">import</span> sys
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\modifiable_data.sikuli"</span>)
+<span class="kw">import</span> modifiable_data
+<span class="kw">from</span> datetime <span class="kw">import</span> date
+today=date.today()
+<span class="kw">import</span> logging
+logging.basicConfig(format=modifiable_data.extra_infos[<span class="str">"log_format"</span>],filename=modifiable_data.extra_infos[<span class="str">"error_file"</span>]+<span class="str">" "</span>+str(today)+<span class="str">"-log.log"</span>,filemode=<span class="str">"a"</span>,level=modifiable_data.extra_infos[<span class="str">"log_level"</span>])
+<span class="cmt">#sys.stdout=open(modifiable_data.extra_infos["activity_file"]+" "+str(today)+"-log.log","a")</span>
+<span class="cmt">#sys.stderr=open(modifiable_data.extra_infos["error_file"]+" "+str(today)+"-log.log","a")</span>
+setBundlePath(modifiable_data.extra_infos[<span class="str">"images_path"</span>])
+<span class="kw">try</span>:
+    <span class="kw">def</span> getindex(l,ch,data_json_order):<span class="cmt">#this function is to get the index of the actual item in the list in order to get into the data like them price</span>
+        i=<span class="dig">0</span>
+        ch2=<span class="str">"#"</span>+str(data_json_order[<span class="dig">0</span>][<span class="str">"short_code"</span>])+<span class="str">"-"</span>+str(data_json_order[<span class="dig">0</span>][<span class="str">"received_time"</span>])+<span class="str">"-"</span>+str(data_json_order[<span class="dig">0</span>][<span class="str">"total_amount"</span>])+<span class="str">"Euro"</span>
+        <span class="kw">while</span>(ch2 !=ch):
+            i=i+<span class="dig">1</span>
+            ch2=<span class="str">"#"</span>+str(data_json_order[i][<span class="str">"short_code"</span>])+<span class="str">"-"</span>+str(data_json_order[i][<span class="str">"received_time"</span>])+<span class="str">"-"</span>+str(data_json_order[i][<span class="str">"total_amount"</span>])+<span class="str">"Euro"</span>
+        <span class="kw">return</span> i
+<span class="kw">except</span> Exception <span class="kw">as</span> e:
+    er=str(e)
+    logging.error(er)
+<span class="cmt">#=================================</span>
+<span class="cmt">#####DONT MODIFY PLEASE THANK YOU :)#######</span>
+<span class="kw">import</span> re
+<span class="kw">try</span>:
+    <span class="kw">def</span> search_it(path,aktuel_item):
+        count=<span class="dig">0</span>
+        <span class="cmt">#this function is to proceed the clicks on the screen</span>
+        <span class="kw">try</span>:
+            logging.info(<span class="str">"ENTERING THE FUNCTION OF THE CLicK"</span>)
+            file=open(path)
+            ch=file.readline()
+            item=ch[:ch.index(<span class="str">";"</span>)].strip()
+            check_item=re.search(item,aktuel_item)
+            <span class="kw">if</span> check_item:<span class="cmt">#we check if the item is really our actual item</span>
+                Bool=True
+            <span class="kw">else</span>:
+                Bool=False
+            <span class="kw">while</span>(Bool==False):<span class="cmt">#in this while loop you can see that we are going in the text file line after line until we found the right item </span>
+                ch=file.readline()
+                item=ch[:ch.index(<span class="str">";"</span>)].rstrip()
+                check_item=re.search(item,aktuel_item)
+                <span class="kw">if</span> check_item:<span class="cmt">#we check if the item is really our actual item</span>
+                    Bool=True
+                <span class="kw">else</span>:
+                    Bool=False
+            count=int(aktuel_item[aktuel_item.index(<span class="str">"|"</span>)+<span class="dig">1</span>:])
+            logging.info(<span class="str">"count = "</span>+str(count))
+            file.close()
+            ch=ch[ch.index(<span class="str">";"</span>)+<span class="dig">1</span>:]<span class="cmt">#ch is the string which contains the item and his adresses of images</span>
+            <span class="kw">if</span> ch.<span class="skw">find</span>(<img src=".png" />)!=-<span class="dig">1</span>:
+                nb_images=ch.count(<span class="str">";"</span>)
+            <span class="kw">else</span>:
+                nb_images=ch.count(<span class="str">"|"</span>)
+                <span class="kw">print</span>(nb_images)
+        <span class="kw">except</span> Exception <span class="kw">as</span> e:
+            er=str(e)
+            logging.error(er)
+            <span class="cmt">#popError("Wir haben wahrscheinlich die Bilder fuer die Produkt "+aktuel_item+" nicht gefunden.\nBitte wahlen Sie die Bilder aus.\nAuf Ok")</span>
+
+        <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,int(count)):  <span class="cmt">#here we are in for loop to get into the number of times the product will be chosen</span>
+            <span class="kw">for</span> c <span class="kw">in</span> range(<span class="dig">0</span>,nb_images):<span class="cmt">#we are now in the for loop to get into all the adresses of images </span>
+                <span class="kw">try</span>:
+                    <span class="kw">if</span> ch.<span class="skw">find</span>(<img src=".png" />)==-<span class="dig">1</span>:
+                        adresse=ch[:ch.index(<span class="str">"|"</span>)].rstrip()
+                        x=int(adresse[:adresse.index(<span class="str">","</span>)])
+                        adresse=adresse[adresse.index(<span class="str">","</span>)+<span class="dig">1</span>:]
+                        y=int(adresse[:adresse.index(<span class="str">","</span>)])
+                        adresse=adresse[adresse.index(<span class="str">","</span>)+<span class="dig">1</span>:]
+                        w=int(adresse[:adresse.index(<span class="str">","</span>)])
+                        adresse=adresse[adresse.index(<span class="str">","</span>)+<span class="dig">1</span>:]
+                        h=int(adresse[:adresse.index(<span class="str">","</span>)])
+                        logging.debug(<span class="str">"region = "</span>+adresse)
+                        reg=Region(x,y,w,h)
+                        <span class="skw">click</span>(reg)
+                        ch=ch[:ch.index(<span class="str">"|"</span>)+<span class="dig">1</span>:].rstrip()
+                    <span class="kw">else</span>:
+                        adresse=ch[:ch.index(<span class="str">";"</span>)].rstrip()
+                        logging.info(adresse+<span class="str">" is the adresse"</span>)
+                        <span class="kw">while</span> <span class="kw">not</span>(exists(adresse.rstrip())):
+                            popError(<span class="str">"Wir suchen nach "</span>+item)
+                            logging.error(adresse.rstrip()+<span class="str">" NOT FOUND"</span>)
+                        <span class="skw">find</span>(adresse.rstrip())
+                        logging.debug(<span class="str">"FOUND "</span>+adresse.rstrip())
+                        <span class="skw">click</span>(adresse.rstrip())
+                        logging.debug(<span class="str">"CLICKED ON "</span>+adresse.rstrip())
+                        ch=ch[ch.index(<span class="str">";"</span>)+<span class="dig">1</span>:].rstrip()
+
+                <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                    er=str(e)
+                    logging.error(er)
+                    popError(<span class="str">"Wir haben wahrscheinlich die Bilder fuer die Produkt "</span>+aktuel_item+<span class="str">" nicht gefunden.\nBitte wahlen Sie die Bilder aus.\nAuf Ok"</span>)
+<span class="kw">except</span> Exception <span class="kw">as</span> e:
+    er=str(e)
+    logging.error(er)
+
+<span class="cmt">#=================================</span>
+<span class="cmt">#####DONT MODIFY PLEASE THANK YOU :)#######</span>
+<span class="kw">try</span>:
+    <span class="kw">def</span> item_existed(item,path):
+        string_item=<span class="str">""</span>
+        <span class="kw">for</span> c <span class="kw">in</span> range(<span class="dig">0</span>,len(item)):
+            <span class="kw">if</span> (item[c]!=<span class="str">" "</span>):
+                string_item=string_item+item[c].lower()
+        length_file=<span class="dig">0</span>
+        f=open(path)
+        line=f.readline()
+        <span class="kw">while</span> line:
+            line=f.readline()
+            length_file=length_file+<span class="dig">1</span>
+        f.close()
+        <span class="kw">try</span>:
+            f=open(path)
+            ch=f.readline()
+            file_item=ch[:ch.index(<span class="str">";"</span>)].rstrip()
+            check_var=re.search(file_item,string_item)
+            <span class="kw">if</span> check_var:
+                bool_var=True
+            <span class="kw">else</span>:
+                bool_var=False
+
+            i=<span class="dig">0</span>
+            <span class="kw">while</span> (bool_var==False)<span class="kw">and</span>(i&lt;length_file-<span class="dig">1</span>):
+                ch=f.readline()
+                i=i+<span class="dig">1</span>
+                file_item=ch[:ch.index(<span class="str">";"</span>)].rstrip()
+                check_var=re.search(file_item,string_item)
+                <span class="kw">if</span> check_var:
+                    bool_var=True
+                <span class="kw">else</span>:
+                    bool_var=False
+            f.close()
+        <span class="kw">except</span> Exception <span class="kw">as</span> e :
+            er=str(e)
+            logging.error(er)
+            <span class="kw">return</span> True
+        <span class="kw">if</span> bool_var==True:
+            <span class="kw">return</span> True
+        <span class="kw">else</span>:
+            <span class="kw">return</span> False
+<span class="kw">except</span> Exception <span class="kw">as</span> e:
+    er=str(e)
+    logging.error(er)
+    popError(<span class="str">"ERROR1"</span>)
+</pre>
+</body>
+</html>

@@ -1,0 +1,467 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>main.sikuli</h2> <a href="main.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">#!/usr/bin/env python</span>
+<span class="cmt"># -*- coding: utf-8 -*-</span>
+<span class="kw">from</span> sikuli <span class="kw">import</span> *
+<span class="kw">import</span> sys,imp
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\inject_code.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\modifiable_data.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\the_main.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\result.sikuli"</span>)
+<span class="kw">import</span> modifiable_data
+setBundlePath(modifiable_data.extra_infos[<span class="str">"images_path"</span>])
+<span class="kw">from</span> datetime <span class="kw">import</span> date
+today=date.today()
+<span class="kw">import</span> logging
+logging.basicConfig(format=modifiable_data.extra_infos[<span class="str">"log_format"</span>],filename=modifiable_data.extra_infos[<span class="str">"error_file"</span>]+<span class="str">" "</span>+str(today)+<span class="str">"-log.log"</span>,filemode=<span class="str">"a"</span>,level=modifiable_data.extra_infos[<span class="str">"log_level"</span>])
+<span class="kw">from</span> javax.swing <span class="kw">import</span> JFrame,JCheckBox,JButton,JLabel,JTextField,ImageIcon,JPasswordField
+<span class="kw">from</span> java.awt <span class="kw">import</span> Color,Font
+<span class="kw">print</span>(<span class="str">"THE POS_BOT IS NEARLY READY!\nPLEASE WAIT"</span>)
+<span class="kw">import</span> thread
+number_orders=<span class="dig">0</span>
+l=[]
+frame=JFrame()
+page=<span class="dig">1</span>
+begin_counter=<span class="dig">0</span>
+Benutzer_field=JTextField(<span class="dig">1</span>)
+Passwort_field=JTextField(<span class="dig">1</span>)
+number_orders
+<span class="kw">def</span> gui_display(data_json_order,length_order):
+    <span class="kw">try</span>:
+<span class="cmt">###################</span>
+        <span class="kw">global</span> number_orders
+        <span class="kw">global</span> l
+        <span class="kw">global</span> frame,page
+        <span class="kw">global</span> begin_counter
+        page=<span class="dig">1</span>
+        <span class="kw">global</span> Benutzer_field,Passwort_field
+        <span class="skw">popup</span>(<span class="str">"Wir empfehlen Ihnen, den Drucker auszuschalten"</span>)
+        <span class="cmt">#CREATING THE FRAME OF THE GUI </span>
+        img=ImageIcon(modifiable_data.extra_infos[<span class="str">"everesto_icon"</span>])
+        frame=JFrame(modifiable_data.extra_infos[<span class="str">"frame_name"</span>])
+        frame.setLocation(<span class="dig">150</span>,<span class="dig">10</span>)
+        frame.setSize(<span class="dig">650</span>,<span class="dig">710</span>)
+        frame.setBackground(Color.blue)
+        frame.setLayout(None)
+        frame.getContentPane().setBackground(Color.white)
+        frame.setIconImage(img.getImage())
+        <span class="kw">def</span> thread_starting(event):
+            thread.start_new_thread(btn_pressed,(event,))
+        <span class="kw">try</span>:
+            <span class="kw">def</span> btn_pressed(event):
+                <span class="kw">global</span> number_orders
+                <span class="kw">global</span> l
+                <span class="kw">global</span> frame
+                <span class="kw">global</span> Benutzer_field,Passwort_field
+                pos = App(modifiable_data.extra_infos[<span class="str">"app_name"</span>])
+                pos.open()
+                pos.focus()
+                counter_list=<span class="dig">0</span>
+                <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,number_orders):
+                    <span class="kw">if</span> l[i].isSelected():
+                        counter_list=counter_list+<span class="dig">1</span>
+                <span class="kw">if</span> (Benutzer_field.getText()==<span class="str">""</span>)<span class="kw">or</span> (Passwort_field.getText()==<span class="str">""</span>):
+                    popError(<span class="str">"die Daten sind ungültig"</span>)
+                <span class="kw">elif</span> counter_list==<span class="dig">0</span>:
+                    popError(<span class="str">"Sie haben nichts ausgewahlt"</span>)
+                <span class="kw">else</span>:
+                    <span class="kw">try</span>:
+                        frame.setExtendedState(JFrame.ICONIFIED)
+                        <span class="kw">if</span> <span class="kw">not</span>(exists(<img src="grosskassieren.png" />)):
+                            popError(<span class="str">"Bitte SubwayPOS offnen"</span>)
+                        <span class="kw">while</span> <span class="kw">not</span>(exists(<img src="grosskassieren.png" />)):
+                            <span class="skw">wait</span>(<span class="dig">0.1</span>)
+                        <span class="skw">wait</span>(<img src="grosskassieren.png" />,<span class="dig">5</span>)
+                        <span class="skw">click</span>(<img src="grosskassieren.png" />)
+                        <span class="skw">click</span>(<img src="benutzer_field.png" />)
+                        <span class="skw">type</span>(Passwort_field.getText())
+                        <span class="skw">click</span>(<img src="passwort_field.png" />)
+                        <span class="skw">type</span>(Benutzer_field.getText())
+                        <span class="skw">click</span>(<img src="o.k.png" />)
+                        <span class="kw">if</span> (exists(<img src="datenungultig.png" />)):
+                            <span class="skw">click</span>(<img src="okgrun.png" />)
+                            <span class="skw">click</span>(<img src="abbrechen.png" />)
+                            frame.setExtendedState(JFrame.NORMAL)
+                            popError(<span class="str">"die Daten sind ungultig \nBitte,prufen Sie Ihrer Daten!!"</span>)
+                            <span class="kw">return</span> False
+                        <span class="kw">while</span> <span class="kw">not</span>(exists(<img src="productsscreen.png" />)):
+                            time.<span class="skw">sleep</span>(<span class="dig">0.02</span>)
+                            <span class="kw">if</span> exists(<img src="abgeschlossen.png" />):
+                                <span class="skw">click</span>(<img src="kleinkassieren.png" />)
+                        <span class="kw">if</span> check_time.isSelected():
+                            time_state=<span class="str">"YES"</span>
+                        <span class="kw">else</span>:
+                            time_state=<span class="str">"NO"</span>
+                        frame.dispose()
+                        <span class="kw">import</span> inject_code
+                        imp.reload(inject_code)
+                        inject_code.injecting(data_json_order,number_orders,l,time_state)
+                    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+                        er=str(e)
+                        popError(<span class="str">"ERROR"</span>)
+                        logging.error(er)
+        <span class="kw">except</span> Exception <span class="kw">as</span> e:
+            er=str(e)
+            logging.error(er)
+        btn=JButton(modifiable_data.extra_infos[<span class="str">"ubertragen"</span>],actionPerformed = thread_starting)
+        btn.setBounds(<span class="dig">400</span>,<span class="dig">400</span>,<span class="dig">200</span>,<span class="dig">30</span>)
+        img=ImageIcon(modifiable_data.extra_infos[<span class="str">"kasse_icon"</span>])
+        back=JLabel(img)
+        back.setBounds(<span class="dig">316</span>,<span class="dig">363</span>,<span class="dig">100</span>,<span class="dig">100</span>)
+        frame.add(back)
+
+        <span class="cmt">#display of the version</span>
+        version_text=JLabel(modifiable_data.extra_infos[<span class="str">"version"</span>])
+        version_text.setBounds(<span class="dig">400</span>,<span class="dig">600</span>,<span class="dig">200</span>,<span class="dig">50</span>)
+        <span class="kw">from</span> result <span class="kw">import</span> nb,cod_diff,paid_diff
+        <span class="cmt">#the button to refresh the orders :)</span>
+        <span class="kw">def</span> refresh_func(event):
+            frame.dispose()
+            <span class="cmt">#import the_main</span>
+            <span class="kw">import</span> http_code
+            data_json_order=http_code.get_request()
+            length_order=len(data_json_order)
+            <span class="kw">import</span> main
+            main.gui_display(data_json_order,length_order)
+        refresh_btn=JButton(modifiable_data.extra_infos[<span class="str">"aktualisieren"</span>],actionPerformed = refresh_func)<span class="cmt">#,actionPerformed =main)</span>
+        refresh_btn.setBounds(<span class="dig">400</span>,<span class="dig">355</span>,<span class="dig">200</span>,<span class="dig">30</span>)
+        img=ImageIcon(modifiable_data.extra_infos[<span class="str">"refresh_icon"</span>])
+        back=JLabel(img)
+        back.setBounds(<span class="dig">316</span>,<span class="dig">323</span>,<span class="dig">100</span>,<span class="dig">100</span>)
+        frame.add(back)
+
+
+
+        <span class="cmt">#function to select all the checklist </span>
+        <span class="kw">def</span> selectall(event):
+            <span class="kw">if</span> alles_auswahlen.isSelected():
+
+                <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,number_orders):
+                    l[i].setSelected(True)
+            <span class="kw">else</span>:
+                <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,number_orders):
+                    l[i].setSelected(False)
+
+        <span class="cmt">#creating the list of checkboxes                </span>
+        l=[]
+        icon_pos=<span class="dig">90</span>
+        var_untouchable=<span class="dig">100</span>
+        number_orders=<span class="dig">0</span>
+        displayed_orders=<span class="dig">0</span>
+        begin_counter=<span class="dig">6</span>
+        <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,length_order):
+            <span class="kw">if</span> ((data_json_order[i][<span class="str">"pos_status"</span>]==<span class="str">"open"</span>))<span class="kw">and</span>(data_json_order[i][<span class="str">"order_source"</span>]==<span class="str">"Takeaway"</span>)<span class="kw">and</span>(data_json_order[i][<span class="str">"received_time"</span>]&lt;<span class="str">"2020-07-01"</span>):
+                l.append(JCheckBox(<span class="str">"#"</span>+str(data_json_order[i][<span class="str">"short_code"</span>])+<span class="str">"-"</span>+str(data_json_order[i][<span class="str">"received_time"</span>])+<span class="str">"-"</span>+str(data_json_order[i][<span class="str">"total_amount"</span>])+<span class="str">"Euro"</span>))
+                l[number_orders].setBackground(Color(<span class="dig">24</span>,<span class="dig">222</span>,<span class="dig">192</span>))
+                l[number_orders].setForeground(Color.blue)
+                number_orders=number_orders+<span class="dig">1</span>
+        <span class="kw">print</span>(number_orders)
+        <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,number_orders):
+            l[i].setBounds(<span class="dig">0</span>,var_untouchable,<span class="dig">230</span>,<span class="dig">80</span>)
+            img=ImageIcon(modifiable_data.extra_infos[<span class="str">"burger_icon"</span>])
+            back=JLabel(img)
+            back.setBounds(<span class="dig">195</span>,icon_pos,<span class="dig">100</span>,<span class="dig">100</span>)
+            displayed_orders=displayed_orders+<span class="dig">1</span>
+            frame.add(l[i])
+            frame.add(back)
+            <span class="kw">if</span> i&gt;=<span class="dig">6</span>:
+                l[i].setVisible(False)
+                back.setVisible(False)
+            icon_pos=icon_pos+<span class="dig">90</span>
+            var_untouchable=var_untouchable+<span class="dig">90</span>
+        <span class="kw">def</span> next_orders(event):
+            <span class="kw">global</span> begin_counter,number_orders,page
+            <span class="kw">if</span> (number_orders-begin_counter&lt;<span class="dig">6</span>)<span class="kw">and</span>(number_orders-begin_counter&gt;<span class="dig">0</span>):
+                <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,begin_counter):
+                    l[i].setVisible(False)
+                var_untouchable_next=<span class="dig">100</span>
+                <span class="kw">for</span> i <span class="kw">in</span> range(begin_counter,number_orders):
+                    l[i].setBackground(Color(<span class="dig">24</span>,<span class="dig">222</span>,<span class="dig">192</span>))
+                    l[i].setForeground(Color.blue)
+                    l[i].setBounds(<span class="dig">0</span>,var_untouchable_next,<span class="dig">230</span>,<span class="dig">80</span>)
+                    l[i].setVisible(True)
+                    var_untouchable_next=var_untouchable_next+<span class="dig">90</span>
+            <span class="kw">else</span>:
+                begin_counter=begin_counter+<span class="dig">6</span>
+                <span class="kw">if</span> begin_counter&lt;number_orders:
+                    <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,begin_counter-<span class="dig">6</span>):
+                        <span class="kw">if</span> i&lt;=len(l):
+                            l[i].setVisible(False)
+
+                var_untouchable_next=<span class="dig">100</span>
+                <span class="kw">if</span> begin_counter&lt;=number_orders:
+                    page=page+<span class="dig">1</span>
+                    pages_txt.setText(str(page)+<span class="str">"/"</span>+str(int(round(number_orders/<span class="dig">6</span>))))
+                    <span class="kw">for</span> i <span class="kw">in</span> range(begin_counter-<span class="dig">6</span>,begin_counter):
+                        <span class="kw">if</span> i&lt;len(l):
+                            l[i].setBackground(Color(<span class="dig">24</span>,<span class="dig">222</span>,<span class="dig">192</span>))
+                            l[i].setForeground(Color.blue)
+                            l[i].setBounds(<span class="dig">0</span>,var_untouchable_next,<span class="dig">230</span>,<span class="dig">80</span>)
+                            l[i].setVisible(True)
+                            var_untouchable_next=var_untouchable_next+<span class="dig">90</span>
+
+                <span class="kw">else</span>:
+                    begin_counter=number_orders
+                    popError(<span class="str">"Sie konnen nicht mehr weiter"</span>)
+        next_btn=JButton(<span class="str">"&gt;&gt;"</span>,actionPerformed=next_orders)
+        next_btn.setBounds(<span class="dig">100</span>,<span class="dig">640</span>,<span class="dig">60</span>,<span class="dig">40</span>)
+        frame.add(next_btn)
+        <span class="kw">def</span> back_orders(event):
+            <span class="kw">global</span> begin_counter,number_orders,page
+            <span class="kw">print</span>(<span class="str">"begin_counter = "</span>+str(begin_counter))
+            <span class="kw">if</span> begin_counter+<span class="dig">6</span>&gt;number_orders:
+                final=number_orders
+            <span class="kw">else</span>:
+                final=begin_counter
+            <span class="kw">for</span> i <span class="kw">in</span> range(begin_counter,final):
+                <span class="kw">if</span> i&lt;=len(l):
+                    l[i].setVisible(False)
+            begin_counter=begin_counter-<span class="dig">6</span>
+            var_untouchable_next=<span class="dig">100</span>
+            <span class="kw">if</span> begin_counter&gt;<span class="dig">0</span>:
+                page=page-<span class="dig">1</span>
+                pages_txt.setText(str(page)+<span class="str">"/"</span>+str(int(round(number_orders/<span class="dig">6</span>))))
+                <span class="kw">for</span> i <span class="kw">in</span> range(begin_counter-<span class="dig">6</span>,begin_counter):
+                    l[i].setBackground(Color(<span class="dig">24</span>,<span class="dig">222</span>,<span class="dig">192</span>))
+                    l[i].setForeground(Color.blue)
+                    l[i].setBounds(<span class="dig">0</span>,var_untouchable_next,<span class="dig">230</span>,<span class="dig">80</span>)
+                    l[i].setVisible(True)
+                    var_untouchable_next=var_untouchable_next+<span class="dig">90</span>
+            <span class="kw">else</span>:
+                begin_counter=<span class="dig">6</span>
+                popError(<span class="str">"Sie konnen nicht mehr zuruckgehen"</span>)
+            <span class="kw">print</span>(<span class="str">"begin_counter = "</span>+str(begin_counter))
+        back_btn=JButton(<span class="str">"&lt;&lt;"</span>,actionPerformed=back_orders)
+        back_btn.setBounds(<span class="dig">20</span>,<span class="dig">640</span>,<span class="dig">60</span>,<span class="dig">40</span>)
+        frame.add(back_btn)
+        <span class="cmt">#the form of login</span>
+        pages_txt=JLabel(<span class="str">""</span>)
+        pages_txt.setText(str(page)+<span class="str">"/"</span>+str(int(round(number_orders/<span class="dig">6</span>))))
+        pages_txt.setBounds(<span class="dig">180</span>,<span class="dig">640</span>,<span class="dig">60</span>,<span class="dig">40</span>)
+        frame.add(pages_txt)
+        Passwort_name=JLabel(modifiable_data.extra_infos[<span class="str">"benutzer"</span>])
+        Passwort_name.setBounds(<span class="dig">300</span>,<span class="dig">20</span>,<span class="dig">300</span>,<span class="dig">15</span>)
+        Passwort_name.setForeground(Color.red);
+        Passwort_field=JTextField(<span class="dig">10</span>)
+        Passwort_field.setBounds(<span class="dig">300</span>,<span class="dig">40</span>,<span class="dig">150</span>,<span class="dig">30</span>)
+        Benutzer_name=JLabel(modifiable_data.extra_infos[<span class="str">"passwort"</span>])
+        Benutzer_name.setForeground(Color.red);
+        Benutzer_name.setBounds(<span class="dig">300</span>,<span class="dig">80</span>,<span class="dig">150</span>,<span class="dig">10</span>)
+        Benutzer_field=JPasswordField(<span class="dig">10</span>)
+        Benutzer_field.setBounds(<span class="dig">300</span>,<span class="dig">100</span>,<span class="dig">150</span>,<span class="dig">30</span>)
+        <span class="cmt">#differnece text</span>
+        <span class="kw">def</span> auto_buch(event):
+            <span class="cmt">#thread.exit()</span>
+            thread.start_new_thread(auto,(event,))
+
+        <span class="kw">def</span> auto(event):
+            <span class="kw">if</span> nb==<span class="dig">0</span>:
+                popError(<span class="str">"Es gibt keine moglishe Buchungen"</span>)
+            <span class="kw">elif</span> (Benutzer_field.getText()==<span class="str">""</span>)<span class="kw">or</span> (Passwort_field.getText()==<span class="str">""</span>):
+                popError(<span class="str">"die Daten sind ungultig"</span>)
+            <span class="kw">else</span>:
+
+                frame.setExtendedState(JFrame.ICONIFIED)
+                <span class="kw">if</span> <span class="kw">not</span>(exists(<img src="grosskassieren.png" />)):
+                    popError(<span class="str">"Bitte SubwayPOS offnen"</span>)
+                <span class="kw">while</span> <span class="kw">not</span>(exists(<img src="grosskassieren.png" />)):
+                    <span class="skw">wait</span>(<span class="dig">0.1</span>)
+                <span class="skw">wait</span>(<img src="grosskassieren.png" />,<span class="dig">5</span>)
+                <span class="skw">click</span>(<img src="grosskassieren.png" />)
+                <span class="skw">click</span>(<img src="benutzer_field.png" />)
+                <span class="skw">type</span>(Passwort_field.getText())
+                <span class="skw">click</span>(<img src="passwort_field.png" />)
+                <span class="skw">type</span>(Benutzer_field.getText())
+                <span class="skw">click</span>(<img src="o.k.png" />)
+                <span class="kw">if</span> (exists(<img src="datenungultig.png" />)):
+                    <span class="skw">click</span>(<img src="okgrun.png" />)
+                    <span class="skw">click</span>(<img src="abbrechen.png" />)
+                    frame.setExtendedState(JFrame.NORMAL)
+                    popError(<span class="str">"die Daten sind ungultig \nBitte,prufen Sie Ihrer Daten!!"</span>)
+                    <span class="kw">return</span> False
+                <span class="kw">while</span> <span class="kw">not</span>(exists(<img src="productsscreen.png" />)):
+                    time.<span class="skw">sleep</span>(<span class="dig">0.02</span>)
+                    <span class="kw">if</span> exists(<img src="abgeschlossen.png" />):
+                        <span class="skw">click</span>(<img src="kleinkassieren.png" />)
+                cod=str(cod_diff).replace(<span class="str">"."</span>,<span class="str">""</span>)
+                paid=str(paid_diff).replace(<span class="str">"."</span>,<span class="str">""</span>)
+                <span class="kw">if</span> cod_diff &gt;<span class="dig">0</span>:
+                    <span class="skw">wait</span>(<img src="nonfood.png" />)
+                    <span class="skw">click</span>(<img src="nonfood.png" />)
+                    <span class="skw">wait</span>(<img src="lb1.png" />)
+                    <span class="skw">click</span>(<img src="lb1.png" />)
+                    <span class="skw">wait</span>(<img src="rabat.png" />)
+                    <span class="skw">click</span>(<img src="rabat.png" />)
+                    <span class="skw">wait</span>(<img src="preisuber.png" />)
+                    <span class="skw">click</span>(<img src="preisuber.png" />)
+                    <span class="skw">find</span>(<img src="calc.png" />)
+
+                    <span class="kw">for</span> c <span class="kw">in</span> cod:
+                        <span class="skw">click</span>(c+<img src=".png" />)
+                    <span class="skw">wait</span>(<img src="eingabe.png" />)
+                    <span class="skw">click</span>(<img src="eingabe.png" />)
+                    <span class="skw">find</span>(<img src="gesamt.png" />)
+                    <span class="skw">click</span>(<img src="gesamt.png" />)
+                    <span class="skw">wait</span>(<img src="ja.png" />)
+                    <span class="skw">click</span>(<img src="ja.png" />)
+                    <span class="skw">wait</span>(<img src="ok.png" />)
+                    <span class="skw">click</span>(<img src="ok.png" />)
+                    <span class="skw">wait</span>(<img src="hauskonto.png" />)
+                    <span class="skw">click</span>(<img src="hauskonto.png" />)
+                    <span class="skw">wait</span>(<img src="dellieferbar.png" />)
+                    <span class="skw">click</span>(<img src="dellieferbar.png" />)
+                <span class="kw">if</span> paid_diff&gt;<span class="dig">0</span>:
+                    <span class="skw">wait</span>(<img src="nonfood.png" />)
+                    <span class="skw">click</span>(<img src="nonfood.png" />)
+                    <span class="skw">wait</span>(<img src="lb1.png" />)
+                    <span class="skw">click</span>(<img src="lb1.png" />)
+                    <span class="skw">wait</span>(<img src="rabat.png" />)
+                    <span class="skw">click</span>(<img src="rabat.png" />)
+                    <span class="skw">wait</span>(<img src="preisuber.png" />)
+                    <span class="skw">click</span>(<img src="preisuber.png" />)
+                    <span class="skw">find</span>(<img src="calc.png" />)
+                    <span class="kw">for</span> c <span class="kw">in</span> paid:
+                        <span class="skw">click</span>(c+<img src=".png" />)
+                    <span class="skw">wait</span>(<img src="eingabe.png" />)
+                    <span class="skw">click</span>(<img src="eingabe.png" />)
+                    <span class="skw">find</span>(<img src="gesamt.png" />)
+                    <span class="skw">click</span>(<img src="gesamt.png" />)
+                    <span class="skw">wait</span>(<img src="ja.png" />)
+                    <span class="skw">click</span>(<img src="ja.png" />)
+                    <span class="skw">wait</span>(<img src="ok.png" />)
+                    <span class="skw">click</span>(<img src="ok.png" />)
+                    <span class="skw">wait</span>(<img src="hauskonto.png" />)
+                    <span class="skw">click</span>(<img src="hauskonto.png" />)
+                    <span class="skw">wait</span>(<img src="lieferando.png" />)
+                    <span class="skw">click</span>(<img src="lieferando.png" />)
+
+
+
+        <span class="kw">if</span> nb==None:
+            nb=<span class="dig">0</span>
+        <span class="kw">if</span> cod_diff==None:
+            cod_diff=<span class="dig">0</span>
+        <span class="kw">if</span> paid_diff==None:
+            paid_diff=<span class="dig">0</span>
+        <span class="kw">def</span> set_null(event):
+            diff_text1.setText(<span class="str">"fuer 0 Euro Bestellungen: "</span>)
+            diff_text2.setText(<span class="str">"Sie haben 0 Euro Differenz von Online Bestellungen."</span>)
+            diff_text3.setText(<span class="str">"Sie haben 0 Euro Differenz von Bar Bezahlten Bestellungen."</span>)
+        btn_buchen=JButton(modifiable_data.extra_infos[<span class="str">"manuel"</span>],actionPerformed=set_null)
+        btn_buchen.setBounds(<span class="dig">270</span>,<span class="dig">320</span>,<span class="dig">150</span>,<span class="dig">20</span>)
+        btn_auto=JButton(modifiable_data.extra_infos[<span class="str">"auto"</span>],actionPerformed=auto_buch)
+        btn_auto.setBounds(<span class="dig">450</span>,<span class="dig">320</span>,<span class="dig">150</span>,<span class="dig">20</span>)
+        btn_auto.setEnabled(False)
+        diff_text1=JLabel(<span class="str">"fuer "</span>+str(nb)+<span class="str">" Bestellungen: "</span>)
+        diff_text1.setBounds(<span class="dig">270</span>,<span class="dig">200</span>,<span class="dig">700</span>,<span class="dig">70</span>)
+        diff_text2=JLabel(<span class="str">"Sie haben "</span>+str(paid_diff).replace(<span class="str">"."</span>,<span class="str">","</span>)+<span class="str">" Euro Differenz von Online Bestellungen."</span>)
+        diff_text2.setBounds(<span class="dig">270</span>,<span class="dig">220</span>,<span class="dig">700</span>,<span class="dig">70</span>)
+        diff_text3=JLabel(<span class="str">"Sie haben "</span>+str(cod_diff).replace(<span class="str">"."</span>,<span class="str">","</span>)+<span class="str">" Euro Differenz von Bar Bezahlten Bestellungen."</span>)
+        diff_text3.setBounds(<span class="dig">270</span>,<span class="dig">240</span>,<span class="dig">700</span>,<span class="dig">70</span>)
+        buchen_text=JLabel(<span class="str">"BITTE BUCHEN SIE DIE DIFFERENZ"</span>)
+        buchen_text.setBounds(<span class="dig">270</span>,<span class="dig">280</span>,<span class="dig">300</span>,<span class="dig">30</span>)
+        check_time=JCheckBox(modifiable_data.extra_infos[<span class="str">"bestellzeit"</span>])
+        check_time.setBounds(<span class="dig">270</span>,<span class="dig">500</span>,<span class="dig">220</span>,<span class="dig">80</span>)
+        check_time.setBackground(Color(<span class="dig">116</span>,<span class="dig">128</span>,<span class="dig">126</span>))
+        check_time.setForeground(Color.red)
+        <span class="cmt">#checkbox for selecting all                </span>
+        alles_auswahlen=JCheckBox(<span class="str">"Alle auswahlen("</span>+str(number_orders)+<span class="str">" Bestellungen)"</span>, actionPerformed =selectall)
+        alles_auswahlen.setBounds(<span class="dig">0</span>,<span class="dig">10</span>,<span class="dig">230</span>,<span class="dig">80</span>)
+        alles_auswahlen.setBackground(Color(<span class="dig">24</span>,<span class="dig">222</span>,<span class="dig">192</span>))
+        alles_auswahlen.setForeground(Color.red)
+        back=JLabel(img)
+        back.setBounds(<span class="dig">500</span>,<span class="dig">570</span>,<span class="dig">100</span>,<span class="dig">100</span>)
+        <span class="cmt">#setting the GUI objects</span>
+        frame.add(back)
+        frame.add(Passwort_name)
+        frame.add(Benutzer_name)
+        frame.add(Benutzer_field)
+        frame.add(Passwort_field)
+        frame.add(btn)
+        frame.add(alles_auswahlen)
+        frame.add(refresh_btn)
+        frame.add(version_text)
+        frame.add(diff_text1)
+        frame.add(diff_text2)
+        frame.add(diff_text3)
+        frame.add(buchen_text)
+        frame.add(btn_buchen)
+        frame.add(check_time)
+        frame.add(btn_auto)
+        frame.setVisible(True)
+    <span class="kw">except</span> Exception <span class="kw">as</span> e:
+            er=str(e)
+            logging.error(er)
+</pre>
+</body>
+</html>

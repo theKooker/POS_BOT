@@ -1,0 +1,290 @@
+2020-09-07 08:56:43,184:DEBUG:9340:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 08:57:09,928:INFO:9340:inject_code:1
+2020-09-07 08:57:10,295:INFO:9340:inject_code:ORDER IR6AE31100-7DEA-E73F-D7C0-FD94381821C6
+2020-09-07 08:57:10,299:DEBUG:9340:inject_code:30cm|1
+2020-09-07 08:57:10,301:DEBUG:9340:inject_code:tunasub|1
+2020-09-07 08:57:10,301:DEBUG:9340:inject_code:wrapturkey|1
+2020-09-07 08:57:10,302:DEBUG:9340:inject_code:chocolatechipcookie|1
+2020-09-07 08:57:10,302:DEBUG:9340:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 08:57:10,321:INFO:9340:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 08:57:10,322:INFO:9340:needed_functions_for_injecting:count = 1
+2020-09-07 08:57:10,325:INFO:9340:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 08:57:10,698:DEBUG:9340:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 08:57:11,450:DEBUG:9340:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 08:57:11,453:DEBUG:9340:inject_code:YOUR ITEM IS tunasub|1
+2020-09-07 08:57:11,482:INFO:9340:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 08:57:11,486:INFO:9340:needed_functions_for_injecting:count = 1
+2020-09-07 08:57:11,487:INFO:9340:needed_functions_for_injecting:tuna.png is the adresse
+2020-09-07 08:57:12,408:DEBUG:9340:needed_functions_for_injecting:FOUND tuna.png
+2020-09-07 08:57:13,157:DEBUG:9340:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-09-07 08:57:13,160:DEBUG:9340:inject_code:YOUR ITEM IS wrapturkey|1
+2020-09-07 08:57:13,203:INFO:9340:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 08:57:13,253:INFO:9340:needed_functions_for_injecting:count = 1
+2020-09-07 08:57:13,255:INFO:9340:needed_functions_for_injecting:wrap.png is the adresse
+2020-09-07 08:57:13,545:DEBUG:9340:needed_functions_for_injecting:FOUND wrap.png
+2020-09-07 08:57:14,292:DEBUG:9340:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-09-07 08:57:14,295:INFO:9340:needed_functions_for_injecting:turkey.png is the adresse
+2020-09-07 08:57:14,489:DEBUG:9340:needed_functions_for_injecting:FOUND turkey.png
+2020-09-07 08:57:15,236:DEBUG:9340:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-09-07 08:57:15,236:DEBUG:9340:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-09-07 08:57:15,308:INFO:9340:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 08:57:15,354:INFO:9340:needed_functions_for_injecting:count = 1
+2020-09-07 08:57:15,355:INFO:9340:needed_functions_for_injecting:cookie.png is the adresse
+2020-09-07 08:57:16,144:DEBUG:9340:needed_functions_for_injecting:FOUND cookie.png
+2020-09-07 08:57:16,917:DEBUG:9340:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-09-07 08:57:38,538:DEBUG:9340:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 08:57:39,101:INFO:9340:inject_code:#234;DATENBANK 12.47;KASSE 10.09; Paid
+2020-09-07 08:57:39,101:INFO:9340:inject_code:Total Diff: 0;COD
+2020-09-07 08:57:39,102:INFO:9340:inject_code:Total Diff: 2.38;PAID
+2020-09-07 08:57:39,102:INFO:9340:inject_code:#######ORDER COMPLETED##########
+2020-09-07 08:57:58,644:DEBUG:9340:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:48:11,568:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:48:36,440:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:49:04,690:INFO:12156:inject_code:5
+2020-09-07 22:49:05,042:INFO:12156:inject_code:ORDER IRB1CD86DD-52C1-51B2-04D7-D79D27B4E9AE
+2020-09-07 22:49:05,048:DEBUG:12156:inject_code:15cm|1
+2020-09-07 22:49:05,049:DEBUG:12156:inject_code:chickenfajitasub|1
+2020-09-07 22:49:05,049:DEBUG:12156:inject_code:mitfleisch,doppelt|1
+2020-09-07 22:49:05,051:DEBUG:12156:inject_code:wrapbbqrib|1
+2020-09-07 22:49:05,052:DEBUG:12156:inject_code:chocolatechipwithrainbowcandiescookie|1
+2020-09-07 22:49:05,052:DEBUG:12156:inject_code:YOUR ITEM IS 15cm|1
+2020-09-07 22:49:05,075:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:05,078:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:05,079:INFO:12156:needed_functions_for_injecting:sixinch.png is the adresse
+2020-09-07 22:49:05,559:DEBUG:12156:needed_functions_for_injecting:FOUND sixinch.png
+2020-09-07 22:49:06,342:DEBUG:12156:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-09-07 22:49:06,345:DEBUG:12156:inject_code:YOUR ITEM IS chickenfajitasub|1
+2020-09-07 22:49:06,375:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:06,381:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:06,381:INFO:12156:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-09-07 22:49:07,361:DEBUG:12156:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-09-07 22:49:08,211:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-09-07 22:49:08,213:DEBUG:12156:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-09-07 22:49:08,233:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:08,279:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:08,280:INFO:12156:needed_functions_for_injecting:doppeltfleisch.png is the adresse
+2020-09-07 22:49:09,746:DEBUG:12156:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-09-07 22:49:10,551:DEBUG:12156:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-09-07 22:49:10,552:DEBUG:12156:inject_code:YOUR ITEM IS wrapbbqrib|1
+2020-09-07 22:49:10,578:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:10,628:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:10,632:INFO:12156:needed_functions_for_injecting:wrap.png is the adresse
+2020-09-07 22:49:11,223:DEBUG:12156:needed_functions_for_injecting:FOUND wrap.png
+2020-09-07 22:49:12,022:DEBUG:12156:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-09-07 22:49:12,023:INFO:12156:needed_functions_for_injecting:bbqrib.png is the adresse
+2020-09-07 22:49:13,072:DEBUG:12156:needed_functions_for_injecting:FOUND bbqrib.png
+2020-09-07 22:49:14,066:DEBUG:12156:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-09-07 22:49:14,068:DEBUG:12156:inject_code:YOUR ITEM IS chocolatechipwithrainbowcandiescookie|1
+2020-09-07 22:49:14,121:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:14,171:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:14,171:INFO:12156:needed_functions_for_injecting:cookie.png is the adresse
+2020-09-07 22:49:15,151:DEBUG:12156:needed_functions_for_injecting:FOUND cookie.png
+2020-09-07 22:49:15,901:DEBUG:12156:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-09-07 22:49:32,513:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:49:33,063:INFO:12156:inject_code:#155;DATENBANK 12.08;KASSE 9.48; Paid
+2020-09-07 22:49:33,069:INFO:12156:inject_code:ORDER IR1F16383E-8BF9-72FD-127B-3A2BC0CB1441
+2020-09-07 22:49:33,078:DEBUG:12156:inject_code:30cm|1
+2020-09-07 22:49:33,079:DEBUG:12156:inject_code:chickenteriyakisub|1
+2020-09-07 22:49:33,081:DEBUG:12156:inject_code:30cm|1
+2020-09-07 22:49:33,081:DEBUG:12156:inject_code:chickenteriyakisub|1
+2020-09-07 22:49:33,082:DEBUG:12156:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 22:49:33,111:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:33,112:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:33,114:INFO:12156:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 22:49:33,503:DEBUG:12156:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 22:49:34,532:DEBUG:12156:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 22:49:34,535:DEBUG:12156:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-09-07 22:49:34,614:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:34,627:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:34,628:INFO:12156:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-09-07 22:49:35,828:DEBUG:12156:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-09-07 22:49:36,842:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-09-07 22:49:36,842:DEBUG:12156:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 22:49:36,846:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:36,848:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:36,849:INFO:12156:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 22:49:37,556:DEBUG:12156:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 22:49:38,315:DEBUG:12156:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 22:49:38,316:DEBUG:12156:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-09-07 22:49:38,322:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:38,328:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:38,328:INFO:12156:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-09-07 22:49:39,119:DEBUG:12156:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-09-07 22:49:39,887:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-09-07 22:49:55,802:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:49:56,364:INFO:12156:inject_code:#123;DATENBANK 16.98;KASSE 11.6; Paid
+2020-09-07 22:49:56,372:INFO:12156:inject_code:ORDER IRAE955B8F-C21C-61E3-B410-A5B8F0B1EC41
+2020-09-07 22:49:56,378:DEBUG:12156:inject_code:15cm|1
+2020-09-07 22:49:56,380:DEBUG:12156:inject_code:chickenfajitasub|1
+2020-09-07 22:49:56,381:DEBUG:12156:inject_code:mitbacon,extra|1
+2020-09-07 22:49:56,382:DEBUG:12156:inject_code:15cm|1
+2020-09-07 22:49:56,387:DEBUG:12156:inject_code:tunasub|1
+2020-09-07 22:49:56,388:DEBUG:12156:inject_code:YOUR ITEM IS 15cm|1
+2020-09-07 22:49:56,390:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:56,391:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:56,391:INFO:12156:needed_functions_for_injecting:sixinch.png is the adresse
+2020-09-07 22:49:56,430:DEBUG:12156:needed_functions_for_injecting:FOUND sixinch.png
+2020-09-07 22:49:57,177:DEBUG:12156:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-09-07 22:49:57,178:DEBUG:12156:inject_code:YOUR ITEM IS chickenfajitasub|1
+2020-09-07 22:49:57,184:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:57,187:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:57,187:INFO:12156:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-09-07 22:49:58,237:DEBUG:12156:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-09-07 22:49:58,999:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-09-07 22:49:59,000:DEBUG:12156:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-09-07 22:49:59,005:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:49:59,010:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:49:59,010:INFO:12156:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-09-07 22:50:00,673:DEBUG:12156:needed_functions_for_injecting:FOUND extrabacon.png
+2020-09-07 22:50:01,444:DEBUG:12156:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-09-07 22:50:01,444:DEBUG:12156:inject_code:YOUR ITEM IS 15cm|1
+2020-09-07 22:50:01,447:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:01,448:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:01,448:INFO:12156:needed_functions_for_injecting:sixinch.png is the adresse
+2020-09-07 22:50:01,582:DEBUG:12156:needed_functions_for_injecting:FOUND sixinch.png
+2020-09-07 22:50:02,371:DEBUG:12156:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-09-07 22:50:02,371:DEBUG:12156:inject_code:YOUR ITEM IS tunasub|1
+2020-09-07 22:50:02,378:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:02,384:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:02,384:INFO:12156:needed_functions_for_injecting:tuna.png is the adresse
+2020-09-07 22:50:03,441:DEBUG:12156:needed_functions_for_injecting:FOUND tuna.png
+2020-09-07 22:50:04,295:DEBUG:12156:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-09-07 22:50:20,176:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:50:20,855:INFO:12156:inject_code:#109;DATENBANK 10.18;KASSE 7.58; Paid
+2020-09-07 22:50:20,862:INFO:12156:inject_code:ORDER IR07228F87-4A07-6731-EACF-747A56112794
+2020-09-07 22:50:20,865:DEBUG:12156:inject_code:30cm|1
+2020-09-07 22:50:20,867:DEBUG:12156:inject_code:chickenteriyakisub|1
+2020-09-07 22:50:20,868:DEBUG:12156:inject_code:15cm|1
+2020-09-07 22:50:20,868:DEBUG:12156:inject_code:turkeyandhamsub|1
+2020-09-07 22:50:20,868:DEBUG:12156:inject_code:15cm|1
+2020-09-07 22:50:20,869:DEBUG:12156:inject_code:phillybeefandcheesesub|1
+2020-09-07 22:50:20,869:DEBUG:12156:inject_code:salatchickenfajita|1
+2020-09-07 22:50:20,871:DEBUG:12156:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 22:50:20,872:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:20,874:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:20,875:INFO:12156:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 22:50:21,190:DEBUG:12156:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 22:50:21,927:DEBUG:12156:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 22:50:21,928:DEBUG:12156:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-09-07 22:50:21,934:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:21,940:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:21,941:INFO:12156:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-09-07 22:50:23,335:DEBUG:12156:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-09-07 22:50:24,075:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-09-07 22:50:24,078:DEBUG:12156:inject_code:YOUR ITEM IS 15cm|1
+2020-09-07 22:50:24,081:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:24,082:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:24,084:INFO:12156:needed_functions_for_injecting:sixinch.png is the adresse
+2020-09-07 22:50:24,717:DEBUG:12156:needed_functions_for_injecting:FOUND sixinch.png
+2020-09-07 22:50:25,595:DEBUG:12156:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-09-07 22:50:25,598:DEBUG:12156:inject_code:YOUR ITEM IS turkeyandhamsub|1
+2020-09-07 22:50:25,602:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:25,605:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:25,608:INFO:12156:needed_functions_for_injecting:ham.png is the adresse
+2020-09-07 22:50:26,611:DEBUG:12156:needed_functions_for_injecting:FOUND ham.png
+2020-09-07 22:50:27,486:DEBUG:12156:needed_functions_for_injecting:CLICKED ON ham.png
+2020-09-07 22:50:27,489:DEBUG:12156:inject_code:YOUR ITEM IS 15cm|1
+2020-09-07 22:50:27,490:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:27,493:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:27,493:INFO:12156:needed_functions_for_injecting:sixinch.png is the adresse
+2020-09-07 22:50:29,058:DEBUG:12156:needed_functions_for_injecting:FOUND sixinch.png
+2020-09-07 22:50:29,915:DEBUG:12156:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-09-07 22:50:29,917:DEBUG:12156:inject_code:YOUR ITEM IS phillybeefandcheesesub|1
+2020-09-07 22:50:29,980:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:30,066:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:30,068:INFO:12156:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-09-07 22:50:31,161:DEBUG:12156:needed_functions_for_injecting:FOUND steakcheese.png
+2020-09-07 22:50:31,947:DEBUG:12156:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-09-07 22:50:31,950:DEBUG:12156:inject_code:YOUR ITEM IS salatchickenfajita|1
+2020-09-07 22:50:31,957:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:31,960:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:31,961:INFO:12156:needed_functions_for_injecting:salat.png is the adresse
+2020-09-07 22:50:32,460:DEBUG:12156:needed_functions_for_injecting:FOUND salat.png
+2020-09-07 22:50:33,355:DEBUG:12156:needed_functions_for_injecting:CLICKED ON salat.png
+2020-09-07 22:50:33,355:INFO:12156:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-09-07 22:50:34,176:DEBUG:12156:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-09-07 22:50:34,957:DEBUG:12156:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-09-07 22:50:50,821:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:50:51,351:INFO:12156:inject_code:#76;DATENBANK 22.96;KASSE 18.28; Paid
+2020-09-07 22:50:51,358:INFO:12156:inject_code:ORDER IR3EE39681-3245-B7A0-B8C1-49D1CAA4E65F
+2020-09-07 22:50:51,365:DEBUG:12156:inject_code:30cm|1
+2020-09-07 22:50:51,365:DEBUG:12156:inject_code:phillybeefandcheesesub|1
+2020-09-07 22:50:51,367:DEBUG:12156:inject_code:mitbacon,extra|1
+2020-09-07 22:50:51,368:DEBUG:12156:inject_code:mitkã¤se,extra|1
+2020-09-07 22:50:51,368:DEBUG:12156:inject_code:30cm|1
+2020-09-07 22:50:51,368:DEBUG:12156:inject_code:omelettesub|1
+2020-09-07 22:50:51,368:DEBUG:12156:inject_code:mitfleisch,doppelt|1
+2020-09-07 22:50:51,369:DEBUG:12156:inject_code:mitbacon,extra|1
+2020-09-07 22:50:51,371:DEBUG:12156:inject_code:mitkã¤se,extra|1
+2020-09-07 22:50:51,371:DEBUG:12156:inject_code:wrapbreadedchicken|1
+2020-09-07 22:50:51,371:DEBUG:12156:inject_code:wrapsteak|1
+2020-09-07 22:50:51,371:DEBUG:12156:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 22:50:51,374:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:51,375:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:51,375:INFO:12156:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 22:50:51,411:DEBUG:12156:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 22:50:52,177:DEBUG:12156:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 22:50:52,177:DEBUG:12156:inject_code:YOUR ITEM IS phillybeefandcheesesub|1
+2020-09-07 22:50:52,237:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:52,296:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:52,296:INFO:12156:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-09-07 22:50:53,309:DEBUG:12156:needed_functions_for_injecting:FOUND steakcheese.png
+2020-09-07 22:50:54,174:DEBUG:12156:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-09-07 22:50:54,174:DEBUG:12156:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-09-07 22:50:54,191:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:54,196:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:54,196:INFO:12156:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-09-07 22:50:56,418:DEBUG:12156:needed_functions_for_injecting:FOUND extrabacon.png
+2020-09-07 22:50:57,188:DEBUG:12156:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-09-07 22:50:57,190:DEBUG:12156:inject_code:YOUR ITEM IS mitkã¤se,extra|1
+2020-09-07 22:50:57,200:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:57,217:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:57,219:INFO:12156:needed_functions_for_injecting:kase.png is the adresse
+2020-09-07 22:50:57,572:DEBUG:12156:needed_functions_for_injecting:FOUND kase.png
+2020-09-07 22:50:58,605:DEBUG:12156:needed_functions_for_injecting:CLICKED ON kase.png
+2020-09-07 22:50:58,605:DEBUG:12156:inject_code:YOUR ITEM IS 30cm|1
+2020-09-07 22:50:58,608:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:58,608:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:58,609:INFO:12156:needed_functions_for_injecting:footlang.png is the adresse
+2020-09-07 22:50:58,828:DEBUG:12156:needed_functions_for_injecting:FOUND footlang.png
+2020-09-07 22:50:59,605:DEBUG:12156:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-09-07 22:50:59,607:DEBUG:12156:inject_code:YOUR ITEM IS omelettesub|1
+2020-09-07 22:50:59,611:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:50:59,614:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:50:59,615:INFO:12156:needed_functions_for_injecting:omelettesub.png is the adresse
+2020-09-07 22:51:01,367:DEBUG:12156:needed_functions_for_injecting:FOUND omelettesub.png
+2020-09-07 22:51:02,164:DEBUG:12156:needed_functions_for_injecting:CLICKED ON omelettesub.png
+2020-09-07 22:51:02,164:DEBUG:12156:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-09-07 22:51:02,180:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:51:02,190:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:51:02,193:INFO:12156:needed_functions_for_injecting:doppeltfleisch.png is the adresse
+2020-09-07 22:51:05,020:DEBUG:12156:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-09-07 22:51:05,869:DEBUG:12156:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-09-07 22:51:05,871:DEBUG:12156:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-09-07 22:51:05,874:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:51:05,875:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:51:05,877:INFO:12156:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-09-07 22:51:05,914:DEBUG:12156:needed_functions_for_injecting:FOUND extrabacon.png
+2020-09-07 22:51:06,713:DEBUG:12156:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-09-07 22:51:06,714:DEBUG:12156:inject_code:YOUR ITEM IS mitkã¤se,extra|1
+2020-09-07 22:51:06,720:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:51:06,721:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:51:06,723:INFO:12156:needed_functions_for_injecting:kase.png is the adresse
+2020-09-07 22:51:06,933:DEBUG:12156:needed_functions_for_injecting:FOUND kase.png
+2020-09-07 22:51:07,727:DEBUG:12156:needed_functions_for_injecting:CLICKED ON kase.png
+2020-09-07 22:51:07,730:DEBUG:12156:inject_code:YOUR ITEM IS wrapbreadedchicken|1
+2020-09-07 22:51:07,750:INFO:12156:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-09-07 22:51:07,785:INFO:12156:needed_functions_for_injecting:count = 1
+2020-09-07 22:51:07,786:INFO:12156:needed_functions_for_injecting:wrap.png is the adresse
+2020-09-07 22:51:08,068:DEBUG:12156:needed_functions_for_injecting:FOUND wrap.png
+2020-09-07 22:51:08,852:DEBUG:12156:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-09-07 22:51:08,854:INFO:12156:needed_functions_for_injecting:breadedchicken.png is the adresse
+2020-09-07 22:51:09,747:DEBUG:12156:needed_functions_for_injecting:FOUND breadedchicken.png
+2020-09-07 22:51:10,497:DEBUG:12156:needed_functions_for_injecting:CLICKED ON breadedchicken.png
+2020-09-07 22:51:10,499:DEBUG:12156:inject_code:YOUR ITEM IS wrapsteak|1
+2020-09-07 22:51:24,296:ERROR:12156:inject_code:'NoneType' object has no attribute 'getX'
+2020-09-07 22:51:28,348:DEBUG:12156:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:55:03,759:DEBUG:13760:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:55:13,746:DEBUG:13760:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:56:08,540:DEBUG:13760:http_code:https://staging.everesto.net/api/user/login
+2020-09-07 22:56:29,163:DEBUG:13760:http_code:https://staging.everesto.net/api/user/login

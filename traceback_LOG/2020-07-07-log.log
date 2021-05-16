@@ -1,0 +1,62 @@
+2020-07-07 21:35:25,607:DEBUG:1896:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:39:32,967:DEBUG:6504:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:41:03,918:DEBUG:9900:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:42:02,510:DEBUG:5664:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:44:27,242:DEBUG:4248:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:45:08,075:DEBUG:7456:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:46:17,630:DEBUG:3776:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:47:03,147:DEBUG:5584:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:49:46,834:DEBUG:7668:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:50:01,384:DEBUG:7668:http_code:https://dev.everesto.net/api/user/login
+2020-07-07 21:50:35,127:INFO:7668:inject_code:1255
+2020-06-02 20:50:15,010:INFO:7668:inject_code:ORDER IRD543F496-2971-1389-F983-AABCB6711772
+2020-06-02 20:50:15,019:DEBUG:7668:inject_code:30-cm-sub|1
+2020-06-02 20:50:15,020:DEBUG:7668:inject_code:subchickenbreast|1
+2020-06-02 20:50:15,022:DEBUG:7668:inject_code:mitbacon,extra|1
+2020-06-02 20:50:15,023:DEBUG:7668:inject_code:30-cm-sub|1
+2020-06-02 20:50:15,023:DEBUG:7668:inject_code:subphillybeef&cheese|1
+2020-06-02 20:50:15,026:DEBUG:7668:inject_code:laysbbq|1
+2020-06-02 20:50:15,028:DEBUG:7668:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-02 20:50:15,035:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:15,038:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:15,039:INFO:7668:needed_functions_for_injecting:footlang.png is the adresse
+2020-06-02 20:50:15,269:DEBUG:7668:needed_functions_for_injecting:FOUND footlang.png
+2020-06-02 20:50:16,032:DEBUG:7668:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-02 20:50:16,033:DEBUG:7668:inject_code:YOUR ITEM IS subchickenbreast|1
+2020-06-02 20:50:16,061:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:16,065:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:16,065:INFO:7668:needed_functions_for_injecting:roastedchicken.png is the adresse
+2020-06-02 20:50:16,749:DEBUG:7668:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-06-02 20:50:17,490:DEBUG:7668:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-06-02 20:50:17,493:DEBUG:7668:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-06-02 20:50:17,500:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:17,509:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:17,509:INFO:7668:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-06-02 20:50:18,229:DEBUG:7668:needed_functions_for_injecting:FOUND extrabacon.png
+2020-06-02 20:50:18,970:DEBUG:7668:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-06-02 20:50:18,973:DEBUG:7668:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-02 20:50:18,977:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:18,980:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:18,980:INFO:7668:needed_functions_for_injecting:footlang.png is the adresse
+2020-06-02 20:50:19,029:DEBUG:7668:needed_functions_for_injecting:FOUND footlang.png
+2020-06-02 20:50:19,776:DEBUG:7668:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-02 20:50:19,778:DEBUG:7668:inject_code:YOUR ITEM IS subphillybeef&cheese|1
+2020-06-02 20:50:19,875:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:19,961:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:19,963:INFO:7668:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-06-02 20:50:21,051:DEBUG:7668:needed_functions_for_injecting:FOUND steakcheese.png
+2020-06-02 20:50:21,854:DEBUG:7668:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-06-02 20:50:21,855:DEBUG:7668:inject_code:YOUR ITEM IS laysbbq|1
+2020-06-02 20:50:21,911:INFO:7668:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-06-02 20:50:21,980:INFO:7668:needed_functions_for_injecting:count = 1
+2020-06-02 20:50:21,982:INFO:7668:needed_functions_for_injecting:chips.png is the adresse
+2020-06-02 20:50:22,841:DEBUG:7668:needed_functions_for_injecting:FOUND chips.png
+2020-06-02 20:50:23,598:DEBUG:7668:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-02 20:50:33,335:ERROR:7668:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-02 20:50:33,361:DEBUG:7668:http_code:https://dev.everesto.net/api/user/login
+2020-06-02 20:50:33,872:INFO:7668:inject_code:#144;DATENBANK 21.2;KASSE 16.47; Paid
+2020-06-02 20:50:33,875:INFO:7668:inject_code:Total Diff: 0;COD
+2020-06-02 20:50:33,875:INFO:7668:inject_code:Total Diff: 4.73;PAID
+2020-06-02 20:50:33,875:INFO:7668:inject_code:#######ORDER COMPLETED##########
+2020-06-02 20:50:59,010:DEBUG:7668:http_code:https://dev.everesto.net/api/user/login
+2020-06-02 20:51:06,694:ERROR:7668:inject_code:global name 'thread' is not defined

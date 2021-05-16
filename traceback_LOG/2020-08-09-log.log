@@ -1,0 +1,1372 @@
+2020-08-09 22:23:54,223:DEBUG:7380:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:24:42,180:INFO:7380:inject_code:27
+2020-08-09 22:24:42,553:INFO:7380:inject_code:ORDER IR90F27A96-2B1C-4D57-0EE2-2A02E8D684BE
+2020-08-09 22:24:42,559:DEBUG:7380:inject_code:15cm|1
+2020-08-09 22:24:42,559:DEBUG:7380:inject_code:chickenteriyakisub|1
+2020-08-09 22:24:42,559:DEBUG:7380:inject_code:mitfleisch,doppelt|1
+2020-08-09 22:24:42,561:DEBUG:7380:inject_code:mitfeta,extra|1
+2020-08-09 22:24:42,562:DEBUG:7380:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:24:42,562:DEBUG:7380:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:24:42,563:DEBUG:7380:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:24:42,563:DEBUG:7380:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:24:42,569:INFO:7380:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:24:42,569:INFO:7380:needed_functions_for_injecting:count = 1
+2020-08-09 22:24:42,571:INFO:7380:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:24:42,750:DEBUG:7380:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:24:43,490:DEBUG:7380:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:24:43,492:DEBUG:7380:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:24:43,538:INFO:7380:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:24:43,568:INFO:7380:needed_functions_for_injecting:count = 1
+2020-08-09 22:24:43,569:INFO:7380:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:24:44,319:DEBUG:7380:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:24:45,069:DEBUG:7380:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:24:45,071:DEBUG:7380:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-08-09 22:24:45,076:INFO:7380:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:24:45,082:INFO:7380:needed_functions_for_injecting:count = 1
+2020-08-09 22:24:45,082:INFO:7380:needed_functions_for_injecting:doppeltfleisch.png is the adresse
+2020-08-09 22:24:46,380:DEBUG:7380:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-08-09 22:24:47,118:DEBUG:7380:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-08-09 22:24:47,118:DEBUG:7380:inject_code:YOUR ITEM IS mitfeta,extra|1
+2020-08-09 22:24:47,137:INFO:7380:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:24:47,173:INFO:7380:needed_functions_for_injecting:count = 1
+2020-08-09 22:24:47,174:INFO:7380:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:24:47,352:DEBUG:7380:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:24:48,091:DEBUG:7380:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:24:48,092:INFO:7380:needed_functions_for_injecting:fetaextra.png is the adresse
+2020-08-09 22:24:48,845:DEBUG:7380:needed_functions_for_injecting:FOUND fetaextra.png
+2020-08-09 22:24:49,595:DEBUG:7380:needed_functions_for_injecting:CLICKED ON fetaextra.png
+2020-08-09 22:24:49,595:DEBUG:7380:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:24:49,644:INFO:7380:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:24:49,690:INFO:7380:needed_functions_for_injecting:count = 1
+2020-08-09 22:24:49,690:INFO:7380:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:25:04,630:ERROR:7380:needed_functions_for_injecting:3cookies.png NOT FOUND
+2020-08-09 22:25:09,930:ERROR:7380:needed_functions_for_injecting:3cookies.png NOT FOUND
+2020-08-09 22:26:54,323:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:27:38,490:INFO:7244:inject_code:27
+2020-08-09 22:27:38,789:INFO:7244:inject_code:ORDER IR90F27A96-2B1C-4D57-0EE2-2A02E8D684BE
+2020-08-09 22:27:38,793:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:27:38,795:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:27:38,796:DEBUG:7244:inject_code:mitfleisch,doppelt|1
+2020-08-09 22:27:38,796:DEBUG:7244:inject_code:mitfeta,extra|1
+2020-08-09 22:27:38,796:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:27:38,798:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:27:38,799:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:27:38,799:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:27:38,803:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:38,805:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:38,805:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:27:38,986:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:27:39,736:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:27:39,737:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:27:39,779:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:39,809:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:39,809:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:27:40,512:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:27:41,250:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:27:41,252:DEBUG:7244:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-08-09 22:27:41,259:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:41,263:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:41,265:INFO:7244:needed_functions_for_injecting:doppeltfleisch.png is the adresse
+2020-08-09 22:27:42,611:DEBUG:7244:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-08-09 22:27:43,348:DEBUG:7244:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-08-09 22:27:43,349:DEBUG:7244:inject_code:YOUR ITEM IS mitfeta,extra|1
+2020-08-09 22:27:43,368:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:43,404:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:43,405:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:27:43,575:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:27:44,315:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:27:44,318:INFO:7244:needed_functions_for_injecting:fetaextra.png is the adresse
+2020-08-09 22:27:45,056:DEBUG:7244:needed_functions_for_injecting:FOUND fetaextra.png
+2020-08-09 22:27:45,793:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fetaextra.png
+2020-08-09 22:27:45,796:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:27:45,842:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:45,887:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:45,887:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:27:46,976:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:27:47,713:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:27:47,713:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:27:47,766:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:47,815:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:47,815:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:27:48,075:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:27:48,812:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:27:48,813:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:27:48,867:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:27:48,914:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:27:48,915:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:27:49,010:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:27:49,750:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:28:04,555:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:28:04,588:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:28:05,122:INFO:7244:inject_code:#189;DATENBANK 17.6;KASSE 192929.0; Paid
+2020-08-09 22:28:05,125:INFO:7244:inject_code:ORDER IR24D86821-9939-5965-3B70-C24C20657180
+2020-08-09 22:28:05,128:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,130:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,130:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,131:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,131:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,131:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,131:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,132:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,132:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,134:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,134:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:05,135:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:05,135:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:05,140:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:05,141:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:05,142:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:05,420:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:06,174:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:06,176:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:06,191:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:06,204:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:06,207:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:06,943:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:07,690:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:07,691:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:07,697:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:07,700:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:07,703:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:08,105:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:08,865:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:08,867:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:08,869:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:08,871:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:08,872:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:09,648:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:10,392:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:10,394:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:10,394:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:10,395:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:10,397:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:10,525:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:11,263:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:11,265:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:11,266:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:11,269:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:11,269:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:12,039:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:12,786:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:12,788:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:12,789:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:12,789:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:12,790:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:12,825:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:13,573:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:13,575:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:13,578:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:13,579:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:13,579:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:14,249:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:14,983:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:14,984:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:14,986:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:14,986:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:14,987:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:15,023:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:15,780:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:15,782:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:15,786:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:15,789:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:15,789:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:16,565:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:17,302:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:17,302:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:17,305:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:17,308:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:17,309:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:17,346:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:18,210:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:18,210:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:18,213:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:18,214:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:18,216:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:18,897:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:19,734:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:34,086:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:28:34,118:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:28:34,778:INFO:7244:inject_code:#187;DATENBANK 55.5;KASSE 40.74; Paid
+2020-08-09 22:28:34,782:INFO:7244:inject_code:ORDER IRD3ECF101-F79C-2EE3-3BC2-4EB1733DD16E
+2020-08-09 22:28:34,785:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:34,785:DEBUG:7244:inject_code:chickenfajitasub|1
+2020-08-09 22:28:34,786:DEBUG:7244:inject_code:wrapchickenfajita|1
+2020-08-09 22:28:34,786:DEBUG:7244:inject_code:chocolatechipcookie|1
+2020-08-09 22:28:34,786:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:34,789:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:34,789:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:34,792:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:35,073:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:35,822:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:35,822:DEBUG:7244:inject_code:YOUR ITEM IS chickenfajitasub|1
+2020-08-09 22:28:35,828:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:35,831:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:35,832:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:28:36,579:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:28:37,335:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:28:37,335:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenfajita|1
+2020-08-09 22:28:37,351:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:37,378:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:37,380:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:28:37,619:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:28:38,375:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:28:38,377:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:28:39,141:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:28:39,878:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:28:39,880:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-08-09 22:28:39,915:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:39,953:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:39,953:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:28:41,111:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:28:41,851:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:28:56,342:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:28:56,375:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:28:56,865:INFO:7244:inject_code:#185;DATENBANK 17.2;KASSE 12.87; Paid
+2020-08-09 22:28:56,868:INFO:7244:inject_code:ORDER IRB6D85F95-91DA-EAB4-BD62-5EDD4AA84FC0
+2020-08-09 22:28:56,872:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:28:56,874:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:28:56,874:DEBUG:7244:inject_code:fuzeteazitrone0,4l|1
+2020-08-09 22:28:56,875:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:28:56,875:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:28:56,875:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:28:56,875:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:28:56,880:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:56,881:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:56,881:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:28:56,921:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:28:57,661:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:28:57,664:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:28:57,680:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:57,683:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:57,684:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:28:58,390:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:28:59,247:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:28:59,250:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteazitrone0,4l|1
+2020-08-09 22:28:59,289:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:28:59,331:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:28:59,332:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:00,476:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:01,213:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:01,213:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:29:01,256:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:01,296:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:01,298:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:01,331:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:02,069:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:02,069:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:29:02,109:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:02,147:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:02,148:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:29:02,184:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:29:02,921:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:29:02,923:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:29:02,961:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:03,003:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:03,003:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:29:03,578:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:29:04,325:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:29:18,905:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:29:18,990:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:29:19,459:INFO:7244:inject_code:#182;DATENBANK 18.9;KASSE 13.53; Paid
+2020-08-09 22:29:19,463:INFO:7244:inject_code:ORDER IRB86AF61F-EEE8-DB85-834D-4D5F123670FD
+2020-08-09 22:29:19,476:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:29:19,476:DEBUG:7244:inject_code:veggiedelite速sub|1
+2020-08-09 22:29:19,479:DEBUG:7244:inject_code:cocacola0,5l|1
+2020-08-09 22:29:19,480:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:29:19,480:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:29:19,480:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:29:19,482:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:29:19,482:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:29:19,483:DEBUG:7244:inject_code:bbqribsub|1
+2020-08-09 22:29:19,483:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:29:19,483:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:29:19,484:DEBUG:7244:inject_code:fanta0,5l|1
+2020-08-09 22:29:19,484:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:29:19,487:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:19,490:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:19,493:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:29:19,525:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:29:20,263:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:29:20,263:DEBUG:7244:inject_code:YOUR ITEM IS veggiedelite速sub|1
+2020-08-09 22:29:20,296:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:20,303:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:20,305:INFO:7244:needed_functions_for_injecting:veggiedelite.png is the adresse
+2020-08-09 22:29:20,917:DEBUG:7244:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-08-09 22:29:21,684:DEBUG:7244:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-08-09 22:29:21,686:DEBUG:7244:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-08-09 22:29:21,710:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:21,750:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:21,752:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:22,865:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:23,612:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:23,614:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:29:23,660:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:23,707:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:23,709:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:24,851:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:25,586:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:25,588:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:29:25,631:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:25,671:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:25,673:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:25,704:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:26,459:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:26,460:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:29:26,461:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:26,463:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:26,463:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:29:26,589:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:29:27,326:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:29:27,328:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:29:27,342:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:27,352:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:27,354:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:29:28,026:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:29:28,762:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:29:28,763:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:29:28,765:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:28,765:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:28,766:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:29:29,072:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:29:29,821:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:29:29,822:DEBUG:7244:inject_code:YOUR ITEM IS bbqribsub|1
+2020-08-09 22:29:29,832:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:29,835:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:29,835:INFO:7244:needed_functions_for_injecting:bbqrib.png is the adresse
+2020-08-09 22:29:30,621:DEBUG:7244:needed_functions_for_injecting:FOUND bbqrib.png
+2020-08-09 22:29:31,361:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-08-09 22:29:31,362:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:29:31,364:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:31,365:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:31,365:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:29:31,398:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:29:32,148:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:29:32,148:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:29:32,154:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:32,158:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:32,160:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:29:32,821:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:29:33,561:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:29:33,562:DEBUG:7244:inject_code:YOUR ITEM IS fanta0,5l|1
+2020-08-09 22:29:33,588:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:33,631:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:33,632:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:29:34,364:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:29:35,101:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:29:49,520:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:29:49,581:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:29:50,092:INFO:7244:inject_code:#180;DATENBANK 47.4;KASSE 36.56; Paid
+2020-08-09 22:29:50,095:INFO:7244:inject_code:ORDER IR87598EF5-41A4-0C5D-F8F8-9508466C3FF9
+2020-08-09 22:29:50,098:DEBUG:7244:inject_code:wrapchickenfajita|1
+2020-08-09 22:29:50,098:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:29:50,098:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:29:50,099:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:29:50,099:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenfajita|1
+2020-08-09 22:29:50,134:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:50,161:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:50,161:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:29:50,334:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:29:51,072:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:29:51,072:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:29:51,839:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:29:52,579:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:29:52,581:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:29:52,582:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:52,585:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:52,586:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:29:52,877:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:29:53,615:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:29:53,617:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:29:53,628:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:53,631:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:53,631:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:29:53,667:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:29:54,417:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:29:54,418:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:29:54,423:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:29:54,426:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:29:54,427:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:29:55,599:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:29:56,358:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:30:10,976:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:30:11,028:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:30:11,529:INFO:7244:inject_code:#171;DATENBANK 16.6;KASSE 11.88; Paid
+2020-08-09 22:30:11,532:INFO:7244:inject_code:ORDER IRD126D121-30B3-9ECB-AFDB-36D9EAE863C5
+2020-08-09 22:30:11,535:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:30:11,536:DEBUG:7244:inject_code:italianb.m.t.速sub|1
+2020-08-09 22:30:11,536:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:30:11,536:DEBUG:7244:inject_code:chickenfajitasub|1
+2020-08-09 22:30:11,536:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:30:11,539:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:11,539:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:11,542:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:30:11,822:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:30:12,571:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:30:12,572:DEBUG:7244:inject_code:YOUR ITEM IS italianb.m.t.速sub|1
+2020-08-09 22:30:12,578:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:12,579:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:12,581:INFO:7244:needed_functions_for_injecting:bmt.png is the adresse
+2020-08-09 22:30:13,351:DEBUG:7244:needed_functions_for_injecting:FOUND bmt.png
+2020-08-09 22:30:14,107:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bmt.png
+2020-08-09 22:30:14,108:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:30:14,109:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:14,111:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:14,111:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:30:14,494:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:30:15,256:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:30:15,257:DEBUG:7244:inject_code:YOUR ITEM IS chickenfajitasub|1
+2020-08-09 22:30:15,260:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:15,263:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:15,263:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:30:15,940:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:30:16,676:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:30:31,193:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:30:31,243:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:30:31,832:INFO:7244:inject_code:#169;DATENBANK 19.5;KASSE 14.28; Paid
+2020-08-09 22:30:31,836:INFO:7244:inject_code:ORDER IRE960AAE3-5E73-C220-F997-195EA0E27C70
+2020-08-09 22:30:31,838:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:30:31,838:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:30:31,839:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:30:31,841:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:30:31,841:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:30:31,844:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:31,846:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:31,848:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:30:32,134:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:30:32,884:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:30:32,885:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:30:32,901:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:32,920:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:32,921:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:30:33,677:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:30:34,426:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:30:34,428:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:30:34,433:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:34,434:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:34,434:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:30:34,822:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:30:35,573:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:30:35,578:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:30:35,585:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:35,592:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:35,592:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:30:36,346:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:30:37,092:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:30:51,703:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:30:51,753:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:30:52,203:INFO:7244:inject_code:#164;DATENBANK 19.5;KASSE 14.98; Paid
+2020-08-09 22:30:52,209:INFO:7244:inject_code:ORDER IR2AE7A3CB-9DDC-1632-32F8-0C884F68E4A4
+2020-08-09 22:30:52,213:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:30:52,213:DEBUG:7244:inject_code:chocolatechipcookie|1
+2020-08-09 22:30:52,214:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:30:52,214:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:30:52,216:DEBUG:7244:inject_code:mitfeta,extra|1
+2020-08-09 22:30:52,216:DEBUG:7244:inject_code:30-cm-sub|1
+2020-08-09 22:30:52,217:DEBUG:7244:inject_code:omelettesub|1
+2020-08-09 22:30:52,219:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:30:52,219:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:30:52,244:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:52,286:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:52,286:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:30:52,332:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:30:53,076:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:30:53,078:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-08-09 22:30:53,118:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:53,157:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:53,157:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:30:53,201:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:30:53,946:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:30:53,947:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:30:53,950:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:53,953:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:53,954:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:30:54,259:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:30:54,994:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:30:54,996:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:30:55,009:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:55,013:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:55,013:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:30:55,779:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:30:56,519:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:30:56,520:DEBUG:7244:inject_code:YOUR ITEM IS mitfeta,extra|1
+2020-08-09 22:30:56,538:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:30:56,565:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:30:56,565:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:30:57,842:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:30:58,592:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:30:58,592:INFO:7244:needed_functions_for_injecting:fetaextra.png is the adresse
+2020-08-09 22:30:59,371:DEBUG:7244:needed_functions_for_injecting:FOUND fetaextra.png
+2020-08-09 22:31:00,109:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fetaextra.png
+2020-08-09 22:31:00,111:DEBUG:7244:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-08-09 22:31:00,112:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:00,115:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:00,117:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:31:00,397:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:31:01,138:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:31:01,140:DEBUG:7244:inject_code:YOUR ITEM IS omelettesub|1
+2020-08-09 22:31:01,151:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:01,154:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:01,154:INFO:7244:needed_functions_for_injecting:omelettesub.png is the adresse
+2020-08-09 22:31:01,917:DEBUG:7244:needed_functions_for_injecting:FOUND omelettesub.png
+2020-08-09 22:31:02,654:DEBUG:7244:needed_functions_for_injecting:CLICKED ON omelettesub.png
+2020-08-09 22:31:02,655:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:31:02,661:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:02,674:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:02,677:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:31:03,947:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:31:04,694:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:31:19,131:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:31:19,180:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:31:19,713:INFO:7244:inject_code:#163;DATENBANK 23.2;KASSE 18.86; Paid
+2020-08-09 22:31:19,717:INFO:7244:inject_code:ORDER IRFD53F429-4CAC-17C2-34EE-6A2FAE42A3B8
+2020-08-09 22:31:19,721:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:31:19,723:DEBUG:7244:inject_code:turkey,hamandbaconmeltsub|1
+2020-08-09 22:31:19,723:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:31:19,723:DEBUG:7244:inject_code:turkeysub|1
+2020-08-09 22:31:19,724:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:31:19,727:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:19,729:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:19,730:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:31:20,007:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:31:20,759:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:31:20,760:DEBUG:7244:inject_code:YOUR ITEM IS turkey,hamandbaconmeltsub|1
+2020-08-09 22:31:20,799:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:20,855:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:20,855:INFO:7244:needed_functions_for_injecting:turkeyham.png is the adresse
+2020-08-09 22:31:21,486:DEBUG:7244:needed_functions_for_injecting:FOUND turkeyham.png
+2020-08-09 22:31:22,226:DEBUG:7244:needed_functions_for_injecting:CLICKED ON turkeyham.png
+2020-08-09 22:31:22,227:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:31:22,230:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:22,230:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:22,230:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:31:22,510:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:31:23,247:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:31:23,249:DEBUG:7244:inject_code:YOUR ITEM IS turkeysub|1
+2020-08-09 22:31:23,273:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:23,276:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:23,276:INFO:7244:needed_functions_for_injecting:turkey.png is the adresse
+2020-08-09 22:31:23,907:DEBUG:7244:needed_functions_for_injecting:FOUND turkey.png
+2020-08-09 22:31:24,644:DEBUG:7244:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-08-09 22:31:39,167:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:31:39,224:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:31:39,693:INFO:7244:inject_code:#141;DATENBANK 17;KASSE 12.38; Paid
+2020-08-09 22:31:39,697:INFO:7244:inject_code:ORDER IRA60AAB0A-3299-B7EC-0FC3-F7CA2809E7E9
+2020-08-09 22:31:39,701:DEBUG:7244:inject_code:salatchickenteriyaki|1
+2020-08-09 22:31:39,703:DEBUG:7244:inject_code:salatchickenteriyaki|1
+2020-08-09 22:31:39,703:DEBUG:7244:inject_code:wrapchickenbreast|1
+2020-08-09 22:31:39,703:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:31:39,704:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:31:39,706:DEBUG:7244:inject_code:YOUR ITEM IS salatchickenteriyaki|1
+2020-08-09 22:31:39,709:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:39,710:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:39,713:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:31:39,900:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:31:40,634:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:31:40,635:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:31:41,403:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:31:42,141:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:31:42,141:DEBUG:7244:inject_code:YOUR ITEM IS salatchickenteriyaki|1
+2020-08-09 22:31:42,144:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:42,145:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:42,147:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:31:42,411:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:31:43,155:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:31:43,157:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:31:43,828:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:31:44,563:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:31:44,565:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenbreast|1
+2020-08-09 22:31:44,582:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:44,615:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:44,615:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:31:44,928:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:31:45,670:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:31:45,671:INFO:7244:needed_functions_for_injecting:roastedchicken.png is the adresse
+2020-08-09 22:31:46,428:DEBUG:7244:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-08-09 22:31:47,165:DEBUG:7244:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-08-09 22:31:47,167:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:31:47,174:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:47,177:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:47,177:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:31:47,451:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:31:48,198:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:31:48,200:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:31:48,224:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:31:48,237:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:31:48,239:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:31:48,898:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:31:49,651:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:32:04,275:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:32:04,329:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:32:04,878:INFO:7244:inject_code:#134;DATENBANK 23;KASSE 16.16; Paid
+2020-08-09 22:32:04,881:INFO:7244:inject_code:ORDER IRD5FE515B-76D2-81A1-928B-BE0FB0FC56C4
+2020-08-09 22:32:04,885:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:32:04,887:DEBUG:7244:inject_code:italianb.m.t.速sub|1
+2020-08-09 22:32:04,888:DEBUG:7244:inject_code:mitbacon,extra|1
+2020-08-09 22:32:04,888:DEBUG:7244:inject_code:chocolatechipcookie|1
+2020-08-09 22:32:04,888:DEBUG:7244:inject_code:chocolatechipwithrainbowcandiescookie|1
+2020-08-09 22:32:04,890:DEBUG:7244:inject_code:sprite0,5l|1
+2020-08-09 22:32:04,890:DEBUG:7244:inject_code:fuzeteapfirsich0,4l|1
+2020-08-09 22:32:04,891:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:32:04,894:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:04,894:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:04,895:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:32:05,177:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:32:05,931:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:32:05,933:DEBUG:7244:inject_code:YOUR ITEM IS italianb.m.t.速sub|1
+2020-08-09 22:32:05,937:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:05,940:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:05,940:INFO:7244:needed_functions_for_injecting:bmt.png is the adresse
+2020-08-09 22:32:06,711:DEBUG:7244:needed_functions_for_injecting:FOUND bmt.png
+2020-08-09 22:32:07,448:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bmt.png
+2020-08-09 22:32:07,450:DEBUG:7244:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-08-09 22:32:07,453:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:07,456:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:07,457:INFO:7244:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-08-09 22:32:08,742:DEBUG:7244:needed_functions_for_injecting:FOUND extrabacon.png
+2020-08-09 22:32:09,489:DEBUG:7244:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-08-09 22:32:09,490:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-08-09 22:32:09,517:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:09,561:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:09,562:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:32:09,608:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:32:10,355:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:32:10,357:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipwithrainbowcandiescookie|1
+2020-08-09 22:32:10,405:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:10,450:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:10,451:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:32:10,693:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:32:11,430:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:32:11,430:DEBUG:7244:inject_code:YOUR ITEM IS sprite0,5l|1
+2020-08-09 22:32:11,482:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:11,528:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:11,529:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:32:11,599:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:32:12,336:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:32:12,338:DEBUG:7244:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-08-09 22:32:12,388:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:12,436:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:12,437:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:32:13,171:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:32:13,910:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:32:25,456:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:32:25,970:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:32:26,503:INFO:7244:inject_code:#130;DATENBANK 19.9;KASSE 14.73; Paid
+2020-08-09 22:32:26,509:INFO:7244:inject_code:ORDER IR69506415-3E23-7EB4-074B-3D9551D1FFEC
+2020-08-09 22:32:26,513:DEBUG:7244:inject_code:wrapchickenteriyaki|1
+2020-08-09 22:32:26,513:DEBUG:7244:inject_code:wrapomelette|1
+2020-08-09 22:32:26,513:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:32:26,515:DEBUG:7244:inject_code:turkey,hamandbaconmeltsub|1
+2020-08-09 22:32:26,515:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenteriyaki|1
+2020-08-09 22:32:26,546:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:26,575:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:26,576:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:32:26,749:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:32:27,484:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:32:27,486:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:32:28,269:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:32:29,006:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:32:29,006:DEBUG:7244:inject_code:YOUR ITEM IS wrapomelette|1
+2020-08-09 22:32:29,040:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:29,071:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:29,072:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:32:29,568:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:32:30,313:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:32:30,315:INFO:7244:needed_functions_for_injecting:omelettesub.png is the adresse
+2020-08-09 22:32:31,105:DEBUG:7244:needed_functions_for_injecting:FOUND omelettesub.png
+2020-08-09 22:32:31,841:DEBUG:7244:needed_functions_for_injecting:CLICKED ON omelettesub.png
+2020-08-09 22:32:31,842:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:32:31,845:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:31,848:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:31,848:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:32:32,236:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:32:32,994:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:32:32,994:DEBUG:7244:inject_code:YOUR ITEM IS turkey,hamandbaconmeltsub|1
+2020-08-09 22:32:33,033:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:33,069:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:33,071:INFO:7244:needed_functions_for_injecting:turkeyham.png is the adresse
+2020-08-09 22:32:33,713:DEBUG:7244:needed_functions_for_injecting:FOUND turkeyham.png
+2020-08-09 22:32:34,473:DEBUG:7244:needed_functions_for_injecting:CLICKED ON turkeyham.png
+2020-08-09 22:32:49,122:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:32:49,177:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:32:49,779:INFO:7244:inject_code:#125;DATENBANK 20;KASSE 14.67; Paid
+2020-08-09 22:32:49,783:INFO:7244:inject_code:ORDER IRB85D189C-4019-01B5-0839-686BBC992A90
+2020-08-09 22:32:49,788:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:32:49,789:DEBUG:7244:inject_code:chickenbreastsub|1
+2020-08-09 22:32:49,790:DEBUG:7244:inject_code:mitguacamole|1
+2020-08-09 22:32:49,792:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:32:49,792:DEBUG:7244:inject_code:phillybeefandcheesesub|1
+2020-08-09 22:32:49,793:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:32:49,796:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:49,798:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:49,799:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:32:50,075:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:32:50,828:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:32:50,828:DEBUG:7244:inject_code:YOUR ITEM IS chickenbreastsub|1
+2020-08-09 22:32:50,848:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:50,851:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:50,854:INFO:7244:needed_functions_for_injecting:roastedchicken.png is the adresse
+2020-08-09 22:32:51,615:DEBUG:7244:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-08-09 22:32:52,371:DEBUG:7244:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-08-09 22:32:52,371:DEBUG:7244:inject_code:YOUR ITEM IS mitguacamole|1
+2020-08-09 22:32:52,388:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:52,413:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:52,414:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:32:53,641:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:32:54,391:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:32:54,391:INFO:7244:needed_functions_for_injecting:guacamole.png is the adresse
+2020-08-09 22:32:55,098:DEBUG:7244:needed_functions_for_injecting:FOUND guacamole.png
+2020-08-09 22:32:55,851:DEBUG:7244:needed_functions_for_injecting:CLICKED ON guacamole.png
+2020-08-09 22:32:55,852:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:32:55,855:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:55,857:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:55,857:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:32:55,980:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:32:56,719:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:32:56,720:DEBUG:7244:inject_code:YOUR ITEM IS phillybeefandcheesesub|1
+2020-08-09 22:32:56,772:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:32:56,822:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:32:56,823:INFO:7244:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-08-09 22:32:57,638:DEBUG:7244:needed_functions_for_injecting:FOUND steakcheese.png
+2020-08-09 22:32:58,384:DEBUG:7244:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-08-09 22:33:12,493:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:33:12,586:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:33:13,135:INFO:7244:inject_code:#126;DATENBANK 18;KASSE 11.07; Paid
+2020-08-09 22:33:13,151:INFO:7244:inject_code:ORDER IR3FC37CC1-ADBF-AD63-0256-785776052849
+2020-08-09 22:33:13,164:DEBUG:7244:inject_code:wrapchickenteriyaki|1
+2020-08-09 22:33:13,164:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:33:13,164:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:33:13,165:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:33:13,167:DEBUG:7244:inject_code:30-cm-sub|1
+2020-08-09 22:33:13,167:DEBUG:7244:inject_code:breadedchickensub|1
+2020-08-09 22:33:13,167:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenteriyaki|1
+2020-08-09 22:33:13,219:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:13,253:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:13,253:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:33:13,426:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:33:14,171:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:33:14,171:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:33:14,971:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:33:15,726:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:33:15,730:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:33:15,779:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:15,821:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:15,821:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:33:16,944:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:33:17,686:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:33:17,687:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:33:17,730:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:17,769:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:17,770:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:33:18,247:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:33:18,994:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:33:18,996:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:33:19,039:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:19,081:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:19,082:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:33:19,309:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:33:20,066:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:33:20,069:DEBUG:7244:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-08-09 22:33:20,071:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:20,072:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:20,072:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:33:20,203:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:33:20,943:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:33:20,944:DEBUG:7244:inject_code:YOUR ITEM IS breadedchickensub|1
+2020-08-09 22:33:20,970:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:20,994:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:20,996:INFO:7244:needed_functions_for_injecting:breadedchicken.png is the adresse
+2020-08-09 22:33:21,667:DEBUG:7244:needed_functions_for_injecting:FOUND breadedchicken.png
+2020-08-09 22:33:22,403:DEBUG:7244:needed_functions_for_injecting:CLICKED ON breadedchicken.png
+2020-08-09 22:33:36,891:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:33:36,966:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:33:37,500:INFO:7244:inject_code:#123;DATENBANK 19.6;KASSE 15.75; Paid
+2020-08-09 22:33:37,506:INFO:7244:inject_code:ORDER IRDE51AAFF-8ECF-4DD5-C284-8EA23E2C6996
+2020-08-09 22:33:37,509:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:33:37,510:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:33:37,510:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:33:37,513:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:33:37,513:DEBUG:7244:inject_code:veggiedelite速sub|1
+2020-08-09 22:33:37,513:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:33:37,515:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:33:37,517:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:37,519:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:37,519:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:33:37,556:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:33:38,292:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:33:38,293:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:33:38,298:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:38,299:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:38,301:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:33:38,969:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:33:39,707:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:33:39,707:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:33:39,732:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:39,770:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:39,772:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:33:40,947:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:33:41,687:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:33:41,687:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:33:41,690:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:41,691:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:41,691:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:33:41,878:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:33:42,615:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:33:42,617:DEBUG:7244:inject_code:YOUR ITEM IS veggiedelite速sub|1
+2020-08-09 22:33:42,638:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:42,654:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:42,655:INFO:7244:needed_functions_for_injecting:veggiedelite.png is the adresse
+2020-08-09 22:33:43,377:DEBUG:7244:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-08-09 22:33:44,114:DEBUG:7244:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-08-09 22:33:44,115:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:33:44,138:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:33:44,183:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:33:44,184:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:33:44,914:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:33:45,671:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:00,127:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:34:00,190:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:34:00,750:INFO:7244:inject_code:#116;DATENBANK 20.4;KASSE 14.46; Paid
+2020-08-09 22:34:00,755:INFO:7244:inject_code:ORDER IR6566E941-0F47-8B81-2339-AE3D61A62AF4
+2020-08-09 22:34:00,760:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:34:00,762:DEBUG:7244:inject_code:phillybeefandcheesesub|1
+2020-08-09 22:34:00,762:DEBUG:7244:inject_code:mitbacon,extra|1
+2020-08-09 22:34:00,763:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:34:00,763:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:34:00,765:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:34:00,767:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:34:00,769:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:34:00,770:DEBUG:7244:inject_code:cookiemix(3st端ck)|1
+2020-08-09 22:34:00,772:DEBUG:7244:inject_code:wrapchickenfajita|1
+2020-08-09 22:34:00,773:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:34:00,775:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:00,776:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:00,776:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:34:00,811:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:34:01,548:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:34:01,549:DEBUG:7244:inject_code:YOUR ITEM IS phillybeefandcheesesub|1
+2020-08-09 22:34:01,608:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:01,657:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:01,658:INFO:7244:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-08-09 22:34:02,424:DEBUG:7244:needed_functions_for_injecting:FOUND steakcheese.png
+2020-08-09 22:34:03,161:DEBUG:7244:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-08-09 22:34:03,163:DEBUG:7244:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-08-09 22:34:03,177:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:03,180:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:03,180:INFO:7244:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-08-09 22:34:04,450:DEBUG:7244:needed_functions_for_injecting:FOUND extrabacon.png
+2020-08-09 22:34:05,187:DEBUG:7244:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-08-09 22:34:05,188:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:34:05,194:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:05,207:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:05,207:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:34:05,236:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:34:05,986:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:34:05,987:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:34:06,015:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:06,053:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:06,055:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:34:06,135:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:34:06,872:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:06,875:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:34:06,917:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:06,957:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:06,957:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:34:06,987:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:34:07,733:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:07,734:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:34:07,785:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:07,822:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:07,822:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:34:07,890:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:34:08,625:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:08,628:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:34:08,668:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:08,709:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:08,710:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:34:08,825:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:34:09,562:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:09,563:DEBUG:7244:inject_code:YOUR ITEM IS cookiemix(3st端ck)|1
+2020-08-09 22:34:09,601:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:09,638:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:09,640:INFO:7244:needed_functions_for_injecting:3cookies.png is the adresse
+2020-08-09 22:34:09,673:DEBUG:7244:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-09 22:34:10,418:DEBUG:7244:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-09 22:34:10,420:DEBUG:7244:inject_code:YOUR ITEM IS wrapchickenfajita|1
+2020-08-09 22:34:10,450:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:10,480:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:10,482:INFO:7244:needed_functions_for_injecting:wrap.png is the adresse
+2020-08-09 22:34:10,516:DEBUG:7244:needed_functions_for_injecting:FOUND wrap.png
+2020-08-09 22:34:11,255:DEBUG:7244:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-08-09 22:34:11,256:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:34:12,055:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:34:12,812:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:34:27,401:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:34:27,467:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:34:27,948:INFO:7244:inject_code:#107;DATENBANK 32.6;KASSE 23.73; Paid
+2020-08-09 22:34:27,954:INFO:7244:inject_code:ORDER IR5CFCBBAB-E795-F942-BC0D-D70890B1B3E9
+2020-08-09 22:34:27,960:DEBUG:7244:inject_code:salatturkeyandham|1
+2020-08-09 22:34:27,960:DEBUG:7244:inject_code:15-cm-sub|1
+2020-08-09 22:34:27,960:DEBUG:7244:inject_code:omelettesub|1
+2020-08-09 22:34:27,960:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:34:27,961:DEBUG:7244:inject_code:raspberrycheesecakecookie|1
+2020-08-09 22:34:27,963:DEBUG:7244:inject_code:whitechipmacadamianutcookie|1
+2020-08-09 22:34:27,963:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:34:27,963:DEBUG:7244:inject_code:turkeyandhamsub|1
+2020-08-09 22:34:27,963:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:34:27,967:DEBUG:7244:inject_code:YOUR ITEM IS salatturkeyandham|1
+2020-08-09 22:34:27,974:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:27,976:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:27,977:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:34:28,164:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:34:28,900:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:34:28,901:INFO:7244:needed_functions_for_injecting:turkey.png is the adresse
+2020-08-09 22:34:29,625:DEBUG:7244:needed_functions_for_injecting:FOUND turkey.png
+2020-08-09 22:34:30,361:DEBUG:7244:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-08-09 22:34:30,362:DEBUG:7244:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-08-09 22:34:30,365:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:30,365:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:30,367:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:34:30,641:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:34:31,388:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:34:31,390:DEBUG:7244:inject_code:YOUR ITEM IS omelettesub|1
+2020-08-09 22:34:31,400:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:31,410:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:31,411:INFO:7244:needed_functions_for_injecting:omelettesub.png is the adresse
+2020-08-09 22:34:32,082:DEBUG:7244:needed_functions_for_injecting:FOUND omelettesub.png
+2020-08-09 22:34:32,822:DEBUG:7244:needed_functions_for_injecting:CLICKED ON omelettesub.png
+2020-08-09 22:34:32,823:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:34:32,834:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:32,836:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:32,838:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:34:34,112:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:34:34,851:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:34:34,851:DEBUG:7244:inject_code:YOUR ITEM IS raspberrycheesecakecookie|1
+2020-08-09 22:34:34,885:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:34,934:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:34,936:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:34:35,026:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:34:35,762:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:34:35,763:DEBUG:7244:inject_code:YOUR ITEM IS whitechipmacadamianutcookie|1
+2020-08-09 22:34:35,811:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:35,852:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:35,854:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:34:36,454:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:34:37,198:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:34:37,200:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:34:37,201:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:37,203:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:37,203:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:34:37,483:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:34:38,229:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:34:38,230:DEBUG:7244:inject_code:YOUR ITEM IS turkeyandhamsub|1
+2020-08-09 22:34:38,243:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:38,246:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:38,246:INFO:7244:needed_functions_for_injecting:ham.png is the adresse
+2020-08-09 22:34:38,868:DEBUG:7244:needed_functions_for_injecting:FOUND ham.png
+2020-08-09 22:34:39,729:DEBUG:7244:needed_functions_for_injecting:CLICKED ON ham.png
+2020-08-09 22:34:39,730:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:34:39,736:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:39,740:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:39,740:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:34:40,915:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:34:41,661:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:34:56,346:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:34:56,418:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:34:56,913:INFO:7244:inject_code:#94;DATENBANK 18.5;KASSE 14.25; Paid
+2020-08-09 22:34:56,917:INFO:7244:inject_code:ORDER IR4A2FB576-5C8F-655B-D313-C26AF77DE6D3
+2020-08-09 22:34:56,921:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:34:56,921:DEBUG:7244:inject_code:chickenfajitasub|1
+2020-08-09 22:34:56,921:DEBUG:7244:inject_code:raspberrycheesecakecookie|1
+2020-08-09 22:34:56,931:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:34:56,933:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:34:56,933:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:34:56,936:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:56,937:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:56,938:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:34:56,976:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:34:57,717:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:34:57,719:DEBUG:7244:inject_code:YOUR ITEM IS chickenfajitasub|1
+2020-08-09 22:34:57,723:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:57,726:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:57,726:INFO:7244:needed_functions_for_injecting:chickenfajita.png is the adresse
+2020-08-09 22:34:58,536:DEBUG:7244:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-08-09 22:34:59,278:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-08-09 22:34:59,279:DEBUG:7244:inject_code:YOUR ITEM IS raspberrycheesecakecookie|1
+2020-08-09 22:34:59,312:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:34:59,352:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:34:59,354:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:35:00,638:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:35:01,384:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:35:01,385:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:35:01,388:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:01,391:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:01,392:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:35:01,424:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:35:02,161:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:35:02,163:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:35:02,178:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:02,190:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:02,190:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:35:02,980:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:35:03,719:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:35:17,976:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:35:18,039:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:35:18,559:INFO:7244:inject_code:#84;DATENBANK 20.7;KASSE 15.17; Paid
+2020-08-09 22:35:18,563:INFO:7244:inject_code:ORDER IR39FF3EE5-A68D-1ED0-4884-57510256D790
+2020-08-09 22:35:18,568:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:35:18,568:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:35:18,569:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:35:18,569:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:35:18,569:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:35:18,572:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:18,573:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:18,575:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:35:18,617:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:35:19,358:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:35:19,359:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:35:19,364:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:19,369:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:19,369:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:35:20,085:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:35:20,846:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:35:20,848:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:35:20,849:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:20,851:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:20,852:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:35:21,140:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:35:21,921:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:35:21,924:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:35:21,930:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:21,934:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:21,934:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:35:22,595:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:35:23,341:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:35:38,153:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:35:38,226:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:35:38,759:INFO:7244:inject_code:#82;DATENBANK 19.5;KASSE 12.98; Paid
+2020-08-09 22:35:38,765:INFO:7244:inject_code:ORDER IRE3771CDF-A439-EAA6-03E7-87A185175419
+2020-08-09 22:35:38,766:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:35:38,767:DEBUG:7244:inject_code:veggiedelite速sub|1
+2020-08-09 22:35:38,769:DEBUG:7244:inject_code:mitfeta,extra|1
+2020-08-09 22:35:38,769:DEBUG:7244:inject_code:salatveggiedelite速|1
+2020-08-09 22:35:38,770:DEBUG:7244:inject_code:cocacolazero0,5l|1
+2020-08-09 22:35:38,770:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:35:38,773:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:38,776:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:38,778:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:35:39,058:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:35:39,806:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:35:39,808:DEBUG:7244:inject_code:YOUR ITEM IS veggiedelite速sub|1
+2020-08-09 22:35:39,822:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:39,826:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:39,828:INFO:7244:needed_functions_for_injecting:veggiedelite.png is the adresse
+2020-08-09 22:35:40,559:DEBUG:7244:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-08-09 22:35:41,315:DEBUG:7244:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-08-09 22:35:41,316:DEBUG:7244:inject_code:YOUR ITEM IS mitfeta,extra|1
+2020-08-09 22:35:41,334:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:41,365:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:41,367:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:35:42,648:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:35:43,398:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:35:43,401:INFO:7244:needed_functions_for_injecting:fetaextra.png is the adresse
+2020-08-09 22:35:44,059:DEBUG:7244:needed_functions_for_injecting:FOUND fetaextra.png
+2020-08-09 22:35:44,815:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fetaextra.png
+2020-08-09 22:35:44,816:DEBUG:7244:inject_code:YOUR ITEM IS salatveggiedelite速|1
+2020-08-09 22:35:44,825:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:44,828:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:44,829:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:35:45,118:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:35:45,885:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:35:45,887:INFO:7244:needed_functions_for_injecting:veggiedelite.png is the adresse
+2020-08-09 22:35:46,642:DEBUG:7244:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-08-09 22:35:47,390:DEBUG:7244:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-08-09 22:35:47,391:DEBUG:7244:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-08-09 22:35:47,437:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:35:47,487:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:35:47,489:INFO:7244:needed_functions_for_injecting:flaschengetrank.png is the adresse
+2020-08-09 22:35:48,648:DEBUG:7244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-08-09 22:35:49,388:DEBUG:7244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-08-09 22:36:03,969:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:36:04,036:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:36:04,536:INFO:7244:inject_code:#78;DATENBANK 16.5;KASSE 11.63; Paid
+2020-08-09 22:36:04,542:INFO:7244:inject_code:ORDER IRFF4C593B-69C4-F97D-EDD1-22F7100FB7FA
+2020-08-09 22:36:04,546:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:36:04,548:DEBUG:7244:inject_code:italianb.m.t.速sub|1
+2020-08-09 22:36:04,548:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:36:04,549:DEBUG:7244:inject_code:italianb.m.t.速sub|1
+2020-08-09 22:36:04,551:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:36:04,552:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:04,553:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:04,555:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:36:04,589:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:36:05,328:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:36:05,329:DEBUG:7244:inject_code:YOUR ITEM IS italianb.m.t.速sub|1
+2020-08-09 22:36:05,345:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:05,348:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:05,348:INFO:7244:needed_functions_for_injecting:bmt.png is the adresse
+2020-08-09 22:36:06,151:DEBUG:7244:needed_functions_for_injecting:FOUND bmt.png
+2020-08-09 22:36:06,891:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bmt.png
+2020-08-09 22:36:06,891:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:36:06,894:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:06,894:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:06,895:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:36:07,181:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:36:07,920:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:36:07,921:DEBUG:7244:inject_code:YOUR ITEM IS italianb.m.t.速sub|1
+2020-08-09 22:36:07,924:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:07,930:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:07,933:INFO:7244:needed_functions_for_injecting:bmt.png is the adresse
+2020-08-09 22:36:08,634:DEBUG:7244:needed_functions_for_injecting:FOUND bmt.png
+2020-08-09 22:36:09,371:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bmt.png
+2020-08-09 22:36:23,901:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:36:23,990:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:36:24,519:INFO:7244:inject_code:#77;DATENBANK 19.5;KASSE 13.58; Paid
+2020-08-09 22:36:24,526:INFO:7244:inject_code:ORDER IR2F8523D3-C896-A30E-845C-2A18FBBD7E9C
+2020-08-09 22:36:24,530:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:36:24,532:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:36:24,532:DEBUG:7244:inject_code:salatchickenbreast|1
+2020-08-09 22:36:24,533:DEBUG:7244:inject_code:salatveggiedelite速|1
+2020-08-09 22:36:24,535:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:36:24,536:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:24,539:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:24,542:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:36:24,825:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:36:25,579:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:36:25,581:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:36:25,621:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:25,664:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:25,665:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:36:26,466:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:36:27,226:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:36:27,227:DEBUG:7244:inject_code:YOUR ITEM IS salatchickenbreast|1
+2020-08-09 22:36:27,230:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:27,232:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:27,233:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:36:27,365:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:36:28,101:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:36:28,102:INFO:7244:needed_functions_for_injecting:roastedchicken.png is the adresse
+2020-08-09 22:36:28,145:DEBUG:7244:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-08-09 22:36:28,898:DEBUG:7244:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-08-09 22:36:28,898:DEBUG:7244:inject_code:YOUR ITEM IS salatveggiedelite速|1
+2020-08-09 22:36:28,901:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:28,904:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:28,904:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:36:29,076:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:36:29,823:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:36:29,828:INFO:7244:needed_functions_for_injecting:veggiedelite.png is the adresse
+2020-08-09 22:36:30,619:DEBUG:7244:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-08-09 22:36:31,378:DEBUG:7244:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-08-09 22:36:45,951:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:36:46,020:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:36:46,594:INFO:7244:inject_code:#76;DATENBANK 19.4;KASSE 14.37; Paid
+2020-08-09 22:36:46,598:INFO:7244:inject_code:ORDER IR5C8332AA-7954-0DAA-1635-E8B4C17B92C7
+2020-08-09 22:36:46,607:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:36:46,608:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:36:46,608:DEBUG:7244:inject_code:doublechocolatecookie|1
+2020-08-09 22:36:46,609:DEBUG:7244:inject_code:chocolatechipcookie|1
+2020-08-09 22:36:46,609:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:36:46,611:DEBUG:7244:inject_code:phillybeefandcheesesub|1
+2020-08-09 22:36:46,611:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:36:46,611:DEBUG:7244:inject_code:mitfeta,extra|1
+2020-08-09 22:36:46,612:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:36:46,615:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:46,618:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:46,619:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:36:46,657:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:36:47,398:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:36:47,400:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:36:47,404:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:47,407:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:47,410:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:36:48,211:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:36:48,950:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:36:48,951:DEBUG:7244:inject_code:YOUR ITEM IS doublechocolatecookie|1
+2020-08-09 22:36:48,986:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:49,036:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:49,038:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:36:50,252:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:36:50,990:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:36:50,992:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-08-09 22:36:51,039:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:51,085:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:51,086:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:36:51,566:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:36:52,319:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:36:52,319:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:36:52,322:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:52,322:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:52,325:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:36:52,361:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:36:53,101:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:36:53,101:DEBUG:7244:inject_code:YOUR ITEM IS phillybeefandcheesesub|1
+2020-08-09 22:36:53,160:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:53,214:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:53,216:INFO:7244:needed_functions_for_injecting:steakcheese.png is the adresse
+2020-08-09 22:36:54,030:DEBUG:7244:needed_functions_for_injecting:FOUND steakcheese.png
+2020-08-09 22:36:54,789:DEBUG:7244:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-08-09 22:36:54,790:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:36:54,809:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:54,812:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:54,812:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:36:55,585:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:36:56,331:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:36:56,332:DEBUG:7244:inject_code:YOUR ITEM IS mitfeta,extra|1
+2020-08-09 22:36:56,349:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:36:56,378:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:36:56,380:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:36:56,470:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:36:57,209:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:36:57,210:INFO:7244:needed_functions_for_injecting:fetaextra.png is the adresse
+2020-08-09 22:36:57,980:DEBUG:7244:needed_functions_for_injecting:FOUND fetaextra.png
+2020-08-09 22:36:58,719:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fetaextra.png
+2020-08-09 22:37:13,184:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:37:13,255:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:37:13,760:INFO:7244:inject_code:#74;DATENBANK 23.7;KASSE 19.06; Paid
+2020-08-09 22:37:13,766:INFO:7244:inject_code:ORDER IR138ACD36-4E1E-CC6F-1309-75C5608CA2CF
+2020-08-09 22:37:13,773:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:37:13,773:DEBUG:7244:inject_code:tunasub|1
+2020-08-09 22:37:13,773:DEBUG:7244:inject_code:mitbacon,extra|1
+2020-08-09 22:37:13,775:DEBUG:7244:inject_code:mitk磴se,extra|1
+2020-08-09 22:37:13,776:DEBUG:7244:inject_code:raspberrycheesecakecookie|1
+2020-08-09 22:37:13,776:DEBUG:7244:inject_code:chocolatechipcookie|1
+2020-08-09 22:37:13,776:DEBUG:7244:inject_code:doublechocolatecookie|1
+2020-08-09 22:37:13,778:DEBUG:7244:inject_code:chocolatechipwithrainbowcandiescookie|1
+2020-08-09 22:37:13,779:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:37:13,780:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:13,782:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:13,785:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:37:13,819:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:37:14,561:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:37:14,562:DEBUG:7244:inject_code:YOUR ITEM IS tunasub|1
+2020-08-09 22:37:14,585:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:14,602:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:14,604:INFO:7244:needed_functions_for_injecting:tuna.png is the adresse
+2020-08-09 22:37:15,407:DEBUG:7244:needed_functions_for_injecting:FOUND tuna.png
+2020-08-09 22:37:16,148:DEBUG:7244:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-08-09 22:37:16,150:DEBUG:7244:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-08-09 22:37:16,153:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:16,157:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:16,157:INFO:7244:needed_functions_for_injecting:extrabacon.png is the adresse
+2020-08-09 22:37:17,457:DEBUG:7244:needed_functions_for_injecting:FOUND extrabacon.png
+2020-08-09 22:37:18,196:DEBUG:7244:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-08-09 22:37:18,197:DEBUG:7244:inject_code:YOUR ITEM IS mitk磴se,extra|1
+2020-08-09 22:37:18,206:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:18,207:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:18,209:INFO:7244:needed_functions_for_injecting:kase.png is the adresse
+2020-08-09 22:37:18,236:DEBUG:7244:needed_functions_for_injecting:FOUND kase.png
+2020-08-09 22:37:18,980:DEBUG:7244:needed_functions_for_injecting:CLICKED ON kase.png
+2020-08-09 22:37:18,982:DEBUG:7244:inject_code:YOUR ITEM IS raspberrycheesecakecookie|1
+2020-08-09 22:37:19,013:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:19,058:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:19,059:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:37:19,144:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:37:19,891:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:37:19,892:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipcookie|1
+2020-08-09 22:37:19,938:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:19,982:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:19,983:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:37:20,262:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:37:21,010:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:37:21,012:DEBUG:7244:inject_code:YOUR ITEM IS doublechocolatecookie|1
+2020-08-09 22:37:21,062:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:21,101:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:21,102:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:37:21,630:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:37:22,375:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:37:22,378:DEBUG:7244:inject_code:YOUR ITEM IS chocolatechipwithrainbowcandiescookie|1
+2020-08-09 22:37:22,418:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:22,459:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:22,460:INFO:7244:needed_functions_for_injecting:cookie.png is the adresse
+2020-08-09 22:37:22,644:DEBUG:7244:needed_functions_for_injecting:FOUND cookie.png
+2020-08-09 22:37:23,380:DEBUG:7244:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-08-09 22:37:38,048:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:37:38,112:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:37:38,634:INFO:7244:inject_code:#72;DATENBANK 16.9;KASSE 14.35; Paid
+2020-08-09 22:37:38,640:INFO:7244:inject_code:ORDER IR54381B66-5567-9923-E882-4FFD54398D29
+2020-08-09 22:37:38,644:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:37:38,647:DEBUG:7244:inject_code:chickenteriyakisub|1
+2020-08-09 22:37:38,648:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:37:38,650:DEBUG:7244:inject_code:turkeyandhamsub|1
+2020-08-09 22:37:38,651:DEBUG:7244:inject_code:15cm|1
+2020-08-09 22:37:38,651:DEBUG:7244:inject_code:salamisub|1
+2020-08-09 22:37:38,651:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:37:38,654:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:38,657:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:38,657:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:37:38,691:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:37:39,430:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:37:39,430:DEBUG:7244:inject_code:YOUR ITEM IS chickenteriyakisub|1
+2020-08-09 22:37:39,460:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:39,469:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:39,470:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:37:40,280:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:37:41,019:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:37:41,019:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:37:41,022:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:41,023:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:41,023:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:37:41,303:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:37:42,078:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:37:42,081:DEBUG:7244:inject_code:YOUR ITEM IS turkeyandhamsub|1
+2020-08-09 22:37:42,084:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:42,085:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:42,085:INFO:7244:needed_functions_for_injecting:ham.png is the adresse
+2020-08-09 22:37:42,729:DEBUG:7244:needed_functions_for_injecting:FOUND ham.png
+2020-08-09 22:37:43,466:DEBUG:7244:needed_functions_for_injecting:CLICKED ON ham.png
+2020-08-09 22:37:43,467:DEBUG:7244:inject_code:YOUR ITEM IS 15cm|1
+2020-08-09 22:37:43,469:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:43,469:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:43,470:INFO:7244:needed_functions_for_injecting:sixinch.png is the adresse
+2020-08-09 22:37:43,644:DEBUG:7244:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-09 22:37:44,381:DEBUG:7244:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-09 22:37:44,381:DEBUG:7244:inject_code:YOUR ITEM IS salamisub|1
+2020-08-09 22:37:44,401:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:37:44,436:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:37:44,437:INFO:7244:needed_functions_for_injecting:salami.png is the adresse
+2020-08-09 22:37:45,161:DEBUG:7244:needed_functions_for_injecting:FOUND salami.png
+2020-08-09 22:37:45,908:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salami.png
+2020-08-09 22:38:00,401:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:38:00,471:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:38:01,006:INFO:7244:inject_code:#47;DATENBANK 19.5;KASSE 14.27; Paid
+2020-08-09 22:38:01,010:INFO:7244:inject_code:ORDER IR60D85D40-5C1A-F58C-A41F-A1AE3748CFF0
+2020-08-09 22:38:01,013:DEBUG:7244:inject_code:salatchickenteriyaki|1
+2020-08-09 22:38:01,015:DEBUG:7244:inject_code:mitguacamole|1
+2020-08-09 22:38:01,015:DEBUG:7244:inject_code:30cm|1
+2020-08-09 22:38:01,016:DEBUG:7244:inject_code:bbqribsub|1
+2020-08-09 22:38:01,016:DEBUG:7244:inject_code:YOUR ITEM IS salatchickenteriyaki|1
+2020-08-09 22:38:01,023:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:38:01,026:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:38:01,029:INFO:7244:needed_functions_for_injecting:salat.png is the adresse
+2020-08-09 22:38:01,223:DEBUG:7244:needed_functions_for_injecting:FOUND salat.png
+2020-08-09 22:38:01,959:DEBUG:7244:needed_functions_for_injecting:CLICKED ON salat.png
+2020-08-09 22:38:01,960:INFO:7244:needed_functions_for_injecting:chickenteriyaki.png is the adresse
+2020-08-09 22:38:02,716:DEBUG:7244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-08-09 22:38:03,453:DEBUG:7244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-08-09 22:38:03,453:DEBUG:7244:inject_code:YOUR ITEM IS mitguacamole|1
+2020-08-09 22:38:03,482:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:38:03,506:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:38:03,507:INFO:7244:needed_functions_for_injecting:fleischhinzufugen.png is the adresse
+2020-08-09 22:38:04,775:DEBUG:7244:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-08-09 22:38:05,513:DEBUG:7244:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-08-09 22:38:05,513:INFO:7244:needed_functions_for_injecting:guacamole.png is the adresse
+2020-08-09 22:38:06,312:DEBUG:7244:needed_functions_for_injecting:FOUND guacamole.png
+2020-08-09 22:38:07,049:DEBUG:7244:needed_functions_for_injecting:CLICKED ON guacamole.png
+2020-08-09 22:38:07,049:DEBUG:7244:inject_code:YOUR ITEM IS 30cm|1
+2020-08-09 22:38:07,052:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:38:07,052:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:38:07,053:INFO:7244:needed_functions_for_injecting:footlang.png is the adresse
+2020-08-09 22:38:07,342:DEBUG:7244:needed_functions_for_injecting:FOUND footlang.png
+2020-08-09 22:38:08,079:DEBUG:7244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-09 22:38:08,081:DEBUG:7244:inject_code:YOUR ITEM IS bbqribsub|1
+2020-08-09 22:38:08,101:INFO:7244:needed_functions_for_injecting:ENTERING THE FUNCTION OF THE CLicK
+2020-08-09 22:38:08,104:INFO:7244:needed_functions_for_injecting:count = 1
+2020-08-09 22:38:08,105:INFO:7244:needed_functions_for_injecting:bbqrib.png is the adresse
+2020-08-09 22:38:08,872:DEBUG:7244:needed_functions_for_injecting:FOUND bbqrib.png
+2020-08-09 22:38:09,609:DEBUG:7244:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-08-09 22:38:24,022:ERROR:7244:inject_code:'unicode' object has no attribute 'sleep'
+2020-08-09 22:38:24,095:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login
+2020-08-09 22:38:24,595:INFO:7244:inject_code:#33;DATENBANK 17;KASSE 12.58; Paid
+2020-08-09 22:38:24,596:INFO:7244:inject_code:Total Diff: 0;COD
+2020-08-09 22:38:24,598:INFO:7244:inject_code:Total Diff: -192760.79;PAID
+2020-08-09 22:38:24,598:INFO:7244:inject_code:#######ORDER COMPLETED##########
+2020-08-09 22:40:07,263:DEBUG:7244:http_code:https://staging.everesto.net/api/user/login

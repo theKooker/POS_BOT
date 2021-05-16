@@ -1,0 +1,117 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>the_main.sikuli</h2> <a href="the_main.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">#!/usr/bin/env python</span>
+<span class="cmt"># -*- coding: utf-8 -*-</span>
+<span class="kw">from</span> sikuli <span class="kw">import</span> *
+<span class="kw">from</span> javax.swing <span class="kw">import</span> JFrame,JProgressBar
+<span class="kw">import</span> time
+<span class="kw">import</span> sys
+<span class="kw">import</span> imp
+<span class="kw">import</span> os
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\http_code.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\main.sikuli"</span>)
+sys.path.append(<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\modifiable_data.sikuli"</span>)
+<span class="kw">import</span> modifiable_data
+<span class="kw">from</span> main <span class="kw">import</span> gui_display
+<span class="kw">from</span> datetime <span class="kw">import</span> date
+<span class="kw">import</span> http_code
+today=date.today()
+<span class="kw">import</span> logging
+<span class="kw">print</span>(<span class="str">"WELCOME TO THE POS_BOT OF EVERESTO"</span>)
+logging.basicConfig(format=modifiable_data.extra_infos[<span class="str">"log_format"</span>],filename=modifiable_data.extra_infos[<span class="str">"error_file"</span>]+<span class="str">" "</span>+str(today)+<span class="str">"-log.log"</span>,filemode=<span class="str">"a"</span>,level=modifiable_data.extra_infos[<span class="str">"log_level"</span>])
+<span class="cmt">#GET THE DATA</span>
+<span class="kw">try</span>:
+    frame=JFrame(<span class="str">"LOADING"</span>)
+    frame.setSize(<span class="dig">300</span>,<span class="dig">100</span>)
+    frame.setLocation(<span class="dig">300</span>,<span class="dig">300</span>)
+    BAR=JProgressBar(<span class="dig">0</span>,<span class="dig">100</span>)
+    BAR.setValue(<span class="dig">0</span>)
+    BAR.setStringPainted(True)
+    frame.add(BAR)
+    frame.setVisible(True)
+    <span class="kw">for</span> i <span class="kw">in</span> range(<span class="dig">0</span>,<span class="dig">101</span>):
+        time.<span class="skw">sleep</span>(<span class="dig">0.005</span>)
+        BAR.setValue(i)
+    frame.dispose()
+    data_json_order=http_code.get_request()
+    length_order=len(data_json_order)
+    <span class="kw">import</span> main
+    main.gui_display(data_json_order,length_order)
+<span class="kw">except</span> Exception <span class="kw">as</span> e:
+    er=str(e)
+    logging.error(er)
+<span class="kw">while</span> True:
+    time.<span class="skw">sleep</span>(<span class="dig">0.01</span>)
+</pre>
+</body>
+</html>

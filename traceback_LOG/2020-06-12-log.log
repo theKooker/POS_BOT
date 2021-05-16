@@ -1,0 +1,905 @@
+2020-06-12 20:01:36,696:DEBUG:6472:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 20:03:06,671:INFO:6472:inject_code:1572
+2020-06-12 19:46:08,009:INFO:6472:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,710:DEBUG:6472:inject_code:sub30cm|1
+2020-06-12 19:46:08,711:DEBUG:6472:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,713:DEBUG:6472:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,713:DEBUG:6472:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,714:DEBUG:6472:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,714:DEBUG:6472:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,717:DEBUG:6472:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,943:DEBUG:6472:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,680:DEBUG:6472:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,680:DEBUG:6472:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,224:DEBUG:6472:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,967:DEBUG:6472:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,970:DEBUG:6472:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,539:DEBUG:6472:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,283:DEBUG:6472:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,285:DEBUG:6472:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,483:DEBUG:6472:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,217:DEBUG:6472:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,217:DEBUG:6472:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,253:ERROR:6472:inject_code:substring not found
+2020-06-12 19:46:35,996:DEBUG:6472:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:36,447:ERROR:6472:inject_code:'unicode' object has no attribute 'time'
+2020-06-12 19:47:32,688:DEBUG:7076:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:49:02,253:INFO:7076:inject_code:1571
+2020-06-12 19:04:49,012:INFO:7076:inject_code:ORDER IR7E0969BA-2CAE-D419-8E52-CD28E19224C2
+2020-06-12 19:04:49,015:DEBUG:7076:inject_code:cookies(3st√ºck)|1
+2020-06-12 19:04:49,016:DEBUG:7076:inject_code:30-cm-sub|1
+2020-06-12 19:04:49,017:DEBUG:7076:inject_code:subveggiedelite|1
+2020-06-12 19:04:49,019:DEBUG:7076:inject_code:YOUR ITEM IS cookies(3st√ºck)|1
+2020-06-12 19:04:49,263:DEBUG:7076:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-12 19:04:49,999:DEBUG:7076:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-12 19:04:50,000:DEBUG:7076:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 19:04:50,227:DEBUG:7076:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:04:50,969:DEBUG:7076:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:04:50,969:DEBUG:7076:inject_code:YOUR ITEM IS subveggiedelite|1
+2020-06-12 19:04:51,513:DEBUG:7076:needed_functions_for_injecting:FOUND veggiedelite.png
+2020-06-12 19:04:52,259:DEBUG:7076:needed_functions_for_injecting:CLICKED ON veggiedelite.png
+2020-06-12 19:05:00,665:ERROR:7076:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 19:05:00,693:DEBUG:7076:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:05:01,194:INFO:7076:inject_code:#60;DATENBANK 11.1;KASSE 8.08; Paid
+2020-06-12 19:05:01,197:INFO:7076:inject_code:Total Diff: 0;COD
+2020-06-12 19:05:01,197:INFO:7076:inject_code:Total Diff: 3.02;PAID
+2020-06-12 19:05:01,197:INFO:7076:inject_code:#######ORDER COMPLETED##########
+2020-06-12 19:08:39,739:DEBUG:7076:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:28:16,944:DEBUG:4676:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:28:51,177:INFO:4676:inject_code:1570
+2020-06-12 19:05:18,012:INFO:4676:inject_code:ORDER IR55C23FDB-D7F5-BCF7-504A-D32E7E23978F
+2020-06-12 19:05:19,335:DEBUG:4676:inject_code:sub30cm|1
+2020-06-12 19:05:19,335:DEBUG:4676:inject_code:subchickenteriyaki|1
+2020-06-12 19:05:19,336:DEBUG:4676:inject_code:mitbacon,extra|1
+2020-06-12 19:05:19,336:DEBUG:4676:inject_code:mitcookiechocolatechip|1
+2020-06-12 19:05:19,338:DEBUG:4676:inject_code:fuzeteapfirsich0,4l|1
+2020-06-12 19:05:19,338:DEBUG:4676:inject_code:sub30cm|1
+2020-06-12 19:05:19,338:DEBUG:4676:inject_code:subchickenteriyaki|1
+2020-06-12 19:05:19,339:DEBUG:4676:inject_code:mitbacon,extra|1
+2020-06-12 19:05:19,339:DEBUG:4676:inject_code:cocacola0,5l|1
+2020-06-12 19:05:19,341:DEBUG:4676:inject_code:sub30cm|1
+2020-06-12 19:05:19,342:DEBUG:4676:inject_code:subchickenteriyaki|1
+2020-06-12 19:05:19,342:DEBUG:4676:inject_code:cocacolazero0,5l|1
+2020-06-12 19:05:19,344:DEBUG:4676:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:05:19,548:DEBUG:4676:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:05:20,285:DEBUG:4676:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:05:20,286:DEBUG:4676:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 19:05:20,819:DEBUG:4676:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 19:05:21,562:DEBUG:4676:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 19:05:21,562:DEBUG:4676:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-06-12 19:05:22,137:DEBUG:4676:needed_functions_for_injecting:FOUND extrabacon.png
+2020-06-12 19:05:22,871:DEBUG:4676:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-06-12 19:05:22,872:DEBUG:4676:inject_code:YOUR ITEM IS mitcookiechocolatechip|1
+2020-06-12 19:05:23,035:DEBUG:4676:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:05:23,776:DEBUG:4676:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:05:23,779:DEBUG:4676:inject_code:YOUR ITEM IS fuzeteapfirsich0,4l|1
+2020-06-12 19:05:23,984:DEBUG:4676:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:05:24,720:DEBUG:4676:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:05:24,720:DEBUG:4676:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:05:24,747:DEBUG:4676:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:05:25,490:DEBUG:4676:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:05:25,492:DEBUG:4676:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 19:05:26,029:DEBUG:4676:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 19:05:26,766:DEBUG:4676:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 19:05:26,766:DEBUG:4676:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-06-12 19:05:27,332:DEBUG:4676:needed_functions_for_injecting:FOUND extrabacon.png
+2020-06-12 19:05:28,066:DEBUG:4676:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-06-12 19:05:28,066:DEBUG:4676:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 19:05:28,101:DEBUG:4676:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:05:28,842:DEBUG:4676:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:05:28,842:DEBUG:4676:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:05:28,867:DEBUG:4676:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:05:29,608:DEBUG:4676:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:05:29,608:DEBUG:4676:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 19:05:30,165:DEBUG:4676:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 19:05:30,901:DEBUG:4676:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 19:05:30,903:DEBUG:4676:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:05:31,471:DEBUG:4676:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:05:32,209:DEBUG:4676:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:05:40,630:ERROR:4676:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 19:05:40,657:DEBUG:4676:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:05:41,144:INFO:4676:inject_code:#61;DATENBANK 40.05;KASSE 32.73; Paid
+2020-06-12 19:05:41,145:INFO:4676:inject_code:Total Diff: 0;COD
+2020-06-12 19:05:41,147:INFO:4676:inject_code:Total Diff: 7.32;PAID
+2020-06-12 19:05:41,148:INFO:4676:inject_code:#######ORDER COMPLETED##########
+2020-06-12 19:06:00,313:DEBUG:4676:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:17:35,632:DEBUG:7048:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:17:50,289:ERROR:7048:main:global name 'JPasswortField' is not defined
+2020-06-12 19:18:21,036:DEBUG:5228:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:19:14,846:INFO:5228:inject_code:1569
+2020-06-12 18:59:17,012:INFO:5228:inject_code:ORDER IR7A056566-BFD2-5E25-9F98-1A3DA9A38C6F
+2020-06-12 18:59:17,993:DEBUG:5228:inject_code:cookies(12st√ºck)|1
+2020-06-12 18:59:17,994:DEBUG:5228:inject_code:sub30cm|1
+2020-06-12 18:59:17,996:DEBUG:5228:inject_code:subbbqrib|1
+2020-06-12 18:59:17,996:DEBUG:5228:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 18:59:17,996:DEBUG:5228:inject_code:mitlayscheese&onion|1
+2020-06-12 18:59:17,997:DEBUG:5228:inject_code:cocacola0,5l|1
+2020-06-12 18:59:17,997:DEBUG:5228:inject_code:sub30cm|1
+2020-06-12 18:59:17,999:DEBUG:5228:inject_code:subbbqrib|1
+2020-06-12 18:59:17,999:DEBUG:5228:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 18:59:18,000:DEBUG:5228:inject_code:mitlayscheese&onion|1
+2020-06-12 18:59:18,000:DEBUG:5228:inject_code:cocacola0,5l|1
+2020-06-12 18:59:18,002:DEBUG:5228:inject_code:YOUR ITEM IS cookies(12st√ºck)|1
+2020-06-12 18:59:18,148:DEBUG:5228:needed_functions_for_injecting:FOUND allebeilagen.png
+2020-06-12 18:59:18,887:DEBUG:5228:needed_functions_for_injecting:CLICKED ON allebeilagen.png
+2020-06-12 18:59:19,325:DEBUG:5228:needed_functions_for_injecting:FOUND 12cookies.png
+2020-06-12 18:59:20,183:DEBUG:5228:needed_functions_for_injecting:CLICKED ON 12cookies.png
+2020-06-12 18:59:20,184:DEBUG:5228:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 18:59:20,426:DEBUG:5228:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:59:21,164:DEBUG:5228:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:59:21,164:DEBUG:5228:inject_code:YOUR ITEM IS subbbqrib|1
+2020-06-12 18:59:21,727:DEBUG:5228:needed_functions_for_injecting:FOUND bbqrib.png
+2020-06-12 18:59:22,461:DEBUG:5228:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-06-12 18:59:22,463:DEBUG:5228:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 18:59:23,171:DEBUG:5228:needed_functions_for_injecting:FOUND kase.png
+2020-06-12 18:59:23,904:DEBUG:5228:needed_functions_for_injecting:CLICKED ON kase.png
+2020-06-12 18:59:23,907:DEBUG:5228:inject_code:YOUR ITEM IS mitlayscheese&onion|1
+2020-06-12 18:59:24,062:DEBUG:5228:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 18:59:24,805:DEBUG:5228:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 18:59:24,806:DEBUG:5228:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 18:59:24,983:DEBUG:5228:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 18:59:25,720:DEBUG:5228:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 18:59:25,721:DEBUG:5228:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 18:59:25,973:DEBUG:5228:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:59:26,710:DEBUG:5228:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:59:26,710:DEBUG:5228:inject_code:YOUR ITEM IS subbbqrib|1
+2020-06-12 18:59:27,257:DEBUG:5228:needed_functions_for_injecting:FOUND bbqrib.png
+2020-06-12 18:59:27,994:DEBUG:5228:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-06-12 18:59:27,996:DEBUG:5228:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 18:59:28,578:DEBUG:5228:needed_functions_for_injecting:FOUND kase.png
+2020-06-12 18:59:29,312:DEBUG:5228:needed_functions_for_injecting:CLICKED ON kase.png
+2020-06-12 18:59:29,313:DEBUG:5228:inject_code:YOUR ITEM IS mitlayscheese&onion|1
+2020-06-12 18:59:29,359:DEBUG:5228:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 18:59:30,108:DEBUG:5228:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 18:59:30,109:DEBUG:5228:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 18:59:30,170:DEBUG:5228:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 18:59:30,911:DEBUG:5228:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 18:59:39,311:ERROR:5228:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 18:59:39,338:DEBUG:5228:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:59:41,072:INFO:5228:inject_code:#58;DATENBANK 38.6;KASSE 29.73; Paid
+2020-06-12 18:59:41,075:INFO:5228:inject_code:Total Diff: 0;COD
+2020-06-12 18:59:41,075:INFO:5228:inject_code:Total Diff: 8.87;PAID
+2020-06-12 18:59:41,075:INFO:5228:inject_code:#######ORDER COMPLETED##########
+2020-06-12 18:59:50,259:DEBUG:5228:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:05:44,052:DEBUG:7956:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:07:02,522:DEBUG:6932:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:10:37,729:INFO:6932:inject_code:1568
+2020-06-12 18:51:26,010:INFO:6932:inject_code:ORDER IR71651867-8EFC-AC29-B999-C620DF37D922
+2020-06-12 18:51:26,016:DEBUG:6932:inject_code:30-cm-sub|1
+2020-06-12 18:51:26,016:DEBUG:6932:inject_code:subchickenteriyaki|1
+2020-06-12 18:51:26,017:DEBUG:6932:inject_code:15-cm-sub|1
+2020-06-12 18:51:26,019:DEBUG:6932:inject_code:subbeefsupreme|1
+2020-06-12 18:51:26,019:DEBUG:6932:inject_code:30-cm-sub|1
+2020-06-12 18:51:26,019:DEBUG:6932:inject_code:subbeefsupreme|1
+2020-06-12 18:51:26,020:DEBUG:6932:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 18:51:26,249:DEBUG:6932:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:51:26,990:DEBUG:6932:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:51:26,990:DEBUG:6932:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 18:51:27,635:DEBUG:6932:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 18:51:28,371:DEBUG:6932:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 18:51:28,372:DEBUG:6932:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-12 18:51:28,523:DEBUG:6932:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-12 18:51:29,263:DEBUG:6932:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-12 18:51:29,265:DEBUG:6932:inject_code:YOUR ITEM IS subbeefsupreme|1
+2020-06-12 18:51:29,816:DEBUG:6932:needed_functions_for_injecting:FOUND beefsupreme.png
+2020-06-12 18:51:30,551:DEBUG:6932:needed_functions_for_injecting:CLICKED ON beefsupreme.png
+2020-06-12 18:51:30,552:DEBUG:6932:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 18:51:30,816:DEBUG:6932:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:51:31,556:DEBUG:6932:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:51:31,558:DEBUG:6932:inject_code:YOUR ITEM IS subbeefsupreme|1
+2020-06-12 18:51:32,115:DEBUG:6932:needed_functions_for_injecting:FOUND beefsupreme.png
+2020-06-12 18:51:32,851:DEBUG:6932:needed_functions_for_injecting:CLICKED ON beefsupreme.png
+2020-06-12 18:51:41,367:ERROR:6932:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 18:51:41,394:DEBUG:6932:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:51:42,246:INFO:6932:inject_code:#56;DATENBANK 24.1;KASSE 19.57; Paid
+2020-06-12 18:51:42,247:INFO:6932:inject_code:Total Diff: 0;COD
+2020-06-12 18:51:42,249:INFO:6932:inject_code:Total Diff: 4.53;PAID
+2020-06-12 18:51:42,250:INFO:6932:inject_code:#######ORDER COMPLETED##########
+2020-06-12 18:53:16,647:DEBUG:6932:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:03:32,948:DEBUG:8160:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:04:08,188:INFO:8160:inject_code:1567
+2020-06-12 18:42:27,009:INFO:8160:inject_code:ORDER IRA34CC073-D881-3F60-F49A-D57E7C0833AA
+2020-06-12 18:42:27,019:DEBUG:8160:inject_code:30-cm-sub|1
+2020-06-12 18:42:27,019:DEBUG:8160:inject_code:subtuna|1
+2020-06-12 18:42:27,020:DEBUG:8160:inject_code:30-cm-sub|1
+2020-06-12 18:42:27,023:DEBUG:8160:inject_code:subtuna|1
+2020-06-12 18:42:27,023:DEBUG:8160:inject_code:cookies(3st√ºck)|1
+2020-06-12 18:42:27,025:DEBUG:8160:inject_code:cookies(3st√ºck)|1
+2020-06-12 18:42:27,026:DEBUG:8160:inject_code:layssalted|1
+2020-06-12 18:42:27,026:DEBUG:8160:inject_code:layssalted|1
+2020-06-12 18:42:27,026:DEBUG:8160:inject_code:layssalted|1
+2020-06-12 18:42:27,028:DEBUG:8160:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 18:42:27,240:DEBUG:8160:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:42:27,980:DEBUG:8160:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:42:27,982:DEBUG:8160:inject_code:YOUR ITEM IS subtuna|1
+2020-06-12 18:42:28,605:DEBUG:8160:needed_functions_for_injecting:FOUND tuna.png
+2020-06-12 18:42:29,342:DEBUG:8160:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-06-12 18:42:29,342:DEBUG:8160:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 18:42:29,619:DEBUG:8160:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 18:42:30,355:DEBUG:8160:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 18:42:30,357:DEBUG:8160:inject_code:YOUR ITEM IS subtuna|1
+2020-06-12 18:42:30,944:DEBUG:8160:needed_functions_for_injecting:FOUND tuna.png
+2020-06-12 18:42:31,683:DEBUG:8160:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-06-12 18:42:31,684:DEBUG:8160:inject_code:YOUR ITEM IS cookies(3st√ºck)|1
+2020-06-12 18:42:32,273:DEBUG:8160:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-12 18:42:33,009:DEBUG:8160:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-12 18:42:33,009:DEBUG:8160:inject_code:YOUR ITEM IS cookies(3st√ºck)|1
+2020-06-12 18:42:33,081:DEBUG:8160:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-12 18:42:33,823:DEBUG:8160:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-12 18:42:33,825:DEBUG:8160:inject_code:YOUR ITEM IS layssalted|1
+2020-06-12 18:42:34,026:DEBUG:8160:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 18:42:34,776:DEBUG:8160:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 18:42:34,776:DEBUG:8160:inject_code:YOUR ITEM IS layssalted|1
+2020-06-12 18:42:34,867:DEBUG:8160:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 18:42:35,614:DEBUG:8160:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 18:42:35,615:DEBUG:8160:inject_code:YOUR ITEM IS layssalted|1
+2020-06-12 18:42:35,698:DEBUG:8160:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 18:42:36,448:DEBUG:8160:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 18:42:45,000:ERROR:8160:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 18:42:45,028:DEBUG:8160:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:42:45,520:INFO:8160:inject_code:#53;DATENBANK 29.7;KASSE 18.51; Paid
+2020-06-12 18:42:45,522:INFO:8160:inject_code:Total Diff: 0;COD
+2020-06-12 18:42:45,522:INFO:8160:inject_code:Total Diff: 11.19;PAID
+2020-06-12 18:42:45,523:INFO:8160:inject_code:#######ORDER COMPLETED##########
+2020-06-12 18:42:45,526:ERROR:8160:inject_code:global name 'cod_S' is not defined
+2020-06-12 18:44:18,819:DEBUG:6392:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:44:50,411:INFO:6392:inject_code:1566
+2020-06-12 17:55:36,013:INFO:6392:inject_code:ORDER IR332FE276-D864-77BB-A8F6-C4B4F6779B4F
+2020-06-12 17:55:37,078:DEBUG:6392:inject_code:30cm|1
+2020-06-12 17:55:37,079:DEBUG:6392:inject_code:subchickenteriyaki|1
+2020-06-12 17:55:37,079:DEBUG:6392:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 17:55:37,081:DEBUG:6392:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 17:55:37,082:DEBUG:6392:inject_code:30cm|1
+2020-06-12 17:55:37,082:DEBUG:6392:inject_code:subchickenteriyaki|1
+2020-06-12 17:55:37,084:DEBUG:6392:inject_code:cookiechocolatechip|1
+2020-06-12 17:55:37,085:DEBUG:6392:inject_code:cookiemacadamianut|1
+2020-06-12 17:55:37,085:DEBUG:6392:inject_code:cocacola0,5l|1
+2020-06-12 17:55:37,085:DEBUG:6392:inject_code:cocacola0,5l|1
+2020-06-12 17:55:37,086:DEBUG:6392:inject_code:layssalt&vinegar|1
+2020-06-12 17:55:37,088:DEBUG:6392:inject_code:YOUR ITEM IS 30cm|1
+2020-06-12 17:55:37,296:DEBUG:6392:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:55:38,033:DEBUG:6392:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:55:38,036:DEBUG:6392:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 17:55:38,608:DEBUG:6392:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 17:55:39,346:DEBUG:6392:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 17:55:39,348:DEBUG:6392:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 17:55:39,940:DEBUG:6392:needed_functions_for_injecting:FOUND kase.png
+2020-06-12 17:55:40,677:DEBUG:6392:needed_functions_for_injecting:CLICKED ON kase.png
+2020-06-12 17:55:40,678:DEBUG:6392:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 17:55:40,698:DEBUG:6392:needed_functions_for_injecting:FOUND kase.png
+2020-06-12 17:55:41,440:DEBUG:6392:needed_functions_for_injecting:CLICKED ON kase.png
+2020-06-12 17:55:41,440:DEBUG:6392:inject_code:YOUR ITEM IS 30cm|1
+2020-06-12 17:55:41,467:DEBUG:6392:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:55:42,207:DEBUG:6392:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:55:42,209:DEBUG:6392:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 17:55:42,750:DEBUG:6392:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 17:55:43,486:DEBUG:6392:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 17:55:43,487:DEBUG:6392:inject_code:YOUR ITEM IS cookiechocolatechip|1
+2020-06-12 17:55:44,137:DEBUG:6392:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 17:55:44,884:DEBUG:6392:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 17:55:44,885:DEBUG:6392:inject_code:YOUR ITEM IS cookiemacadamianut|1
+2020-06-12 17:55:44,941:DEBUG:6392:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 17:55:45,693:DEBUG:6392:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 17:55:45,694:DEBUG:6392:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 17:55:45,880:DEBUG:6392:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 17:55:46,615:DEBUG:6392:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 17:55:46,615:DEBUG:6392:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 17:55:46,670:DEBUG:6392:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 17:55:47,408:DEBUG:6392:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 17:55:47,410:DEBUG:6392:inject_code:YOUR ITEM IS layssalt&vinegar|1
+2020-06-12 17:55:47,582:DEBUG:6392:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 17:55:48,329:DEBUG:6392:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 17:55:56,832:ERROR:6392:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 17:55:56,865:DEBUG:6392:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:55:57,346:INFO:6392:inject_code:#40;DATENBANK 26.5;KASSE 23.73; Paid
+2020-06-12 17:55:57,348:INFO:6392:inject_code:Total Diff: 0;COD
+2020-06-12 17:55:57,348:INFO:6392:inject_code:Total Diff: 2.77;PAID
+2020-06-12 17:55:57,348:INFO:6392:inject_code:#######ORDER COMPLETED##########
+2020-06-12 17:56:08,779:DEBUG:6392:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:56:51,260:INFO:6392:inject_code:1565
+2020-06-12 17:54:53,010:INFO:6392:inject_code:ORDER IRAC7D62D0-0E43-8575-D098-FE09F27C54DD
+2020-06-12 17:54:53,016:DEBUG:6392:inject_code:30-cm-sub|1
+2020-06-12 17:54:53,016:DEBUG:6392:inject_code:subbeefsupreme|1
+2020-06-12 17:54:53,016:DEBUG:6392:inject_code:30-cm-sub|1
+2020-06-12 17:54:53,019:DEBUG:6392:inject_code:subphillybeef&cheese|1
+2020-06-12 17:54:53,019:DEBUG:6392:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 17:54:53,056:DEBUG:6392:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:54:53,803:DEBUG:6392:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:54:53,805:DEBUG:6392:inject_code:YOUR ITEM IS subbeefsupreme|1
+2020-06-12 17:54:54,500:DEBUG:6392:needed_functions_for_injecting:FOUND beefsupreme.png
+2020-06-12 17:54:55,237:DEBUG:6392:needed_functions_for_injecting:CLICKED ON beefsupreme.png
+2020-06-12 17:54:55,239:DEBUG:6392:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 17:54:55,517:DEBUG:6392:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:54:56,256:DEBUG:6392:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:54:56,256:DEBUG:6392:inject_code:YOUR ITEM IS subphillybeef&cheese|1
+2020-06-12 17:54:56,872:DEBUG:6392:needed_functions_for_injecting:FOUND steakcheese.png
+2020-06-12 17:54:57,612:DEBUG:6392:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-06-12 17:55:05,854:ERROR:6392:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 17:55:05,894:DEBUG:6392:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:55:06,387:INFO:6392:inject_code:#41;DATENBANK 18.2;KASSE 14.98; Paid
+2020-06-12 17:55:06,388:INFO:6392:inject_code:Total Diff: 0;COD
+2020-06-12 17:55:06,388:INFO:6392:inject_code:Total Diff: 3.22;PAID
+2020-06-12 17:55:06,388:INFO:6392:inject_code:#######ORDER COMPLETED##########
+2020-06-12 17:55:13,723:DEBUG:6392:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:26:10,000:DEBUG:6972:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 18:26:40,405:INFO:6972:inject_code:1566
+2020-06-15 18:05:05,012:INFO:6972:inject_code:ORDER IR8B980994-D403-B04C-ABA9-41DEBBAC2A55
+2020-06-15 18:05:05,696:DEBUG:6972:inject_code:sub30cm|1
+2020-06-15 18:05:05,696:DEBUG:6972:inject_code:subchickenfajita|1
+2020-06-15 18:05:05,697:DEBUG:6972:inject_code:mitlayssalt&vinegar|1
+2020-06-15 18:05:05,697:DEBUG:6972:inject_code:cocacola0,5l|1
+2020-06-15 18:05:05,698:DEBUG:6972:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-15 18:05:05,885:DEBUG:6972:needed_functions_for_injecting:FOUND footlang.png
+2020-06-15 18:05:06,624:DEBUG:6972:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-15 18:05:06,625:DEBUG:6972:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-15 18:05:07,138:DEBUG:6972:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-15 18:05:07,881:DEBUG:6972:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-15 18:05:07,884:DEBUG:6972:inject_code:YOUR ITEM IS mitlayssalt&vinegar|1
+2020-06-15 18:05:08,443:DEBUG:6972:needed_functions_for_injecting:FOUND chips.png
+2020-06-15 18:05:09,187:DEBUG:6972:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-15 18:05:09,190:DEBUG:6972:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-15 18:05:09,394:DEBUG:6972:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-15 18:05:10,134:DEBUG:6972:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-15 18:05:18,821:ERROR:6972:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-15 18:05:18,846:DEBUG:6972:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 18:05:19,329:INFO:6972:inject_code:#52;DATENBANK 12.15;KASSE 10.77; Paid
+2020-06-15 18:05:19,332:INFO:6972:inject_code:Total Diff: 0;COD
+2020-06-15 18:05:19,332:INFO:6972:inject_code:Total Diff: 1.38;PAID
+2020-06-15 18:05:19,334:INFO:6972:inject_code:#######ORDER COMPLETED##########
+2020-06-15 18:05:26,311:DEBUG:6972:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 18:05:54,276:INFO:6972:inject_code:1565
+2020-06-12 19:46:08,009:INFO:6972:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,503:DEBUG:6972:inject_code:sub30cm|1
+2020-06-12 19:46:08,503:DEBUG:6972:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,505:DEBUG:6972:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,505:DEBUG:6972:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,506:DEBUG:6972:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,506:DEBUG:6972:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,506:DEBUG:6972:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,530:DEBUG:6972:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,269:DEBUG:6972:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,270:DEBUG:6972:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,325:DEBUG:6972:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:11,128:DEBUG:6972:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:11,130:DEBUG:6972:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,717:DEBUG:6972:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,460:DEBUG:6972:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,463:DEBUG:6972:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,526:DEBUG:6972:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,267:DEBUG:6972:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,270:DEBUG:6972:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,332:ERROR:6972:inject_code:substring not found
+2020-06-12 19:46:17,617:DEBUG:6972:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:18,253:ERROR:6972:inject_code:'unicode' object has no attribute 'time'
+2020-06-12 19:49:53,859:DEBUG:5596:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:38,351:INFO:5596:inject_code:1565
+2020-06-12 19:46:08,010:INFO:5596:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,933:DEBUG:5596:inject_code:sub30cm|1
+2020-06-12 19:46:08,933:DEBUG:5596:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,934:DEBUG:5596:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,934:DEBUG:5596:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,936:DEBUG:5596:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,936:DEBUG:5596:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,937:DEBUG:5596:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:09,138:DEBUG:5596:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,877:DEBUG:5596:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,880:DEBUG:5596:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,394:DEBUG:5596:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:11,138:DEBUG:5596:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:11,138:DEBUG:5596:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,691:DEBUG:5596:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,436:DEBUG:5596:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,437:DEBUG:5596:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,607:DEBUG:5596:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,348:DEBUG:5596:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,349:DEBUG:5596:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,394:ERROR:5596:inject_code:substring not found
+2020-06-12 19:46:17,069:DEBUG:5596:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:17,549:ERROR:5596:inject_code:'unicode' object has no attribute 'time'
+2020-06-12 19:48:21,056:DEBUG:5604:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:48:48,441:INFO:5604:inject_code:1565
+2020-06-12 19:46:08,013:INFO:5604:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,660:DEBUG:5604:inject_code:sub30cm|1
+2020-06-12 19:46:08,661:DEBUG:5604:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,661:DEBUG:5604:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,663:DEBUG:5604:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,664:DEBUG:5604:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,664:DEBUG:5604:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,664:DEBUG:5604:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,861:DEBUG:5604:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,602:DEBUG:5604:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,604:DEBUG:5604:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,118:DEBUG:5604:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,858:DEBUG:5604:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,858:DEBUG:5604:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,480:DEBUG:5604:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,226:DEBUG:5604:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,229:DEBUG:5604:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,414:DEBUG:5604:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,173:DEBUG:5604:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,174:DEBUG:5604:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,237:ERROR:5604:inject_code:substring not found
+2020-06-12 19:46:17,457:DEBUG:5604:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:17,944:ERROR:5604:inject_code:'unicode' object has no attribute 'time'
+2020-06-12 19:49:41,834:DEBUG:5636:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:02,217:DEBUG:5636:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:27,898:INFO:5636:inject_code:1565
+2020-06-12 19:46:08,012:INFO:5636:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,648:DEBUG:5636:inject_code:sub30cm|1
+2020-06-12 19:46:08,648:DEBUG:5636:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,650:DEBUG:5636:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,650:DEBUG:5636:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,651:DEBUG:5636:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,651:DEBUG:5636:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,651:DEBUG:5636:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,857:DEBUG:5636:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,604:DEBUG:5636:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,605:DEBUG:5636:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,132:DEBUG:5636:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,875:DEBUG:5636:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,878:DEBUG:5636:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,434:DEBUG:5636:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,190:DEBUG:5636:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,193:DEBUG:5636:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,377:DEBUG:5636:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,114:DEBUG:5636:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,115:DEBUG:5636:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,171:ERROR:5636:inject_code:substring not found
+2020-06-12 19:46:15,750:DEBUG:5636:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:16,198:ERROR:5636:inject_code:'unicode' object has no attribute 'time'
+2020-06-12 19:50:42,549:DEBUG:4000:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:51:18,130:INFO:4000:inject_code:1565
+2020-06-12 19:46:08,012:INFO:4000:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,674:DEBUG:4000:inject_code:sub30cm|1
+2020-06-12 19:46:08,674:DEBUG:4000:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,676:DEBUG:4000:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,676:DEBUG:4000:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,677:DEBUG:4000:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,677:DEBUG:4000:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,677:DEBUG:4000:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,881:DEBUG:4000:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,622:DEBUG:4000:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,627:DEBUG:4000:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,168:DEBUG:4000:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,914:DEBUG:4000:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,915:DEBUG:4000:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,483:DEBUG:4000:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,227:DEBUG:4000:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,229:DEBUG:4000:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,427:DEBUG:4000:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,167:DEBUG:4000:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,173:DEBUG:4000:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,229:ERROR:4000:inject_code:substring not found
+2020-06-12 19:46:17,989:DEBUG:4000:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:44,391:DEBUG:4000:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:49:19,734:INFO:4000:inject_code:1564
+2020-06-12 17:37:33,010:INFO:4000:inject_code:ORDER IR47D04025-69A0-E0AA-59B7-D6AA2A183D9C
+2020-06-12 17:37:33,960:DEBUG:4000:inject_code:sub30cm|1
+2020-06-12 17:37:33,960:DEBUG:4000:inject_code:subturkey,ham&baconmelt|1
+2020-06-12 17:37:33,961:DEBUG:4000:inject_code:mitcookiechocolatechip|1
+2020-06-12 17:37:33,961:DEBUG:4000:inject_code:cocacola0,5l|1
+2020-06-12 17:37:33,963:DEBUG:4000:inject_code:sub30cm|1
+2020-06-12 17:37:33,963:DEBUG:4000:inject_code:subchickenteriyaki|1
+2020-06-12 17:37:33,963:DEBUG:4000:inject_code:mitcookiechocolatechip|1
+2020-06-12 17:37:33,963:DEBUG:4000:inject_code:cocacolazero0,5l|1
+2020-06-12 17:37:33,964:DEBUG:4000:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 17:37:33,986:DEBUG:4000:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:37:34,724:DEBUG:4000:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:37:34,726:DEBUG:4000:inject_code:YOUR ITEM IS subturkey,ham&baconmelt|1
+2020-06-12 17:37:35,236:DEBUG:4000:needed_functions_for_injecting:FOUND turkey.png
+2020-06-12 17:37:35,971:DEBUG:4000:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-06-12 17:37:35,971:DEBUG:4000:inject_code:YOUR ITEM IS mitcookiechocolatechip|1
+2020-06-12 17:37:36,556:DEBUG:4000:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 17:37:37,299:DEBUG:4000:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 17:37:37,299:DEBUG:4000:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 17:37:37,362:DEBUG:4000:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 17:37:38,102:DEBUG:4000:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 17:37:38,104:DEBUG:4000:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 17:37:38,125:DEBUG:4000:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:37:38,868:DEBUG:4000:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:37:38,869:DEBUG:4000:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 17:37:39,411:DEBUG:4000:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 17:37:40,148:DEBUG:4000:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 17:37:40,151:DEBUG:4000:inject_code:YOUR ITEM IS mitcookiechocolatechip|1
+2020-06-12 17:37:40,755:DEBUG:4000:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 17:37:41,494:DEBUG:4000:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 17:37:41,496:DEBUG:4000:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 17:37:41,546:DEBUG:4000:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 17:37:42,282:DEBUG:4000:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 17:37:50,614:ERROR:4000:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 17:37:50,752:DEBUG:4000:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:37:54,594:INFO:4000:inject_code:#38;DATENBANK 24.3;KASSE 20.24; Paid
+2020-06-12 17:37:54,595:INFO:4000:inject_code:Total Diff: 0;COD
+2020-06-12 17:37:54,595:INFO:4000:inject_code:Total Diff: 4.06;PAID
+2020-06-12 17:37:54,595:INFO:4000:inject_code:#######ORDER COMPLETED##########
+2020-06-12 17:37:54,596:ERROR:4000:inject_code:local variable 'show_result' referenced before assignment
+2020-06-12 17:39:14,834:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:39:45,571:INFO:8144:inject_code:1563
+2020-06-12 17:19:58,010:INFO:8144:inject_code:ORDER IR74659483-5808-5ABB-C289-E87AEAC8B62C
+2020-06-12 17:19:58,016:DEBUG:8144:inject_code:30-cm-sub|1
+2020-06-12 17:19:58,017:DEBUG:8144:inject_code:subchickenteriyaki|1
+2020-06-12 17:19:58,019:DEBUG:8144:inject_code:30-cm-sub|1
+2020-06-12 17:19:58,019:DEBUG:8144:inject_code:subturkey|1
+2020-06-12 17:19:58,020:DEBUG:8144:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 17:19:58,249:DEBUG:8144:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:19:58,983:DEBUG:8144:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:19:58,984:DEBUG:8144:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 17:19:59,568:DEBUG:8144:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 17:20:00,303:DEBUG:8144:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 17:20:00,305:DEBUG:8144:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 17:20:00,562:DEBUG:8144:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 17:20:01,305:DEBUG:8144:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 17:20:01,308:DEBUG:8144:inject_code:YOUR ITEM IS subturkey|1
+2020-06-12 17:20:01,851:DEBUG:8144:needed_functions_for_injecting:FOUND turkey.png
+2020-06-12 17:20:02,591:DEBUG:8144:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-06-12 17:20:10,915:ERROR:8144:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 17:20:10,940:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:20:11,427:INFO:8144:inject_code:#35;DATENBANK 17;KASSE 13.68; Paid
+2020-06-12 17:20:11,430:INFO:8144:inject_code:Total Diff: 0;COD
+2020-06-12 17:20:11,430:INFO:8144:inject_code:Total Diff: 3.32;PAID
+2020-06-12 17:20:11,430:INFO:8144:inject_code:#######ORDER COMPLETED##########
+2020-06-12 17:20:28,378:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 17:20:52,276:INFO:8144:inject_code:1563
+2020-06-12 19:46:08,013:INFO:8144:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,792:DEBUG:8144:inject_code:sub30cm|1
+2020-06-12 19:46:08,792:DEBUG:8144:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,792:DEBUG:8144:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,793:DEBUG:8144:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,795:DEBUG:8144:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,795:DEBUG:8144:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,795:DEBUG:8144:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:09,003:DEBUG:8144:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,740:DEBUG:8144:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,742:DEBUG:8144:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,344:DEBUG:8144:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:11,085:DEBUG:8144:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:11,085:DEBUG:8144:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,641:DEBUG:8144:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,387:DEBUG:8144:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,390:DEBUG:8144:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,585:DEBUG:8144:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,331:DEBUG:8144:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,332:DEBUG:8144:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,371:ERROR:8144:inject_code:substring not found
+2020-06-12 19:46:19,186:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:34,710:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:15,240:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:21,723:ERROR:8144:http_code:<urlopen error [Errno 1] Illegal state exception>
+2020-06-12 19:50:21,726:DEBUG:8144:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:52:04,536:INFO:8144:inject_code:1563
+2020-06-12 19:46:08,009:INFO:8144:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,522:DEBUG:8144:inject_code:sub30cm|1
+2020-06-12 19:46:08,522:DEBUG:8144:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,523:DEBUG:8144:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,523:DEBUG:8144:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,523:DEBUG:8144:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,525:DEBUG:8144:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,525:DEBUG:8144:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,545:DEBUG:8144:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,282:DEBUG:8144:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,283:DEBUG:8144:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:09,831:DEBUG:8144:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,571:DEBUG:8144:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,572:DEBUG:8144:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,171:DEBUG:8144:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:11,915:DEBUG:8144:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:11,917:DEBUG:8144:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:11,971:DEBUG:8144:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:12,711:DEBUG:8144:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:12,713:DEBUG:8144:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:12,918:DEBUG:8144:needed_functions_for_injecting:FOUND allegetranke.png
+2020-06-12 19:46:13,654:DEBUG:8144:needed_functions_for_injecting:CLICKED ON allegetranke.png
+2020-06-12 19:49:01,740:DEBUG:6668:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:04,780:DEBUG:3288:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:32,157:INFO:3288:inject_code:1563
+2020-06-12 19:46:08,009:INFO:3288:inject_code:ORDER IRE90A9A63-5DDE-1DBD-6F49-C648B2340F3B
+2020-06-12 19:46:08,694:DEBUG:3288:inject_code:sub30cm|1
+2020-06-12 19:46:08,694:DEBUG:3288:inject_code:subchickenfajita|1
+2020-06-12 19:46:08,694:DEBUG:3288:inject_code:mitcookiemacadamianut|1
+2020-06-12 19:46:08,696:DEBUG:3288:inject_code:cocacolazero0,5l|1
+2020-06-12 19:46:08,696:DEBUG:3288:inject_code:capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:08,697:DEBUG:3288:inject_code:cookierainbowmitm&m's|1
+2020-06-12 19:46:08,697:DEBUG:3288:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 19:46:08,898:DEBUG:3288:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 19:46:09,634:DEBUG:3288:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 19:46:09,635:DEBUG:3288:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 19:46:10,148:DEBUG:3288:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 19:46:10,888:DEBUG:3288:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 19:46:10,890:DEBUG:3288:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 19:46:11,467:DEBUG:3288:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 19:46:12,217:DEBUG:3288:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 19:46:12,219:DEBUG:3288:inject_code:YOUR ITEM IS cocacolazero0,5l|1
+2020-06-12 19:46:12,420:DEBUG:3288:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 19:46:13,160:DEBUG:3288:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 19:46:13,161:DEBUG:3288:inject_code:YOUR ITEM IS capri-sunpurefruit&watertropical0,2l|1
+2020-06-12 19:46:13,358:DEBUG:3288:needed_functions_for_injecting:FOUND allegetranke.png
+2020-06-12 19:46:14,095:DEBUG:3288:needed_functions_for_injecting:CLICKED ON allegetranke.png
+2020-06-12 19:46:14,642:DEBUG:3288:needed_functions_for_injecting:FOUND juicebox.png
+2020-06-12 19:46:15,378:DEBUG:3288:needed_functions_for_injecting:CLICKED ON juicebox.png
+2020-06-12 19:46:15,378:DEBUG:3288:inject_code:YOUR ITEM IS cookierainbowmitm&m's|1
+2020-06-12 19:46:24,038:ERROR:3288:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 19:46:24,063:DEBUG:3288:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:46:24,555:INFO:3288:inject_code:#77;DATENBANK 15.35;KASSE 101.0; Paid
+2020-06-12 19:46:24,556:INFO:3288:inject_code:Total Diff: 0;COD
+2020-06-12 19:46:24,556:INFO:3288:inject_code:Total Diff: -85.65;PAID
+2020-06-12 19:46:24,559:INFO:3288:inject_code:#######ORDER COMPLETED##########
+2020-06-12 19:46:39,529:DEBUG:3288:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:04,822:DEBUG:6312:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 19:50:53,414:INFO:6312:inject_code:1562
+2020-06-12 14:19:12,009:INFO:6312:inject_code:ORDER IR9D4D426A-C2D4-B1B0-1F1A-D5979F336CDC
+2020-06-12 14:19:12,015:DEBUG:6312:inject_code:30-cm-sub|1
+2020-06-12 14:19:12,016:DEBUG:6312:inject_code:subbeefsupreme|1
+2020-06-12 14:19:12,016:DEBUG:6312:inject_code:30-cm-sub|1
+2020-06-12 14:19:12,017:DEBUG:6312:inject_code:subitalianb.m.t.|1
+2020-06-12 14:19:12,019:DEBUG:6312:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 14:19:12,226:DEBUG:6312:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 14:19:12,964:DEBUG:6312:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 14:19:12,967:DEBUG:6312:inject_code:YOUR ITEM IS subbeefsupreme|1
+2020-06-12 14:19:13,523:DEBUG:6312:needed_functions_for_injecting:FOUND beefsupreme.png
+2020-06-12 14:19:14,263:DEBUG:6312:needed_functions_for_injecting:CLICKED ON beefsupreme.png
+2020-06-12 14:19:14,263:DEBUG:6312:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-12 14:19:14,506:DEBUG:6312:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 14:19:15,249:DEBUG:6312:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 14:19:15,250:DEBUG:6312:inject_code:YOUR ITEM IS subitalianb.m.t.|1
+2020-06-12 14:19:15,782:DEBUG:6312:needed_functions_for_injecting:FOUND bmt.png
+2020-06-12 14:19:16,517:DEBUG:6312:needed_functions_for_injecting:CLICKED ON bmt.png
+2020-06-12 14:19:24,864:ERROR:6312:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 14:19:24,891:DEBUG:6312:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 14:19:25,703:INFO:6312:inject_code:#21;DATENBANK 17.7;KASSE 14.28; Paid
+2020-06-12 14:19:25,704:INFO:6312:inject_code:Total Diff: 0;COD
+2020-06-12 14:19:25,704:INFO:6312:inject_code:Total Diff: 3.42;PAID
+2020-06-12 14:19:25,704:INFO:6312:inject_code:#######ORDER COMPLETED##########
+2020-06-12 14:28:51,372:DEBUG:7820:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 14:56:54,322:DEBUG:6424:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 14:58:36,980:DEBUG:5468:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 14:59:38,591:DEBUG:1812:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:00:29,413:DEBUG:6404:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:01:04,994:DEBUG:6884:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:04:33,846:DEBUG:7648:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:08:24,969:DEBUG:3604:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:09:15,426:DEBUG:4772:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:09:57,796:DEBUG:6800:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:16:59,398:DEBUG:4364:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:18:01,947:DEBUG:8032:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:18:42,107:DEBUG:7688:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:19:30,226:DEBUG:2192:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:20:17,881:DEBUG:6908:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:21:13,674:DEBUG:7108:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:22:04,453:DEBUG:6276:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:23:50,989:DEBUG:7984:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:25:13,503:DEBUG:4908:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:38:28,832:DEBUG:6664:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:58:19,023:DEBUG:7780:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:59:02,257:DEBUG:7732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 15:59:33,576:DEBUG:6924:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:00:12,029:DEBUG:4412:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:00:58,819:DEBUG:3352:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:03:07,309:DEBUG:6008:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:09:14,253:DEBUG:7076:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:11:16,788:DEBUG:3936:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:14:30,204:DEBUG:6244:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:15:08,052:INFO:6244:inject_code:1561
+2020-06-12 16:15:08,293:INFO:6244:inject_code:ORDER IR258FA232-D199-5AEF-70EC-B6810B08273F
+2020-06-12 16:15:09,283:DEBUG:6244:inject_code:sub30cm|1
+2020-06-12 16:15:09,285:DEBUG:6244:inject_code:subchickenteriyaki|1
+2020-06-12 16:15:09,286:DEBUG:6244:inject_code:mitcookierainbowmitm&m's|1
+2020-06-12 16:15:09,286:DEBUG:6244:inject_code:mezzomix0,5l|1
+2020-06-12 16:15:09,288:DEBUG:6244:inject_code:sub30cm|1
+2020-06-12 16:15:09,288:DEBUG:6244:inject_code:subchickenteriyaki|1
+2020-06-12 16:15:09,289:DEBUG:6244:inject_code:mitcookierainbowmitm&m's|1
+2020-06-12 16:15:09,289:DEBUG:6244:inject_code:mezzomix0,5l|1
+2020-06-12 16:15:09,289:DEBUG:6244:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 16:15:09,493:DEBUG:6244:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 16:15:10,230:DEBUG:6244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 16:15:10,230:DEBUG:6244:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 16:15:10,832:DEBUG:6244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 16:15:11,569:DEBUG:6244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 16:15:11,572:DEBUG:6244:inject_code:YOUR ITEM IS mitcookierainbowmitm&m's|1
+2020-06-12 16:15:11,599:DEBUG:6244:inject_code:YOUR ITEM IS mezzomix0,5l|1
+2020-06-12 16:15:12,203:DEBUG:6244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 16:15:12,943:DEBUG:6244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 16:15:12,944:DEBUG:6244:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 16:15:12,971:DEBUG:6244:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 16:15:13,716:DEBUG:6244:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 16:15:13,717:DEBUG:6244:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 16:15:14,282:DEBUG:6244:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 16:15:15,020:DEBUG:6244:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 16:15:15,023:DEBUG:6244:inject_code:YOUR ITEM IS mitcookierainbowmitm&m's|1
+2020-06-12 16:15:15,046:DEBUG:6244:inject_code:YOUR ITEM IS mezzomix0,5l|1
+2020-06-12 16:15:15,627:DEBUG:6244:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 16:15:16,372:DEBUG:6244:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 16:15:25,032:ERROR:6244:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 16:15:25,056:DEBUG:6244:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:15:25,555:INFO:6244:inject_code:#22;DATENBANK 24.3;KASSE 19.56; Paid
+2020-06-12 16:15:25,556:INFO:6244:inject_code:Total Diff: 0;COD
+2020-06-12 16:15:25,556:INFO:6244:inject_code:Total Diff: 4.74;PAID
+2020-06-12 16:15:25,558:INFO:6244:inject_code:#######ORDER COMPLETED##########
+2020-06-12 16:15:34,563:DEBUG:6244:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:20:11,582:DEBUG:7316:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:20:50,184:ERROR:7316:main:!!WHILE IMPORTING!! no viable alternative at input 'es' (inject_code.py, line 165)
+2020-06-12 16:22:55,710:DEBUG:7648:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:23:36,230:ERROR:7648:main:!!WHILE IMPORTING!! no viable alternative at input 'es' (inject_code.py, line 176)
+2020-06-12 16:24:35,665:DEBUG:6732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 16:25:13,309:INFO:6732:inject_code:1560
+2020-06-12 13:35:58,009:INFO:6732:inject_code:ORDER IR5DB5FDA5-F424-CB55-731A-73223243BEB0
+2020-06-12 13:35:58,016:DEBUG:6732:inject_code:chickencaesarwrap|1
+2020-06-12 13:35:58,016:DEBUG:6732:inject_code:wrapchickenteriyaki|1
+2020-06-12 13:35:58,017:DEBUG:6732:inject_code:mitbacon,extra|1
+2020-06-12 13:35:58,019:DEBUG:6732:inject_code:mitfleisch,doppelt|1
+2020-06-12 13:35:58,019:DEBUG:6732:inject_code:YOUR ITEM IS chickencaesarwrap|1
+2020-06-12 13:35:58,255:DEBUG:6732:needed_functions_for_injecting:FOUND signaturewrap.png
+2020-06-12 13:35:58,990:DEBUG:6732:needed_functions_for_injecting:CLICKED ON signaturewrap.png
+2020-06-12 13:35:59,536:DEBUG:6732:needed_functions_for_injecting:FOUND chickencesar.png
+2020-06-12 13:36:00,273:DEBUG:6732:needed_functions_for_injecting:CLICKED ON chickencesar.png
+2020-06-12 13:36:00,273:DEBUG:6732:inject_code:YOUR ITEM IS wrapchickenteriyaki|1
+2020-06-12 13:36:00,523:DEBUG:6732:needed_functions_for_injecting:FOUND wrap.png
+2020-06-12 13:36:01,269:DEBUG:6732:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-06-12 13:36:01,799:DEBUG:6732:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 13:36:02,539:DEBUG:6732:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 13:36:02,542:DEBUG:6732:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-06-12 13:36:03,147:DEBUG:6732:needed_functions_for_injecting:FOUND extrabacon.png
+2020-06-12 13:36:03,884:DEBUG:6732:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-06-12 13:36:03,884:DEBUG:6732:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-06-12 13:36:04,062:DEBUG:6732:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-06-12 13:36:04,805:DEBUG:6732:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-06-12 13:36:13,818:ERROR:6732:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 13:36:13,848:DEBUG:6732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:36:14,341:INFO:6732:inject_code:#20;DATENBANK 16.1;KASSE 12.18; Paid
+2020-06-12 13:36:14,342:INFO:6732:inject_code:Total Diff: 0;COD
+2020-06-12 13:36:14,344:INFO:6732:inject_code:Total Diff: 3.92;PAID
+2020-06-12 13:36:14,345:INFO:6732:inject_code:#######ORDER COMPLETED##########
+2020-06-12 13:36:24,940:DEBUG:6732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:41:37,378:INFO:6732:inject_code:1559
+2020-06-12 13:13:44,009:INFO:6732:inject_code:ORDER IR9C551CD1-9286-0F02-56F6-2D3B51F51ADE
+2020-06-12 13:13:44,573:DEBUG:6732:inject_code:sub30cm|1
+2020-06-12 13:13:44,575:DEBUG:6732:inject_code:subchickenbreast|1
+2020-06-12 13:13:44,575:DEBUG:6732:inject_code:mitfleisch,doppelt|1
+2020-06-12 13:13:44,576:DEBUG:6732:inject_code:mitsalami,extra|1
+2020-06-12 13:13:44,576:DEBUG:6732:inject_code:mitcookiemacadamianut|1
+2020-06-12 13:13:44,578:DEBUG:6732:inject_code:cocacola0,5l|1
+2020-06-12 13:13:44,578:DEBUG:6732:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 13:13:44,778:DEBUG:6732:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 13:13:45,513:DEBUG:6732:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 13:13:45,515:DEBUG:6732:inject_code:YOUR ITEM IS subchickenbreast|1
+2020-06-12 13:13:46,082:DEBUG:6732:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-06-12 13:13:46,828:DEBUG:6732:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-06-12 13:13:46,829:DEBUG:6732:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-06-12 13:13:47,480:DEBUG:6732:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-06-12 13:13:48,224:DEBUG:6732:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-06-12 13:13:48,226:DEBUG:6732:inject_code:YOUR ITEM IS mitsalami,extra|1
+2020-06-12 13:13:48,382:DEBUG:6732:needed_functions_for_injecting:FOUND fleischhinzufugen.png
+2020-06-12 13:13:49,135:DEBUG:6732:needed_functions_for_injecting:CLICKED ON fleischhinzufugen.png
+2020-06-12 13:13:49,604:DEBUG:6732:needed_functions_for_injecting:FOUND salamiextra.png
+2020-06-12 13:13:50,463:DEBUG:6732:needed_functions_for_injecting:CLICKED ON salamiextra.png
+2020-06-12 13:13:50,463:DEBUG:6732:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 13:13:51,111:DEBUG:6732:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 13:13:51,857:DEBUG:6732:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 13:13:51,857:DEBUG:6732:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 13:13:52,059:DEBUG:6732:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 13:13:52,802:DEBUG:6732:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 13:14:02,328:ERROR:6732:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 13:14:02,390:DEBUG:6732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:14:02,910:INFO:6732:inject_code:#17;DATENBANK 17.75;KASSE 14.07; Paid
+2020-06-12 13:14:02,911:INFO:6732:inject_code:Total Diff: 0;COD
+2020-06-12 13:14:02,911:INFO:6732:inject_code:Total Diff: 3.68;PAID
+2020-06-12 13:14:02,913:INFO:6732:inject_code:#######ORDER COMPLETED##########
+2020-06-12 13:14:35,010:DEBUG:6732:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:19:10,655:DEBUG:7360:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:19:48,961:INFO:7360:inject_code:1558
+2020-06-12 13:00:11,009:INFO:7360:inject_code:ORDER IR2294C7B4-FFF8-7BB3-E63B-10B5AD06A179
+2020-06-12 13:00:11,016:DEBUG:7360:inject_code:15-cm-sub|1
+2020-06-12 13:00:11,019:DEBUG:7360:inject_code:subchickenfajita|1
+2020-06-12 13:00:11,019:DEBUG:7360:inject_code:cookies(12st√ºck)|1
+2020-06-12 13:00:11,023:DEBUG:7360:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-12 13:00:11,194:DEBUG:7360:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-12 13:00:11,937:DEBUG:7360:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-12 13:00:11,940:DEBUG:7360:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-12 13:00:12,625:DEBUG:7360:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-12 13:00:13,369:DEBUG:7360:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-12 13:00:13,371:DEBUG:7360:inject_code:YOUR ITEM IS cookies(12st√ºck)|1
+2020-06-12 13:00:14,045:DEBUG:7360:needed_functions_for_injecting:FOUND allebeilagen.png
+2020-06-12 13:00:14,782:DEBUG:7360:needed_functions_for_injecting:CLICKED ON allebeilagen.png
+2020-06-12 13:00:15,243:DEBUG:7360:needed_functions_for_injecting:FOUND 12cookies.png
+2020-06-12 13:00:16,082:DEBUG:7360:needed_functions_for_injecting:CLICKED ON 12cookies.png
+2020-06-12 13:00:25,395:ERROR:7360:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 13:00:25,426:DEBUG:7360:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:00:25,892:INFO:7360:inject_code:#14;DATENBANK 17.8;KASSE 11.58; Paid
+2020-06-12 13:00:25,894:INFO:7360:inject_code:Total Diff: 0;COD
+2020-06-12 13:00:25,894:INFO:7360:inject_code:Total Diff: 6.22;PAID
+2020-06-12 13:00:25,897:INFO:7360:inject_code:#######ORDER COMPLETED##########
+2020-06-12 13:00:34,341:DEBUG:7360:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:01:23,276:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 13:02:06,365:INFO:5768:inject_code:1557
+2020-06-12 12:43:08,009:INFO:5768:inject_code:ORDER IRBBF64249-4491-1C1D-18C2-74364C3424DA
+2020-06-12 12:43:08,687:DEBUG:5768:inject_code:sub30cm|1
+2020-06-12 12:43:08,687:DEBUG:5768:inject_code:subchickenbreast|1
+2020-06-12 12:43:08,687:DEBUG:5768:inject_code:mitlayssalt&vinegar|1
+2020-06-12 12:43:08,688:DEBUG:5768:inject_code:cocacola0,5l|1
+2020-06-12 12:43:08,688:DEBUG:5768:inject_code:fuzeteaschwarzerteepfirsich0,4l|1
+2020-06-12 12:43:08,690:DEBUG:5768:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 12:43:08,907:DEBUG:5768:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 12:43:09,644:DEBUG:5768:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 12:43:09,645:DEBUG:5768:inject_code:YOUR ITEM IS subchickenbreast|1
+2020-06-12 12:43:10,227:DEBUG:5768:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-06-12 12:43:10,963:DEBUG:5768:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-06-12 12:43:10,963:DEBUG:5768:inject_code:YOUR ITEM IS mitlayssalt&vinegar|1
+2020-06-12 12:43:11,556:DEBUG:5768:needed_functions_for_injecting:FOUND chips.png
+2020-06-12 12:43:12,303:DEBUG:5768:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-12 12:43:12,305:DEBUG:5768:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 12:43:12,509:DEBUG:5768:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 12:43:13,250:DEBUG:5768:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 12:43:13,250:DEBUG:5768:inject_code:YOUR ITEM IS fuzeteaschwarzerteepfirsich0,4l|1
+2020-06-12 12:43:13,305:DEBUG:5768:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 12:43:14,046:DEBUG:5768:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 12:43:22,762:ERROR:5768:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 12:43:22,792:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 12:43:23,269:INFO:5768:inject_code:#11;DATENBANK 15.1;KASSE 12.36; Paid
+2020-06-12 12:43:23,270:INFO:5768:inject_code:Total Diff: 0;COD
+2020-06-12 12:43:23,270:INFO:5768:inject_code:Total Diff: 2.74;PAID
+2020-06-12 12:43:23,272:INFO:5768:inject_code:#######ORDER COMPLETED##########
+2020-06-12 12:43:30,736:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 12:52:33,500:INFO:5768:inject_code:1556
+2020-06-12 12:35:51,012:INFO:5768:inject_code:ORDER IR6E15ED75-FDE8-4E0C-F96F-27AFD86D6E23
+2020-06-12 12:35:51,397:DEBUG:5768:inject_code:sub30cm|1
+2020-06-12 12:35:51,398:DEBUG:5768:inject_code:subchickenteriyaki|1
+2020-06-12 12:35:51,398:DEBUG:5768:inject_code:mitfleisch,doppelt|1
+2020-06-12 12:35:51,400:DEBUG:5768:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 12:35:51,400:DEBUG:5768:inject_code:mitcookiemacadamianut|1
+2020-06-12 12:35:51,401:DEBUG:5768:inject_code:cocacola0,5l|1
+2020-06-12 12:35:51,401:DEBUG:5768:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-12 12:35:51,426:DEBUG:5768:needed_functions_for_injecting:FOUND footlang.png
+2020-06-12 12:35:52,164:DEBUG:5768:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-12 12:35:52,164:DEBUG:5768:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-12 12:35:52,753:DEBUG:5768:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-12 12:35:53,492:DEBUG:5768:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-12 12:35:53,492:DEBUG:5768:inject_code:YOUR ITEM IS mitfleisch,doppelt|1
+2020-06-12 12:35:54,158:DEBUG:5768:needed_functions_for_injecting:FOUND doppeltfleisch.png
+2020-06-12 12:35:54,907:DEBUG:5768:needed_functions_for_injecting:CLICKED ON doppeltfleisch.png
+2020-06-12 12:35:54,907:DEBUG:5768:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-06-12 12:35:55,065:DEBUG:5768:needed_functions_for_injecting:FOUND kase.png
+2020-06-12 12:35:55,805:DEBUG:5768:needed_functions_for_injecting:CLICKED ON kase.png
+2020-06-12 12:35:55,805:DEBUG:5768:inject_code:YOUR ITEM IS mitcookiemacadamianut|1
+2020-06-12 12:35:55,973:DEBUG:5768:needed_functions_for_injecting:FOUND cookie.png
+2020-06-12 12:35:56,716:DEBUG:5768:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-12 12:35:56,717:DEBUG:5768:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-12 12:35:56,766:DEBUG:5768:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-12 12:35:57,507:DEBUG:5768:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-12 12:36:06,276:ERROR:5768:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 12:36:06,334:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 12:36:06,864:INFO:5768:inject_code:#10;DATENBANK 16.15;KASSE 13.37; Paid
+2020-06-12 12:01:57,012:INFO:5768:inject_code:ORDER IR2D9B8F18-E202-D301-0BB5-A162C1DF7C95
+2020-06-12 12:01:57,017:DEBUG:5768:inject_code:15-cm-sub|1
+2020-06-12 12:01:57,019:DEBUG:5768:inject_code:subphillybeef&cheese|1
+2020-06-12 12:01:57,020:DEBUG:5768:inject_code:15-cm-sub|1
+2020-06-12 12:01:57,022:DEBUG:5768:inject_code:subbeefsupreme|1
+2020-06-12 12:01:57,023:DEBUG:5768:inject_code:15-cm-sub|1
+2020-06-12 12:01:57,023:DEBUG:5768:inject_code:subbreadedchicken|1
+2020-06-12 12:01:57,023:DEBUG:5768:inject_code:cookies(3st√ºck)|1
+2020-06-12 12:01:57,026:DEBUG:5768:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-12 12:01:57,213:DEBUG:5768:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-12 12:01:57,950:DEBUG:5768:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-12 12:01:57,951:DEBUG:5768:inject_code:YOUR ITEM IS subphillybeef&cheese|1
+2020-06-12 12:01:58,644:DEBUG:5768:needed_functions_for_injecting:FOUND steakcheese.png
+2020-06-12 12:01:59,388:DEBUG:5768:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-06-12 12:01:59,388:DEBUG:5768:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-12 12:01:59,559:DEBUG:5768:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-12 12:02:00,296:DEBUG:5768:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-12 12:02:00,299:DEBUG:5768:inject_code:YOUR ITEM IS subbeefsupreme|1
+2020-06-12 12:02:00,911:DEBUG:5768:needed_functions_for_injecting:FOUND beefsupreme.png
+2020-06-12 12:02:01,657:DEBUG:5768:needed_functions_for_injecting:CLICKED ON beefsupreme.png
+2020-06-12 12:02:01,657:DEBUG:5768:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-12 12:02:01,677:DEBUG:5768:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-12 12:02:02,421:DEBUG:5768:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-12 12:02:02,421:DEBUG:5768:inject_code:YOUR ITEM IS subbreadedchicken|1
+2020-06-12 12:02:03,022:DEBUG:5768:needed_functions_for_injecting:FOUND breadedchicken.png
+2020-06-12 12:02:03,767:DEBUG:5768:needed_functions_for_injecting:CLICKED ON breadedchicken.png
+2020-06-12 12:02:03,769:DEBUG:5768:inject_code:YOUR ITEM IS cookies(3st√ºck)|1
+2020-06-12 12:02:04,369:DEBUG:5768:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-12 12:02:05,108:DEBUG:5768:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-12 12:02:13,426:ERROR:5768:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-12 12:02:13,473:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login
+2020-06-12 12:02:13,997:INFO:5768:inject_code:#7;DATENBANK 21.4;KASSE 16.16; Paid
+2020-06-12 12:02:14,000:INFO:5768:inject_code:Total Diff: 0;COD
+2020-06-12 12:02:14,000:INFO:5768:inject_code:Total Diff: 8.02;PAID
+2020-06-12 12:02:14,000:INFO:5768:inject_code:#######ORDER COMPLETED##########
+2020-06-12 12:02:28,936:DEBUG:5768:http_code:https://dev.everesto.net/api/user/login

@@ -1,0 +1,109 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>modifiable_data.sikuli</h2> <a href="modifiable_data.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">#!/usr/bin/env python</span>
+<span class="cmt"># -*- coding: utf-8 -*-</span>
+network_infos={
+              <span class="str">"login_url"</span>:<span class="str">"https://dev.everesto.net/api/user/login"</span>,
+              <span class="str">"store_id"</span>:<span class="str">"63382834-39E4-D475-EB03-481D28191475"</span>,
+              <span class="str">"order_url"</span>:<span class="str">"https://dev.everesto.net/api/orders?order_by=received_time&amp;is_active=false&amp;store_id="</span>,
+              <span class="str">"put_url"</span>:<span class="str">"https://dev.everesto.net/api/orders/"</span>}
+
+extra_infos={<span class="str">"login_file"</span>:<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\login.txt"</span>,
+             <span class="str">"file_path"</span>:<span class="str">r"C:\Everesto\Everersto-POS-Bot\POS_Bot\items_with_pictures_adresses.txt"</span>,
+             <span class="str">"images_path"</span>:<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\pics"</span>,
+             <span class="str">"times_http"</span>:<span class="dig">5</span>,
+             <span class="str">"times_click"</span>:<span class="dig">5</span>,
+             <span class="str">"error_file"</span>:<span class="str">r"C:\\Everesto\\Everersto-POS-Bot\\POS_Bot\\traceback_LOG\\"</span>,
+             <span class="str">"log_level"</span>:<span class="dig">5</span>,
+             <span class="str">"log_format"</span>:<span class="str">"%(asctime)s:%(levelname)s:%(process)d:%(module)s:%(message)s"</span>,
+             <span class="str">"refresh_icon"</span>:<img src="C:\Everesto\Everersto-POS-Bot\icons8-wiederkehrender-termin-50.png" />,
+             <span class="str">"kasse_icon"</span>:<img src="C:\Everesto\Everersto-POS-Bot\POS_Bot\kasse.png" />,
+             <span class="str">"burger_icon"</span>:<img src="C:\Everesto\Everersto-POS-Bot\POS_Bot\icon.png" />,
+             <span class="str">"everesto_icon"</span>:<span class="str">"C:\Everesto\Everersto-POS-Bot\POS_Bot\everesto.jpg"</span>,
+             <span class="str">"alert_txt"</span>:<span class="str">"POS_BOT IS RUNNING!"</span>,
+             <span class="str">"help_txt"</span>:<span class="str">"WIR BRAUCHEN IHRE HILFE"</span>,
+             <span class="str">"ubertragen"</span>:<span class="str">"Ubertragen"</span>,
+             <span class="str">"version"</span>:<span class="str">"VERSION 0.9.3"</span>,
+             <span class="str">"benutzer"</span>:<span class="str">"POS Benutzekennung"</span>,
+             <span class="str">"passwort"</span>:<span class="str">"POS Passwort"</span>,
+             <span class="str">"aktualisieren"</span>:<span class="str">"Aktualisieren"</span>,
+             <span class="str">"bestellzeit"</span>:<span class="str">"Echte Bestellzeit verwenden"</span>,
+             <span class="str">"manuel"</span>:<span class="str">"manuel gebucht"</span>,
+             <span class="str">"auto"</span>:<span class="str">"auto Buchung"</span>,
+             <span class="str">"app_name"</span>:<span class="str">"Dashboard.exe"</span>,
+             <span class="str">"frame_name"</span>:<span class="str">"POS_BOT Everesto"</span>}
+<span class="cmt">##NOTICE: THERE ARE SOME TEXTS IN MAIN.SIKULI AND RESULT.SIKULI WHICH YOU CAN EDIT :)</span>
+
+</pre>
+</body>
+</html>

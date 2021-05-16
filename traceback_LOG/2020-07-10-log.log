@@ -1,0 +1,77 @@
+2020-07-10 15:37:09,221:DEBUG:6368:http_code:https://dev.everesto.net/api/user/login
+2020-07-10 15:37:37,842:DEBUG:6368:http_code:https://dev.everesto.net/api/user/login
+2020-07-10 15:38:11,358:INFO:6368:inject_code:1586
+2020-06-13 14:56:25,009:INFO:6368:inject_code:ORDER IRFB4F3528-4792-3055-2785-B02CDD5EA51F
+2020-06-13 14:56:26,424:DEBUG:6368:inject_code:sub30cm|1
+2020-06-13 14:56:26,426:DEBUG:6368:inject_code:subchickenteriyaki|1
+2020-06-13 14:56:26,427:DEBUG:6368:inject_code:fanta0,5l|1
+2020-06-13 14:56:26,427:DEBUG:6368:inject_code:sub30cm|1
+2020-06-13 14:56:26,427:DEBUG:6368:inject_code:subchickenteriyaki|1
+2020-06-13 14:56:26,428:DEBUG:6368:inject_code:mitcookiedoublechocolatechip|1
+2020-06-13 14:56:26,428:DEBUG:6368:inject_code:cocacola0,5l|1
+2020-06-13 14:56:26,430:DEBUG:6368:inject_code:sub30cm|1
+2020-06-13 14:56:26,430:DEBUG:6368:inject_code:subphillybeef&cheese|1
+2020-06-13 14:56:26,430:DEBUG:6368:inject_code:mitdoritosnachocheese|1
+2020-06-13 14:56:26,431:DEBUG:6368:inject_code:cocacola0,5l|1
+2020-06-13 14:56:26,433:DEBUG:6368:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-13 14:56:26,630:DEBUG:6368:needed_functions_for_injecting:FOUND footlang.png
+2020-06-13 14:56:27,368:DEBUG:6368:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-13 14:56:27,369:DEBUG:6368:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-13 14:56:27,898:DEBUG:6368:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-13 14:56:28,635:DEBUG:6368:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-13 14:56:28,641:DEBUG:6368:inject_code:YOUR ITEM IS fanta0,5l|1
+2020-06-13 14:56:29,584:DEBUG:6368:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-13 14:56:30,322:DEBUG:6368:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-13 14:56:30,325:DEBUG:6368:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-13 14:56:30,358:DEBUG:6368:needed_functions_for_injecting:FOUND footlang.png
+2020-06-13 14:56:31,101:DEBUG:6368:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-13 14:56:31,102:DEBUG:6368:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-13 14:56:31,661:DEBUG:6368:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-13 14:56:32,401:DEBUG:6368:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-13 14:56:32,403:DEBUG:6368:inject_code:YOUR ITEM IS mitcookiedoublechocolatechip|1
+2020-06-13 14:56:32,927:DEBUG:6368:needed_functions_for_injecting:FOUND cookie.png
+2020-06-13 14:56:33,668:DEBUG:6368:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-13 14:56:33,671:DEBUG:6368:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-13 14:56:33,729:DEBUG:6368:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-13 14:56:34,469:DEBUG:6368:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-13 14:56:34,470:DEBUG:6368:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-13 14:56:34,510:DEBUG:6368:needed_functions_for_injecting:FOUND footlang.png
+2020-06-13 14:56:35,255:DEBUG:6368:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-13 14:56:35,256:DEBUG:6368:inject_code:YOUR ITEM IS subphillybeef&cheese|1
+2020-06-13 14:56:35,825:DEBUG:6368:needed_functions_for_injecting:FOUND steakcheese.png
+2020-06-13 14:56:36,578:DEBUG:6368:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-06-13 14:56:36,582:DEBUG:6368:inject_code:YOUR ITEM IS mitdoritosnachocheese|1
+2020-06-13 14:56:37,101:DEBUG:6368:needed_functions_for_injecting:FOUND chips.png
+2020-06-13 14:56:37,845:DEBUG:6368:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-13 14:56:37,848:DEBUG:6368:inject_code:YOUR ITEM IS cocacola0,5l|1
+2020-06-13 14:56:37,911:DEBUG:6368:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-13 14:56:38,653:DEBUG:6368:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-13 14:56:52,082:ERROR:6368:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-13 14:56:52,085:DEBUG:6368:http_code:https://dev.everesto.net/api/user/login
+2020-06-13 14:56:52,595:INFO:6368:inject_code:#12;DATENBANK 36.45;KASSE 31.32; Paid
+2020-06-13 14:25:02,013:INFO:6368:inject_code:ORDER IRD2A6BEF3-AD49-1451-5411-B790C9454F06
+2020-06-13 14:25:02,016:DEBUG:6368:inject_code:15-cm-sub|1
+2020-06-13 14:25:02,017:DEBUG:6368:inject_code:subphillybeef&cheese|1
+2020-06-13 14:25:02,017:DEBUG:6368:inject_code:15-cm-sub|1
+2020-06-13 14:25:02,019:DEBUG:6368:inject_code:subchickenteriyaki|1
+2020-06-13 14:25:02,019:DEBUG:6368:inject_code:cookies(3stück)|1
+2020-06-13 14:25:02,019:DEBUG:6368:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-13 14:25:02,173:DEBUG:6368:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-13 14:25:02,917:DEBUG:6368:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-13 14:25:02,917:DEBUG:6368:inject_code:YOUR ITEM IS subphillybeef&cheese|1
+2020-06-13 14:25:03,500:DEBUG:6368:needed_functions_for_injecting:FOUND steakcheese.png
+2020-06-13 14:25:04,260:DEBUG:6368:needed_functions_for_injecting:CLICKED ON steakcheese.png
+2020-06-13 14:25:04,265:DEBUG:6368:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-13 14:25:04,426:DEBUG:6368:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-13 14:25:05,164:DEBUG:6368:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-13 14:25:05,167:DEBUG:6368:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-13 14:25:05,700:DEBUG:6368:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-13 14:25:06,441:DEBUG:6368:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-13 14:25:06,446:DEBUG:6368:inject_code:YOUR ITEM IS cookies(3stück)|1
+2020-06-13 14:25:07,009:DEBUG:6368:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-13 14:25:07,749:DEBUG:6368:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-13 14:25:15,825:ERROR:6368:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-13 14:25:15,828:INFO:6368:inject_code:#11;DATENBANK 15.5;KASSE 11.57; Paid
+2020-06-13 14:25:15,831:INFO:6368:inject_code:Total Diff: 0;COD
+2020-06-13 14:25:15,832:INFO:6368:inject_code:Total Diff: 9.06;PAID
+2020-06-13 14:25:15,832:INFO:6368:inject_code:#######ORDER COMPLETED##########

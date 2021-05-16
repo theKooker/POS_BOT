@@ -1,0 +1,42 @@
+2020-08-04 18:51:50,700:DEBUG:15476:http_code:https://staging.everesto.net/api/user/login
+2020-08-04 18:58:21,108:DEBUG:14172:http_code:https://staging.everesto.net/api/user/login
+2020-08-04 18:59:00,068:DEBUG:14884:http_code:https://staging.everesto.net/api/user/login
+2020-08-04 19:00:40,144:INFO:14884:inject_code:47
+2020-08-04 19:00:40,463:INFO:14884:inject_code:ORDER IRE4EEA996-BCD1-6C70-513C-88C6C62FA96E
+2020-08-04 19:00:41,665:DEBUG:14884:inject_code:sub30cm|1
+2020-08-04 19:00:41,667:DEBUG:14884:inject_code:subchickenbreast|1
+2020-08-04 19:00:41,667:DEBUG:14884:inject_code:mitdoritosnachocheese|1
+2020-08-04 19:00:41,668:DEBUG:14884:inject_code:fuzeteapfirsich0,4l|1
+2020-08-04 19:00:41,668:DEBUG:14884:inject_code:sub30cm|1
+2020-08-04 19:00:41,670:DEBUG:14884:inject_code:subchickenbreast|1
+2020-08-04 19:00:41,670:DEBUG:14884:inject_code:mitdoritossweetchillipepper|1
+2020-08-04 19:00:41,671:DEBUG:14884:inject_code:fuzeteapfirsich0,4l|1
+2020-08-04 19:00:41,671:DEBUG:14884:inject_code:YOUR ITEM IS sub30cm|1
+2020-08-04 19:00:41,983:DEBUG:14884:needed_functions_for_injecting:FOUND footlang.png
+2020-08-04 19:00:42,720:DEBUG:14884:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-04 19:00:42,720:DEBUG:14884:inject_code:YOUR ITEM IS subchickenbreast|1
+2020-08-04 19:02:57,315:DEBUG:10608:http_code:https://staging.everesto.net/api/user/login
+2020-08-04 19:04:18,319:INFO:10608:inject_code:48
+2020-08-04 19:04:18,601:INFO:10608:inject_code:ORDER IR95217ECE-5364-754E-E39D-40692C68D2B3
+2020-08-04 19:04:18,690:DEBUG:10608:inject_code:15-cm-sub|1
+2020-08-04 19:04:18,690:DEBUG:10608:inject_code:subsalami|1
+2020-08-04 19:04:18,690:DEBUG:10608:inject_code:cookierainbowmitm&m's|1
+2020-08-04 19:04:18,691:DEBUG:10608:inject_code:cookies(3stück)|1
+2020-08-04 19:04:18,693:DEBUG:10608:inject_code:30-cm-sub|1
+2020-08-04 19:04:18,693:DEBUG:10608:inject_code:subtuna|1
+2020-08-04 19:04:18,694:DEBUG:10608:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-08-04 19:04:18,878:DEBUG:10608:needed_functions_for_injecting:FOUND sixinch.png
+2020-08-04 19:04:19,614:DEBUG:10608:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-08-04 19:04:19,615:DEBUG:10608:inject_code:YOUR ITEM IS subsalami|1
+2020-08-04 19:04:20,161:DEBUG:10608:needed_functions_for_injecting:FOUND salami.png
+2020-08-04 19:04:21,036:DEBUG:10608:needed_functions_for_injecting:CLICKED ON salami.png
+2020-08-04 19:04:21,038:DEBUG:10608:inject_code:YOUR ITEM IS cookierainbowmitm&m's|1
+2020-08-04 19:04:21,085:DEBUG:10608:inject_code:YOUR ITEM IS cookies(3stück)|1
+2020-08-04 19:04:22,200:DEBUG:10608:needed_functions_for_injecting:FOUND 3cookies.png
+2020-08-04 19:04:22,934:DEBUG:10608:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-08-04 19:04:22,936:DEBUG:10608:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-08-04 19:04:23,188:DEBUG:10608:needed_functions_for_injecting:FOUND footlang.png
+2020-08-04 19:04:23,924:DEBUG:10608:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-08-04 19:04:23,924:DEBUG:10608:inject_code:YOUR ITEM IS subtuna|1
+2020-08-04 19:04:24,605:DEBUG:10608:needed_functions_for_injecting:FOUND tuna.png
+2020-08-04 19:04:25,339:DEBUG:10608:needed_functions_for_injecting:CLICKED ON tuna.png

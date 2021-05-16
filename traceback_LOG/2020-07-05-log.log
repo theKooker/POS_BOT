@@ -1,0 +1,92 @@
+2020-07-05 22:26:50,766:DEBUG:8208:http_code:https://dev.everesto.net/api/user/login
+2020-07-05 22:26:55,923:ERROR:8208:http_code:<urlopen error [Errno 1] Illegal state exception>
+2020-07-05 22:26:55,924:DEBUG:8208:http_code:https://dev.everesto.net/api/user/login
+2020-07-05 22:27:39,188:INFO:8208:inject_code:1454
+2020-07-05 22:27:39,411:INFO:8208:inject_code:ORDER IR7C594E74-BC33-D691-7E29-020F50F8DD8D
+2020-07-05 22:27:40,161:DEBUG:8208:inject_code:wrapchickenbreast|1
+2020-07-05 22:27:40,163:DEBUG:8208:inject_code:mitbacon,extra|1
+2020-07-05 22:27:40,164:DEBUG:8208:inject_code:viomedium0,5l|1
+2020-07-05 22:27:40,164:DEBUG:8208:inject_code:salatturkey&ham|1
+2020-07-05 22:27:40,164:DEBUG:8208:inject_code:mitbacon,extra|1
+2020-07-05 22:27:40,164:DEBUG:8208:inject_code:mitmontereyjackscheibenk„§se,extra|1
+2020-07-05 22:27:40,165:DEBUG:8208:inject_code:mitcookiechocolatechip|1
+2020-07-05 22:27:40,165:DEBUG:8208:inject_code:viomedium0,5l|1
+2020-07-05 22:27:40,167:DEBUG:8208:inject_code:chickencaesarwrap|1
+2020-07-05 22:27:40,167:DEBUG:8208:inject_code:chillichickenwrap|1
+2020-07-05 22:27:40,167:DEBUG:8208:inject_code:wrapchickenbreast|1
+2020-07-05 22:27:40,168:DEBUG:8208:inject_code:mitbacon,extra|1
+2020-07-05 22:27:40,170:DEBUG:8208:inject_code:YOUR ITEM IS wrapchickenbreast|1
+2020-07-05 22:27:40,302:DEBUG:8208:needed_functions_for_injecting:FOUND wrap.png
+2020-07-05 22:27:41,052:DEBUG:8208:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-07-05 22:27:41,578:DEBUG:8208:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-07-05 22:27:42,315:DEBUG:8208:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-07-05 22:27:42,318:DEBUG:8208:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-07-05 22:27:42,894:DEBUG:8208:needed_functions_for_injecting:FOUND extrabacon.png
+2020-07-05 22:27:43,632:DEBUG:8208:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-07-05 22:27:43,634:DEBUG:8208:inject_code:YOUR ITEM IS viomedium0,5l|1
+2020-07-05 22:27:43,823:DEBUG:8208:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-07-05 22:27:44,559:DEBUG:8208:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-07-05 22:27:44,561:DEBUG:8208:inject_code:YOUR ITEM IS salatturkey&ham|1
+2020-07-05 22:27:44,719:DEBUG:8208:needed_functions_for_injecting:FOUND salat.png
+2020-07-05 22:27:45,460:DEBUG:8208:needed_functions_for_injecting:CLICKED ON salat.png
+2020-07-05 22:27:45,982:DEBUG:8208:needed_functions_for_injecting:FOUND turkey.png
+2020-07-05 22:27:46,720:DEBUG:8208:needed_functions_for_injecting:CLICKED ON turkey.png
+2020-07-05 22:27:46,723:DEBUG:8208:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-07-05 22:27:47,266:DEBUG:8208:needed_functions_for_injecting:FOUND extrabacon.png
+2020-07-05 22:27:48,002:DEBUG:8208:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-07-05 22:27:48,005:DEBUG:8208:inject_code:YOUR ITEM IS mitmontereyjackscheibenk„§se,extra|1
+2020-07-05 22:27:48,158:DEBUG:8208:needed_functions_for_injecting:FOUND kase.png
+2020-07-05 22:27:48,898:DEBUG:8208:needed_functions_for_injecting:CLICKED ON kase.png
+2020-07-05 22:27:48,901:DEBUG:8208:inject_code:YOUR ITEM IS mitcookiechocolatechip|1
+2020-07-05 22:27:49,088:DEBUG:8208:needed_functions_for_injecting:FOUND cookie.png
+2020-07-05 22:27:49,844:DEBUG:8208:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-07-05 22:27:49,849:DEBUG:8208:inject_code:YOUR ITEM IS viomedium0,5l|1
+2020-07-05 22:27:49,917:DEBUG:8208:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-07-05 22:27:50,654:DEBUG:8208:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-07-05 22:27:50,654:DEBUG:8208:inject_code:YOUR ITEM IS chickencaesarwrap|1
+2020-07-05 22:27:50,838:DEBUG:8208:needed_functions_for_injecting:FOUND signaturewrap.png
+2020-07-05 22:27:51,573:DEBUG:8208:needed_functions_for_injecting:CLICKED ON signaturewrap.png
+2020-07-05 22:27:52,099:DEBUG:8208:needed_functions_for_injecting:FOUND chickencesar.png
+2020-07-05 22:27:52,835:DEBUG:8208:needed_functions_for_injecting:CLICKED ON chickencesar.png
+2020-07-05 22:27:52,836:DEBUG:8208:inject_code:YOUR ITEM IS chillichickenwrap|1
+2020-07-05 22:27:53,026:DEBUG:8208:needed_functions_for_injecting:FOUND signaturewrap.png
+2020-07-05 22:27:53,765:DEBUG:8208:needed_functions_for_injecting:CLICKED ON signaturewrap.png
+2020-07-05 22:27:54,279:DEBUG:8208:needed_functions_for_injecting:FOUND chilichicken.png
+2020-07-05 22:27:55,017:DEBUG:8208:needed_functions_for_injecting:CLICKED ON chilichicken.png
+2020-07-05 22:27:55,020:DEBUG:8208:inject_code:YOUR ITEM IS wrapchickenbreast|1
+2020-07-05 22:27:55,184:DEBUG:8208:needed_functions_for_injecting:FOUND wrap.png
+2020-07-05 22:27:55,923:DEBUG:8208:needed_functions_for_injecting:CLICKED ON wrap.png
+2020-07-05 22:27:56,454:DEBUG:8208:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-07-05 22:27:57,193:DEBUG:8208:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-07-05 22:27:57,194:DEBUG:8208:inject_code:YOUR ITEM IS mitbacon,extra|1
+2020-07-05 22:27:57,762:DEBUG:8208:needed_functions_for_injecting:FOUND extrabacon.png
+2020-07-05 22:27:58,503:DEBUG:8208:needed_functions_for_injecting:CLICKED ON extrabacon.png
+2020-07-05 22:28:10,556:ERROR:8208:inject_code:'unicode' object has no attribute 'sleep'
+2020-07-05 22:28:10,584:DEBUG:8208:http_code:https://dev.everesto.net/api/user/login
+2020-07-05 22:28:11,161:INFO:8208:inject_code:#63;DATENBANK 42.9;KASSE 28.44; Paid
+2020-07-05 22:28:11,163:INFO:8208:inject_code:Total Diff: 0;COD
+2020-07-05 22:28:11,164:INFO:8208:inject_code:Total Diff: 14.46;PAID
+2020-07-05 22:28:11,165:INFO:8208:inject_code:#######ORDER COMPLETED##########
+2020-07-05 22:28:20,109:DEBUG:8208:http_code:https://dev.everesto.net/api/user/login
+2020-07-05 23:05:46,460:INFO:8208:inject_code:1453
+2020-06-09 16:34:12,013:INFO:8208:inject_code:ORDER IRAEEE019E-7DC2-3FF2-BACC-4A6555AB2D23
+2020-06-09 16:34:12,411:DEBUG:8208:inject_code:sub15cm|1
+2020-06-09 16:34:12,411:DEBUG:8208:inject_code:subphillybeef&cheese|1
+2020-06-09 16:34:12,411:DEBUG:8208:inject_code:mitguacamole,extra|1
+2020-06-09 16:34:12,413:DEBUG:8208:inject_code:mitcookiedoublechocolatechip|1
+2020-06-09 16:34:12,413:DEBUG:8208:inject_code:cocacola0,5l|1
+2020-06-09 16:34:12,414:DEBUG:8208:inject_code:cookies(3st√ºck)|1
+2020-06-09 16:34:12,414:DEBUG:8208:inject_code:15-cm-sub|1
+2020-06-09 16:34:12,415:DEBUG:8208:inject_code:subchickenteriyaki|1
+2020-06-09 16:34:12,417:DEBUG:8208:inject_code:mitbacon,extra|1
+2020-06-09 16:34:12,417:DEBUG:8208:inject_code:wrapspicyveganpatty|1
+2020-06-09 16:34:12,417:DEBUG:8208:inject_code:mitguacamole,extra|1
+2020-06-09 16:34:12,417:DEBUG:8208:inject_code:15-cm-sub|1
+2020-06-09 16:34:12,418:DEBUG:8208:inject_code:subchickenbreast|1
+2020-06-09 16:34:12,418:DEBUG:8208:inject_code:30-cm-sub|1
+2020-06-09 16:34:12,420:DEBUG:8208:inject_code:subchickenteriyaki|1
+2020-06-09 16:34:12,420:DEBUG:8208:inject_code:30-cm-sub|1
+2020-06-09 16:34:12,421:DEBUG:8208:inject_code:subtuna|1
+2020-06-09 16:34:12,421:DEBUG:8208:inject_code:30-cm-sub|1
+2020-06-09 16:34:12,421:DEBUG:8208:inject_code:subveggiedelite|1
+2020-06-09 16:34:12,421:DEBUG:8208:inject_code:YOUR ITEM IS sub15cm|1

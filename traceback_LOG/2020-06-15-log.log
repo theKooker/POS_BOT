@@ -1,0 +1,184 @@
+2020-06-15 12:21:48,096:DEBUG:6364:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:21:55,579:DEBUG:6364:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:24:52,463:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:24:56,239:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:24:56,243:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:24:57,293:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:24:57,296:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:01,532:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:01,535:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:02,618:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:02,619:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:03,562:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:04,759:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:06,312:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:06,313:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:07,211:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:07,213:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:08,190:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:08,193:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:09,137:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:09,138:DEBUG:2148:http_code:http://dev.everesto.net/api/user/login
+2020-06-15 12:25:10,122:ERROR:2148:http_code:HTTP Error 405: Method Not Allowed
+2020-06-15 12:25:38,615:DEBUG:3344:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:25:45,983:DEBUG:3344:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:28:50,460:DEBUG:3344:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:31:47,115:DEBUG:2148:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:31:54,631:DEBUG:2148:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:33:03,078:DEBUG:7236:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:33:11,321:DEBUG:7236:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:34:59,303:DEBUG:6600:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 12:35:07,055:DEBUG:6600:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:49:01,010:INFO:6600:inject_code:ORDER IRA0B920D9-9AED-8C83-1ED2-14E0BF0F6B7B
+2020-06-15 11:49:01,520:DEBUG:6600:inject_code:sub30cm|1
+2020-06-15 11:49:01,520:DEBUG:6600:inject_code:subbbqrib|1
+2020-06-15 11:49:01,522:DEBUG:6600:inject_code:sprite0,5l|1
+2020-06-15 11:49:01,523:DEBUG:6600:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-15 11:49:01,709:DEBUG:6600:needed_functions_for_injecting:FOUND footlang.png
+2020-06-15 11:49:02,444:DEBUG:6600:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-15 11:49:02,446:DEBUG:6600:inject_code:YOUR ITEM IS subbbqrib|1
+2020-06-15 11:49:02,989:DEBUG:6600:needed_functions_for_injecting:FOUND bbqrib.png
+2020-06-15 11:49:03,726:DEBUG:6600:needed_functions_for_injecting:CLICKED ON bbqrib.png
+2020-06-15 11:49:03,727:DEBUG:6600:inject_code:YOUR ITEM IS sprite0,5l|1
+2020-06-15 11:49:04,250:DEBUG:6600:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-15 11:49:04,983:DEBUG:6600:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-15 11:49:13,263:ERROR:6600:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-15 11:49:13,299:DEBUG:6600:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:49:20,533:INFO:6600:inject_code:#5;DATENBANK 12.15;KASSE 9.78; Paid
+2020-06-15 11:49:20,535:INFO:6600:inject_code:Total Diff: 0;COD
+2020-06-15 11:49:20,536:INFO:6600:inject_code:Total Diff: 2.37;PAID
+2020-06-15 11:49:20,536:INFO:6600:inject_code:#######ORDER COMPLETED##########
+2020-06-15 11:49:29,121:DEBUG:6600:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:51:57,948:DEBUG:7292:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:52:05,737:DEBUG:7292:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:36:42,010:INFO:7292:inject_code:ORDER IR896962EB-8FDD-659A-C002-0382D8E1D755
+2020-06-15 11:36:42,016:DEBUG:7292:inject_code:30-cm-sub|1
+2020-06-15 11:36:42,016:DEBUG:7292:inject_code:subchickenteriyaki|1
+2020-06-15 11:36:42,016:DEBUG:7292:inject_code:30-cm-sub|1
+2020-06-15 11:36:42,017:DEBUG:7292:inject_code:subchickenfajita|1
+2020-06-15 11:36:42,019:DEBUG:7292:inject_code:cookies(3st√ºck)|1
+2020-06-15 11:36:42,019:DEBUG:7292:inject_code:sprite0,5l|1
+2020-06-15 11:36:42,020:DEBUG:7292:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-15 11:36:42,239:DEBUG:7292:needed_functions_for_injecting:FOUND footlang.png
+2020-06-15 11:36:42,976:DEBUG:7292:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-15 11:36:42,977:DEBUG:7292:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-15 11:36:43,578:DEBUG:7292:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-15 11:36:44,318:DEBUG:7292:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-15 11:36:44,322:DEBUG:7292:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-15 11:36:44,592:DEBUG:7292:needed_functions_for_injecting:FOUND footlang.png
+2020-06-15 11:36:45,332:DEBUG:7292:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-15 11:36:45,334:DEBUG:7292:inject_code:YOUR ITEM IS subchickenfajita|1
+2020-06-15 11:36:45,862:DEBUG:7292:needed_functions_for_injecting:FOUND chickenfajita.png
+2020-06-15 11:36:46,601:DEBUG:7292:needed_functions_for_injecting:CLICKED ON chickenfajita.png
+2020-06-15 11:36:46,601:DEBUG:7292:inject_code:YOUR ITEM IS cookies(3st√ºck)|1
+2020-06-15 11:36:47,161:DEBUG:7292:needed_functions_for_injecting:FOUND 3cookies.png
+2020-06-15 11:36:47,898:DEBUG:7292:needed_functions_for_injecting:CLICKED ON 3cookies.png
+2020-06-15 11:36:47,898:DEBUG:7292:inject_code:YOUR ITEM IS sprite0,5l|1
+2020-06-15 11:36:48,128:DEBUG:7292:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-15 11:36:48,868:DEBUG:7292:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-15 11:36:57,082:ERROR:7292:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-15 11:36:57,108:DEBUG:7292:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 11:37:04,059:INFO:7292:inject_code:#2;DATENBANK 24.85;KASSE 19.66; Paid
+2020-06-14 20:43:21,012:INFO:7292:inject_code:ORDER IRA817A466-45C3-4477-CCA1-6B7A87F56D27
+2020-06-14 20:43:21,549:DEBUG:7292:inject_code:sub30cm|1
+2020-06-14 20:43:21,551:DEBUG:7292:inject_code:subchickenteriyaki|1
+2020-06-14 20:43:21,552:DEBUG:7292:inject_code:mezzomix0,5l|1
+2020-06-14 20:43:21,552:DEBUG:7292:inject_code:YOUR ITEM IS sub30cm|1
+2020-06-14 20:43:21,756:DEBUG:7292:needed_functions_for_injecting:FOUND footlang.png
+2020-06-14 20:43:22,494:DEBUG:7292:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-14 20:43:22,496:DEBUG:7292:inject_code:YOUR ITEM IS subchickenteriyaki|1
+2020-06-14 20:43:23,020:DEBUG:7292:needed_functions_for_injecting:FOUND chickenteriyaki.png
+2020-06-14 20:43:23,759:DEBUG:7292:needed_functions_for_injecting:CLICKED ON chickenteriyaki.png
+2020-06-14 20:43:23,760:DEBUG:7292:inject_code:YOUR ITEM IS mezzomix0,5l|1
+2020-06-14 20:43:24,319:DEBUG:7292:needed_functions_for_injecting:FOUND flaschengetrank.png
+2020-06-14 20:43:25,059:DEBUG:7292:needed_functions_for_injecting:CLICKED ON flaschengetrank.png
+2020-06-14 20:43:32,987:ERROR:7292:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-14 20:43:33,012:DEBUG:7292:http_code:https://dev.everesto.net/api/user/login
+2020-06-14 20:43:40,286:INFO:7292:inject_code:#192;DATENBANK 10.14;KASSE 9.78; Paid
+2020-06-14 20:43:40,288:INFO:7292:inject_code:Total Diff: 0;COD
+2020-06-14 20:43:40,289:INFO:7292:inject_code:Total Diff: 5.55;PAID
+2020-06-14 20:43:40,289:INFO:7292:inject_code:#######ORDER COMPLETED##########
+2020-06-14 20:43:46,854:DEBUG:7292:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:31:40,368:DEBUG:8144:http_code:https://staging.everesto.net/api/user/login
+2020-06-15 05:35:46,555:DEBUG:6784:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:38:15,345:DEBUG:7628:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:40:03,779:DEBUG:6272:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:41:06,680:DEBUG:6012:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:43:34,811:DEBUG:5860:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:44:44,546:DEBUG:3408:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:45:36,806:INFO:3408:inject_code:1554
+2020-06-15 05:45:37,032:INFO:3408:inject_code:ORDER IR8281165C-BD88-4C59-ABFB-BAEA08912F87
+2020-06-15 05:45:37,177:DEBUG:3408:inject_code:30-cm-sub|1
+2020-06-15 05:45:37,178:DEBUG:3408:inject_code:subchickenbreast|1
+2020-06-15 05:45:37,178:DEBUG:3408:inject_code:mitfrischk„§se,extra|1
+2020-06-15 05:45:37,180:DEBUG:3408:inject_code:cookiemacadamianut|1
+2020-06-15 05:45:37,180:DEBUG:3408:inject_code:YOUR ITEM IS 30-cm-sub|1
+2020-06-15 05:45:37,388:DEBUG:3408:needed_functions_for_injecting:FOUND footlang.png
+2020-06-15 05:45:38,127:DEBUG:3408:needed_functions_for_injecting:CLICKED ON footlang.png
+2020-06-15 05:45:38,130:DEBUG:3408:inject_code:YOUR ITEM IS subchickenbreast|1
+2020-06-15 05:45:38,809:DEBUG:3408:needed_functions_for_injecting:FOUND roastedchicken.png
+2020-06-15 05:45:39,545:DEBUG:3408:needed_functions_for_injecting:CLICKED ON roastedchicken.png
+2020-06-15 05:45:39,546:DEBUG:3408:inject_code:YOUR ITEM IS mitfrischk„§se,extra|1
+2020-06-15 05:45:39,562:DEBUG:3408:inject_code:YOUR ITEM IS cookiemacadamianut|1
+2020-06-15 05:45:40,749:DEBUG:3408:needed_functions_for_injecting:FOUND cookie.png
+2020-06-15 05:45:41,490:DEBUG:3408:needed_functions_for_injecting:CLICKED ON cookie.png
+2020-06-15 05:45:57,858:ERROR:3408:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-15 05:45:57,884:DEBUG:3408:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:45:58,457:INFO:3408:inject_code:#5;DATENBANK 11.3;KASSE 7.78; Paid
+2020-06-15 05:45:58,463:INFO:3408:inject_code:ORDER IRDF92EB6A-2636-3866-729F-0093CB12C2AD
+2020-06-15 05:45:58,467:DEBUG:3408:inject_code:15-cm-sub|1
+2020-06-15 05:45:58,470:DEBUG:3408:inject_code:subtuna|1
+2020-06-15 05:45:58,470:DEBUG:3408:inject_code:15-cm-sub|1
+2020-06-15 05:45:58,471:DEBUG:3408:inject_code:subomelette|1
+2020-06-15 05:45:58,473:DEBUG:3408:inject_code:layscheese&onion|1
+2020-06-15 05:45:58,473:DEBUG:3408:inject_code:layssalt&vinegar|1
+2020-06-15 05:45:58,473:DEBUG:3408:inject_code:laysbbq|1
+2020-06-15 05:45:58,476:DEBUG:3408:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-15 05:45:58,665:DEBUG:3408:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-15 05:45:59,403:DEBUG:3408:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-15 05:45:59,407:DEBUG:3408:inject_code:YOUR ITEM IS subtuna|1
+2020-06-15 05:46:00,038:DEBUG:3408:needed_functions_for_injecting:FOUND tuna.png
+2020-06-15 05:46:00,803:DEBUG:3408:needed_functions_for_injecting:CLICKED ON tuna.png
+2020-06-15 05:46:00,806:DEBUG:3408:inject_code:YOUR ITEM IS 15-cm-sub|1
+2020-06-15 05:46:01,005:DEBUG:3408:needed_functions_for_injecting:FOUND sixinch.png
+2020-06-15 05:46:01,756:DEBUG:3408:needed_functions_for_injecting:CLICKED ON sixinch.png
+2020-06-15 05:46:01,759:DEBUG:3408:inject_code:YOUR ITEM IS subomelette|1
+2020-06-15 05:46:02,344:DEBUG:3408:needed_functions_for_injecting:FOUND omelettesub.png
+2020-06-15 05:46:03,078:DEBUG:3408:needed_functions_for_injecting:CLICKED ON omelettesub.png
+2020-06-15 05:46:03,079:DEBUG:3408:inject_code:YOUR ITEM IS layscheese&onion|1
+2020-06-15 05:46:03,746:DEBUG:3408:needed_functions_for_injecting:FOUND chips.png
+2020-06-15 05:46:04,500:DEBUG:3408:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-15 05:46:04,500:DEBUG:3408:inject_code:YOUR ITEM IS layssalt&vinegar|1
+2020-06-15 05:46:04,585:DEBUG:3408:needed_functions_for_injecting:FOUND chips.png
+2020-06-15 05:46:05,375:DEBUG:3408:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-15 05:46:05,375:DEBUG:3408:inject_code:YOUR ITEM IS laysbbq|1
+2020-06-15 05:46:05,490:DEBUG:3408:needed_functions_for_injecting:FOUND chips.png
+2020-06-15 05:46:06,240:DEBUG:3408:needed_functions_for_injecting:CLICKED ON chips.png
+2020-06-15 05:46:15,194:ERROR:3408:inject_code:'unicode' object has no attribute 'sleep'
+2020-06-15 05:46:15,220:DEBUG:3408:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:46:15,772:INFO:3408:inject_code:#3;DATENBANK 15.5;KASSE 11.55; Paid
+2020-06-15 05:46:15,773:INFO:3408:inject_code:Total Diff: 0;COD
+2020-06-15 05:46:15,773:INFO:3408:inject_code:Total Diff: 7.47;PAID
+2020-06-15 05:46:15,775:INFO:3408:inject_code:#######ORDER COMPLETED##########
+2020-06-15 05:46:31,278:DEBUG:3408:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:47:49,459:DEBUG:7320:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:51:19,756:DEBUG:7792:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:53:15,651:DEBUG:5924:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:55:48,525:DEBUG:6256:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 05:56:55,161:DEBUG:736:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:07:01,282:DEBUG:7304:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:07:55,378:DEBUG:6996:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:08:47,640:DEBUG:8180:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:10:05,844:DEBUG:8180:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:12:42,201:DEBUG:6588:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:13:42,671:DEBUG:5772:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:26:57,539:DEBUG:5032:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:28:02,809:DEBUG:5976:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:28:16,427:ERROR:5976:main:setIcon(): expected 1 args; got 0
+2020-06-15 06:29:23,469:DEBUG:5860:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 06:29:38,367:ERROR:5860:main:'NoneType' object has no attribute 'setBackground'
+2020-06-15 06:30:48,278:DEBUG:2920:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 08:09:16,053:DEBUG:1736:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 08:09:29,368:ERROR:1736:http_code:<urlopen error [Errno 1] handshake timed out>
+2020-06-15 08:09:29,369:DEBUG:1736:http_code:https://dev.everesto.net/api/user/login
+2020-06-15 08:10:15,638:DEBUG:3172:http_code:https://dev.everesto.net/api/user/login
